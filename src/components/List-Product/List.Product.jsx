@@ -1,7 +1,19 @@
 import React from "react";
+import { useSelector } from "react-redux";
 import "../../styles/listProduct.scss";
+import Product from "./Product";
 
 export default function ListProduct() {
+  const listMobileAPI = useSelector(
+    (state) => state.ListMobileReducer.listMobile
+  );
+  console.log("listMobile", listMobileAPI);
+
+  const renderProduct = () => {
+    return listMobileAPI.slice(1, 9).map((sp, index) => {
+      return <Product key={index} spAPI={sp} />;
+    });
+  };
   return (
     <section className="listProduct">
       <div className="listProduct__content">
@@ -17,15 +29,7 @@ export default function ListProduct() {
             </div>
             <div className="SP__content">
               <div className="listProduct__content--listSP">
-                <a href="" className="listSP__content">
-                  <div className="listSP__content--img">
-                    <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320" />
-                  </div>
-                  <div className="listSP__content--text">
-                    <p>Macbook Pro</p>
-                    <p className="link-text">24 sản phẩm</p>
-                  </div>
-                </a>
+                {renderProduct()}
               </div>
             </div>
           </div>
