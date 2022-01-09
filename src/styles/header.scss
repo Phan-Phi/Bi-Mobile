@@ -1,0 +1,123 @@
+header {
+    width: 100%;
+    background-color: white;
+
+    section {
+        width: 1200px;
+        margin: 0 auto;
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .header__logo {
+                width: 180px;
+            }
+
+            .header__input {
+                position: relative;
+
+                input {
+                    width: 580px;
+                    height: 40px;
+                    color: #999999;
+                    border-radius: 5px;
+                    border: 1px solid #e5e5e5;
+
+
+                    &[type="text"] {
+                        padding: 6px 12px;
+                        font-size: 16px;
+                    }
+                }
+
+                p {
+                    position: absolute;
+                    top: 16%;
+                    right: 3%;
+
+                    .fa-search {
+                        font-size: 28px;
+                        cursor: pointer;
+                    }
+
+                    &:hover {
+                        color: #d8351a;
+                    }
+                }
+            }
+
+
+
+            .header__footer {
+                display: flex;
+                align-items: center;
+
+                .header__phone {
+                    display: flex;
+                    align-items: center;
+
+                    .fa-phone-volume {
+                        font-size: 30px;
+                        padding-right: 5px;
+                    }
+
+                    p {
+                        color: black;
+                        font-size: 14px;
+                        display: inline-block;
+                        line-height: 1.3;
+                        text-align: left;
+
+                        span {
+                            color: #e00;
+                            font-size: 15px;
+                            font-weight: 700;
+                            display: inline-block;
+                            line-height: 1.3;
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+
+            .header__taiKhoan {
+                margin-left: 15px;
+
+                p {
+                    i {
+                        padding-right: 5px;
+                        font-size: 24px;
+                    }
+                }
+            }
+
+            .header__gioHang {
+                position: relative;
+                padding: 10px 0;
+                margin-left: 15px;
+
+                p {
+                    i {
+                        padding-right: 5px;
+                        font-size: 24px;
+                    }
+                }
+
+                div {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    background-color: #ffa400;
+                    border-radius: 50%;
+
+                    span {
+                        padding: 5px;
+                    }
+                }
+            }
+        }
+
+    }
+}
