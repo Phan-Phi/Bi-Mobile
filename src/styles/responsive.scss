@@ -1,4 +1,4 @@
-@media (min-width: 1210px) {
+@media (min-width: 1200px) {
     .main-full {
         width: 100%;
 
@@ -16,9 +16,11 @@
             max-width: 1200px;
         }
 
-        // footer {
-        //     width: 1200px;
-        // }
+        footer {
+            .footer__top {
+                width: 1200px;
+            }
+        }
     }
 
 
