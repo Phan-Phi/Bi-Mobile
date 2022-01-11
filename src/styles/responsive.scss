@@ -1,0 +1,45 @@
+@media (min-width: 1210px) {
+    .main-full {
+        width: 100%;
+
+        main {
+            max-width: 1200px;
+        }
+
+        header {
+            section {
+                max-width: 1200px;
+            }
+        }
+
+        .NavHeroBanner {
+            max-width: 1200px;
+        }
+
+        // footer {
+        //     width: 1200px;
+        // }
+    }
+
+
+}
+
+@media (min-width: 992px) {
+    main {
+        max-width: 960px;
+    }
+
+    header {
+        section {
+            max-width: 960px;
+        }
+    }
+
+    .NavHeroBanner {
+        max-width: 960px;
+    }
+
+    // footer {
+    //     width: 960px;
+    // }
+}
