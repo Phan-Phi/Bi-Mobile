@@ -14,10 +14,13 @@
                 height: 100%;
                 display: grid;
                 grid-template-columns: 20% 80%;
+                box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.096);
 
                 .shadow {
+                    box-shadow: none;
+
                     &:hover {
-                        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
                         z-index: 2;
                     }
                 }
@@ -75,7 +78,7 @@
                             color: black;
 
                             &:hover {
-                                box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
                                 z-index: 2;
                             }
 

@@ -6,11 +6,14 @@ export default function Header() {
     <header>
       <section>
         <div className="header">
-          <img
-            src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/logo.png?1641577866148"
-            alt="logo"
-            className="header__logo"
-          />
+          <a href="/">
+            <img
+              src="./img/BiMobile-logo-01.png"
+              alt="logo"
+              className="header__logo"
+            />
+          </a>
+
           <div className="header__input">
             <input type="text" placeholder="Bạn cần tìm gì?" />
             <p>

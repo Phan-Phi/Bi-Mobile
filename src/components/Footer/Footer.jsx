@@ -124,6 +124,29 @@ export default function Footer() {
             </a>{" "}
             (8h00 - 22h30)
           </p>
+          <p className="footer__title">Kết nối với chúng tôi</p>
+          <div className="footer__bank">
+            <div className="footer__bank-item">
+              <a href="https://github.com/Phan-Phi" target="_blank">
+                <i className="fab fa-facebook-f" />
+              </a>
+            </div>
+            <div className="footer__bank-item">
+              <a href="https://github.com/Phan-Phi" target="_blank">
+                <i className="fab fa-twitter" />
+              </a>
+            </div>
+            <div className="footer__bank-item">
+              <a href="https://github.com/Phan-Phi" target="_blank">
+                <i className="fab fa-youtube" />
+              </a>
+            </div>
+            <div className="footer__bank-item">
+              <a href="https://github.com/Phan-Phi" target="_blank">
+                <i className="fab fa-instagram" />
+              </a>
+            </div>
+          </div>
         </div>
       </section>
       <section className="footer__bottom">
