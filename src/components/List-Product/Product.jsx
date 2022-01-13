@@ -9,7 +9,7 @@ export default function Product(props) {
       </div>
       <div className="listSP__content--text">
         <p>{spAPI.mauSP}</p>
-        <p className="link-text">{spAPI.soluongSP} sản phẩm</p>
+        <span className="link-text">{spAPI.soluongSP} sản phẩm</span>
       </div>
     </a>
   );

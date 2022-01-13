@@ -3,12 +3,12 @@ import { useSelector } from "react-redux";
 import { NavLink } from "react-router-dom";
 import "../../styles/macbookHome.style.scss";
 
-export default function MacbookHome() {
+export default function MacbookHome(props) {
   const arrayTongMac = useSelector(
     (state) => state.TongMacReducer.macbook.tongMac
   );
-  console.log("Macreducer", arrayTongMac);
-  console.log("Macreducer", arrayTongMac[0].chiTiet);
+  const { arrayWatch } = props;
+  // console.log("arrayTongSP", arrayWatch);
 
   const renderTongMac = () => {
     return arrayTongMac.map((sp, index) => {
@@ -19,7 +19,11 @@ export default function MacbookHome() {
               <img src={sp.chiTiet.hinhSP[0].img} />
             </div>
             <div className="products-item-text">
-              <p>{sp.chiTiet.tenSP}</p>
+              <p>
+                {sp.chiTiet.tenSP.length > 40
+                  ? sp.chiTiet.tenSP.substr(0, 40) + "..."
+                  : sp.chiTiet.tenSP}
+              </p>
               <span>{sp.chiTiet.giaSP}</span>
             </div>
             <div className="products-item-button">
@@ -31,6 +35,33 @@ export default function MacbookHome() {
       );
     });
   };
+
+  const renderWatch = () => {
+    return arrayWatch[6].danhSachSP.map((sp, index) => {
+      return (
+        <a href="" key={index}>
+          <div className="products-item ">
+            <div className="products-item-img">
+              <img src={sp.chiTiet.hinhSP[0].img} />
+            </div>
+            <div className="products-item-text">
+              <p>
+                {sp.chiTiet.tenSP.length > 45
+                  ? sp.chiTiet.tenSP.substr(0, 45) + "..."
+                  : sp.chiTiet.tenSP}
+              </p>
+              <span>{sp.chiTiet.giaSP}</span>
+            </div>
+            <div className="products-item-button">
+              <button className="chiTiet">Chi tiết</button>
+              <button className="yeuThich">Yêu thích</button>
+            </div>
+          </div>
+        </a>
+      );
+    });
+  };
+
   return (
     <Fragment>
       <section className="macbookBanner">
@@ -43,6 +74,8 @@ export default function MacbookHome() {
           </div>
         </div>
       </section>
+
+      {/* //macbook */}
       <section className="macbook">
         <div className="macbook__content">
           <div className="macbook__content-tieuDe">
@@ -72,7 +105,25 @@ export default function MacbookHome() {
           </div>
         </div>
       </section>
-      <section className="ipad"></section>
+
+      {/* //ipad */}
+      <section className="watch">
+        <div className="watch__content">
+          <div className="watch__content-tieuDe">
+            <div>
+              <NavLink to="asdasd" className="watch--tieuDe">
+                <p>Apple Watch</p>
+              </NavLink>
+              <NavLink to="asdasd" className="watch--navLink active">
+                <p>Xem tất cả</p>
+              </NavLink>
+            </div>
+          </div>
+          <div className="watch__content-products">
+            <div className="products">{renderWatch()}</div>
+          </div>
+        </div>
+      </section>
     </Fragment>
   );
 }

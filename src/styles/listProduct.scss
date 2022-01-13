@@ -82,6 +82,10 @@
                                 z-index: 2;
                             }
 
+                            &:hover .listSP__content--text>p {
+                                color: #ee0000;
+                            }
+
                             .listSP__content--img {
                                 width: 35%;
                                 height: 100%;

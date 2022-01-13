@@ -20,7 +20,7 @@ export default function ListProduct() {
         <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/feature_banner.jpg?1641577866148" />
         <div className="listProduct__content--SP">
           <div className="SP">
-            <div className="SP__content shadow">
+            <div className="SP__content ">
               <a href="" className="SP__content--NewSP">
                 <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/iphone-13-pro-610x527.jpg?v=1633663088113" />
                 <p className="link-head">iPhone 13 Series</p>

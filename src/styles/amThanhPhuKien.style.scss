@@ -1,37 +1,16 @@
-.macbookBanner {
-    width: 100%;
-    padding: 0 10px;
-    margin-bottom: 20px;
-
-    .macbookBanner__content {
-        width: 100%;
-        display: flex;
-        gap: 20px;
-
-        .content-item {
-            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
-
-            img {
-                cursor: pointer;
-                width: 100%;
-            }
-        }
-    }
-}
-
-.macbook {
+//Css cua AmThanhPhuKien
+.AmThanhPhuKien {
     width: 100%;
     margin-bottom: 20px;
     padding: 0 10px;
 
-    .macbook__content {
+    .AmThanhPhuKien__content {
         width: 100%;
-        // height: 740px;
         background-color: white;
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
         border-radius: 5px;
 
-        .macbook__content-tieuDe {
+        .AmThanhPhuKien__content-tieuDe {
 
             div {
                 border-bottom: 2px solid #ee0000;
@@ -40,8 +19,8 @@
                 justify-content: space-between;
                 align-items: center;
 
-                .macbook--tieuDe {
-                    width: 60%;
+                .AmThanhPhuKien--tieuDe {
+                    width: 50%;
                     height: 100%;
                     text-decoration: none;
                     font-size: 22px;
@@ -49,7 +28,7 @@
                     p {
                         position: relative;
                         text-align: center;
-                        width: 31%;
+                        width: 50%;
                         background-color: #ee0000;
                         color: white;
                         font-weight: 500;
@@ -71,7 +50,7 @@
                     }
                 }
 
-                .macbook--navLink {
+                .AmThanhPhuKien--navLink {
                     font-size: 16px;
                     color: black;
                     text-decoration: none;
@@ -98,179 +77,123 @@
             }
         }
 
-        .macbook__content-products {
-            .products {
-                display: grid;
-                grid-template-columns: repeat(5, 1fr);
+        .listProduct__content {
+            img {
+                width: 100%;
+                margin-bottom: 20px;
+            }
 
-                a {
-                    position: relative;
-                    color: black;
-                    text-decoration: none;
+            .listProduct__content--SP {
+                // box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.096);
 
-                    &:hover .products-item {
-                        background-color: white;
+                .SP {
+                    height: 100%;
+                    display: grid;
+                    grid-template-columns: 25% 75%;
 
-                        position: absolute;
-                        z-index: 50;
-                    }
 
-                    .products-item {
-
-                        padding: 10px;
-                        position: relative;
+                    .shadow {
+                        box-shadow: none;
 
                         &:hover {
-                            border: 1px solid #e6e6e6;
-                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+                            z-index: 2;
                         }
+                    }
 
-                        &:hover .products-item-button {
+                    .SP__content {
+                        background-color: white;
+
+                        .SP__content--NewSP {
                             display: flex;
-                        }
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
+                            border: 0.5px solid rgb(231, 231, 231);
+                            height: 100%;
+                            text-decoration: none;
+                            color: black;
 
-                        .products-item-img {
                             img {
                                 width: 100%;
-                            }
-                        }
-
-                        .products-item-text {
-                            margin-bottom: 10px;
-
-                            p {
                                 margin-bottom: 0;
-                                transition: all 0.3s;
+                            }
 
+
+                            .link-head {
                                 &:hover {
                                     color: #ee0000;
                                 }
                             }
 
-                            span {
-                                color: #006ab7;
+                            .link-text {
+                                margin-top: 5px;
+                                color: #a8a8a8;
                             }
                         }
 
-                        .products-item-button {
-                            display: none;
-                            width: 100%;
-                            gap: 7px;
+                        .listProduct__content--listSP {
+                            height: 100%;
+                            display: grid;
+                            grid-template-columns: repeat(5, 1fr);
 
-                            .chiTiet {
-                                width: 50%;
-                                padding: 3px;
-                                border-radius: 4px;
-                                border: none;
-                                color: white;
-                                background-color: #cb1c22;
+                            .listSP__content {
+                                text-align: center;
+                                width: 100%;
+                                height: 100%;
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                padding: 15px;
+                                align-items: center;
+                                text-decoration: none;
+                                border: 0.5px solid rgb(231, 231, 231);
+                                color: black;
 
                                 &:hover {
-                                    background-color: #ee0000;
+                                    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+                                    z-index: 2;
                                 }
-                            }
 
-                            .yeuThich {
-                                padding: 3px;
-                                width: 50%;
-                                border-radius: 2px;
-                                color: white;
-                                border: none;
-                                background-color: #a8a8a8;
+                                &:hover .listSP__content--text>p {
+                                    color: #ee0000;
+                                }
 
-                                &:hover {
-                                    background-color: #838383;
+                                .listSP__content--img {
+                                    width: 60%;
+                                    height: 100%;
+                                    margin-right: 5px;
+
+                                    img {
+                                        height: 100%;
+                                        width: 100%;
+                                        margin-bottom: 0;
+                                    }
+
+
+                                }
+
+                                .listSP__content--text {
+                                    width: 100%;
+                                    font-size: 15px;
+
+                                    p {
+                                        margin-bottom: 0;
+                                    }
+
+                                    .link-text {
+                                        margin-top: 5px;
+                                        color: #a8a8a8;
+                                    }
                                 }
                             }
                         }
-                    }
-                }
-
-
-            }
-        }
-    }
-}
-
-.watch {
-    width: 100%;
-    margin-bottom: 20px;
-    padding: 0 10px;
-
-    .watch__content {
-        width: 100%;
-        background-color: white;
-        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
-        border-radius: 5px;
-
-        .watch__content-tieuDe {
-
-            div {
-                border-bottom: 2px solid #ee0000;
-                height: 100%;
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-
-                .watch--tieuDe {
-                    width: 60%;
-                    height: 100%;
-                    text-decoration: none;
-                    font-size: 22px;
-
-                    p {
-                        position: relative;
-                        text-align: center;
-                        width: 31%;
-                        background-color: #ee0000;
-                        color: white;
-                        font-weight: 500;
-                        text-transform: uppercase;
-                        z-index: 1;
-                        margin-bottom: 0;
-
-                        &::after {
-                            z-index: -1;
-                            position: absolute;
-                            content: '';
-                            top: 0;
-                            bottom: 0;
-                            left: 23px;
-                            right: -23px;
-                            background-color: inherit;
-                            transform: skew(23deg);
-                        }
-                    }
-                }
-
-                .watch--navLink {
-                    font-size: 16px;
-                    color: black;
-                    text-decoration: none;
-                    transition: all 0.3s;
-
-                    &:hover {
-                        color: #ffab41;
-                    }
-
-                    p {
-                        margin-bottom: 0;
-                    }
-                }
-
-                .active {
-                    transition: all 0.3s;
-                    color: #ffab41;
-                    margin-right: 20px;
-
-                    &:hover {
-                        color: #ee0000;
                     }
                 }
             }
         }
 
-        .watch__content-products {
+        .AmThanhPhuKien__content-products {
             .products {
                 display: grid;
                 grid-template-columns: repeat(5, 1fr);
@@ -288,7 +211,7 @@
                     }
 
                     .products-item {
-
+                        // height: 100%;
                         padding: 10px;
                         position: relative;
 
@@ -302,8 +225,11 @@
                         }
 
                         .products-item-img {
+                            height: 200px;
+
                             img {
                                 width: 100%;
+                                height: 100%;
                             }
                         }
 

@@ -1023,7 +1023,7 @@ export const APIMobile = [
           tenSP: "Apple Watch Series 7 GPS 45mm viền nhôm dây cao su",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…2-3731-4f58-a13a-69f1c1d8555a.jpg?v=1637725192907",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-thep-day-thep-vang-cont-1-org.jpg?v=1640866644000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
@@ -1052,11 +1052,10 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          tenSP:
-            "Apple Watch Series 7 45mm (4G) Viền thép dây thép | Chính hãng",
+          tenSP: "Apple Watch Series 7 45mm (4G) Viền thép dây thép",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1.jpg?v=1641015024507",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1-c26ac644-63a3-4d19-935e-5459f8bd9e6e.jpg?v=1641014352000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
@@ -1088,7 +1087,7 @@ export const APIMobile = [
           tenSP: "Apple Watch Series 6 Nike | Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…ay-cao-su-xanh-cont-2-org-org.jpg?v=1641109903263",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-xanh-cont-2-org-org.jpg?v=1641109903000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
@@ -1117,11 +1116,10 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          tenSP:
-            "Apple Watch Series 3 38mm GPS viền nhôm dây cao su chính hãng",
+          tenSP: "Apple Watch Series 3 38mm GPS viền nhôm dây cao su",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…2-83a8-40b5-839b-ffc700421ead.jpg?v=1641110196330",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-12-org.jpg?v=1641110777000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
@@ -1153,7 +1151,7 @@ export const APIMobile = [
           tenSP: "Apple Watch S3 GPS Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…ao-su-trang-thumb-1-1-600x600.jpg?v=1629784844587",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s5-40mm-vien-nhom-day-cao-su-1-org-206b249f-9977-473d-be56-56ecae86cafe-e6aa7beb-ce39-4bef-aee9-33af59bd83bd.jpg?v=1640686903000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
@@ -1187,6 +1185,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/apple-watch-s6-lte-40mm-vien-thep-day-thep-01-600x600.jpg?v=1629621590657",
   },
 
+  //API AirPod
   {
     danhSachSP: [
       {
@@ -1226,7 +1225,7 @@ export const APIMobile = [
           tenSP: "Tai nghe Bluetooth AirPods 3 Apple New Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…roducts/bluetooth-airpods-3-1.jpg?v=1641213398747",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
@@ -1255,11 +1254,10 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          tenSP:
-            "ỐP ITSKINS (FRANCE) FERONIABIO TERRA DROP TEST 1.5M/3FT CHO AIRPOD PRO",
+          tenSP: "Loa thông minh Apple HomePod Mini Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…i3-spbio-blck-front-1-600x600.jpg?v=1629781739483",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-homepod-mini-1.jpg?v=1629691713000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
@@ -1281,8 +1279,8 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          giaSP: "590.000₫",
-          thuongHieu: "ITSKINS",
+          giaSP: "4.000.000₫",
+          thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
         },
       },
@@ -1357,14 +1355,1725 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/download.jpg?v=1629621694837",
   },
 
+  //API Phu Kien
   {
+    loaiPK: [
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP: "Cáp Type A - Lightning 1m Apple Chính Hãng",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "200.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "Adapter Sạc Type C 18W dùng cho iPhone/iPad Apple Chính Hãng",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "Tai nghe nhét trong EarPods Lightning Apple Chính Hãng",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "450.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "Dây sạc Apple Watch Chính Hãng",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "550.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "Bao da bàn phím Magic Keyboard iPad Pro Chính Hãng",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "6.800.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/mauhong-3-f853e02e261c4d189f81f1067073b07c-grande.jpeg?v=1629707526367",
+        thongtinPK: "Phụ kiện Apple",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/unnamed-2.jpg?v=1629703468493",
+        thongtinPK: "Phụ kiện cho Mac",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/mauden-2-99203b9287ba4ad9b3208317bd580e70-grande.jpeg?v=1629702897473",
+        thongtinPK: "Pin sạc dự phòng",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/cap-sac-nhanh-iphone-pro-va-pro-max-1581578197.jpg?v=1629702938083",
+        thongtinPK: "Dây cáp sạc",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-ava-600x600-8629f0f48c834ed0b375b624d176bb34.png?v=1629702968073",
+        thongtinPK: "Apdapter củ sạc",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/loa-bo-beoplay-a9-mk3-00.jpg?v=1629991591267",
+        thongtinPK: "Âm thanh",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/apple-airtag-viendidong-1-600x600.jpg?v=1629703253137",
+        thongtinPK: "Đồ chơi công nghệ",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/download-1375dad9-269c-4460-a75a-2142c685b36c.jpg?v=1629891337253",
+        thongtinPK: "Balo, túi xách",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/0x0.png?v=1629621710477",
+        thongtinPK: "Hyper Drive USA",
+      },
+      {
+        danhSachPK: [
+          {
+            chiTiet: {
+              tenSP:
+                "CMIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 13inh 2018-2020",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450.jpg?v=1629779030000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "320.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "CAP",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP: "ỐP CAO CẤP TOMTOC (USA) HARDSHELL SLIM CASE (B03-C01)",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-co-3.jpg?v=1629955421000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "Liên hệ",
+              thuongHieu: "Apple",
+              maSanPham: "COC18",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "MIẾNG DÁN MÀN HÌNH INNOSTYLE (USA) CRYSTAL CLEAR SCREEN PROTECTOR CHO MACBOOK PRO/AIR 16inh",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/crystal-clear-13inch-01-scaled-600x450-6064481a-9070-4d46-94ff-c5d986451703.jpg?v=1629779099000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "350.000₫",
+              thuongHieu: "ITSKINS",
+              maSanPham: "TN-Lightning",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "SẠC NHANH INNOSTYLE GOMAX PD 49.5W (1 USB-C PD & 1 USB A QUALCOMM QC3.0 )",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/gomax-1-600x389.png?v=1629722530000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "650.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+          {
+            chiTiet: {
+              tenSP:
+                "BỘ LÓT ĐỆM BÀN PHÍM RAIN DESIGN (USA) MREST – Wrist Rest & Mouse Pad",
+              hinhSP: [
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/kich-cowhite.jpg?v=1629866441000",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+                },
+                {
+                  img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+                },
+              ],
+              mauSac: [
+                { mauSP: "#d8351a" },
+                { mauSP: "#e6fa0a" },
+                { mauSP: "#000000" },
+              ],
+              dungLuong: [
+                { dungLuongSP: "128GB" },
+                { dungLuongSP: "256GB" },
+                { dungLuongSP: "512GB" },
+              ],
+              giaSP: "590.000₫",
+              thuongHieu: "Apple",
+              maSanPham: "(Đang cập nhật...)",
+            },
+          },
+        ],
+        imgPK:
+          "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/download-1.jpg?v=1629703028083",
+        thongtinPK: "Cường lực ốp lưng",
+      },
+    ],
+
     danhSachSP: [
       {
         chiTiet: {
           tenSP: "Cáp Type A - Lightning 1m Apple Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…ng-1m-apple-mque2-trang-1-org.jpg?v=1629614879297",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
@@ -1396,7 +3105,7 @@ export const APIMobile = [
           tenSP: "Adapter Sạc Type C 18W dùng cho iPhone/iPad Apple Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223927",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
@@ -1428,7 +3137,7 @@ export const APIMobile = [
           tenSP: "Tai nghe nhét trong EarPods Lightning Apple Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…g-lightning-apple-mmtn2-org-1.jpg?v=1629615085827",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
@@ -1460,7 +3169,7 @@ export const APIMobile = [
           tenSP: "Dây sạc Apple Watch Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…3286980-6662883531098637838-n.jpg?v=1629622916520",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
@@ -1492,7 +3201,7 @@ export const APIMobile = [
           tenSP: "Bao da bàn phím Magic Keyboard iPad Pro Chính Hãng",
           hinhSP: [
             {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222300",
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
             },
             {
               img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
