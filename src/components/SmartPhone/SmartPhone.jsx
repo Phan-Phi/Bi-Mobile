@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import "../../styles/SmartPhone.style.scss";
 import Slider from "react-slick";
 import { useSelector } from "react-redux";
@@ -20,7 +20,11 @@ export default function SmartPhone(props) {
                 <img src={sp.chiTiet.hinhSP[0].img} />
               </div>
               <div className="products-item-text">
-                <p>{sp.chiTiet.tenSP}</p>
+                <p>
+                  {sp.chiTiet.tenSP.length > 35
+                    ? sp.chiTiet.tenSP.substr(0, 35) + "..."
+                    : sp.chiTiet.tenSP}
+                </p>
                 <span>{sp.chiTiet.giaSP}</span>
               </div>
               <div className="products-item-button">
@@ -71,7 +75,7 @@ export default function SmartPhone(props) {
           slidesToShow: 3,
           slidesToScroll: 3,
           infinite: true,
-          dots: true,
+          dots: false,
         },
       },
       {
@@ -93,12 +97,30 @@ export default function SmartPhone(props) {
   };
 
   return (
-    <section className="SmartPhone">
-      <div className="SmartPhone__content">
-        <div className="SmartPhone__carousel">
-          <Slider {...settings}>{renderiPhoneReal()}</Slider>
+    <Fragment>
+      {/* iPhone chính hãng mới 100% LLA | VNA */}
+      <section className="SmartPhone">
+        <div className="SmartPhone__content">
+          <div className="SmartPhone__title">
+            <p>iPhone chính hãng mới 100% LLA | VNA</p>
+          </div>
+          <div className="SmartPhone__carousel">
+            <Slider {...settings}>{renderiPhoneReal()}</Slider>
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
+
+      {/* Samsung Galyxy Z | Note | S */}
+      <section className="SmartPhone">
+        <div className="SmartPhone__content">
+          <div className="SmartPhone__title">
+            <p>Samsung Galyxy Z | Note | S</p>
+          </div>
+          <div className="SmartPhone__carousel">
+            <Slider {...settings}>{renderiPhoneReal()}</Slider>
+          </div>
+        </div>
+      </section>
+    </Fragment>
   );
 }

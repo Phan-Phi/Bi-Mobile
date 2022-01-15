@@ -17,8 +17,8 @@ export default function AmThanhPhuKien(props) {
             </div>
             <div className="products-item-text">
               <p>
-                {sp.chiTiet.tenSP.length > 40
-                  ? sp.chiTiet.tenSP.substr(0, 40) + "..."
+                {sp.chiTiet.tenSP.length > 35
+                  ? sp.chiTiet.tenSP.substr(0, 35) + "..."
                   : sp.chiTiet.tenSP}
               </p>
               <span>{sp.chiTiet.giaSP}</span>

@@ -6,25 +6,68 @@
 
     .SmartPhone__content {
         width: 100%;
-        height: 300px;
-        background-color: white;
-        border-radius: 5px;
-        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+        height: 100%;
+
+
+        .SmartPhone__title {
+            border-bottom: 2px solid #ee0000;
+
+            p {
+                position: relative;
+                width: 42%;
+                margin: 0 auto;
+                text-align: center;
+                margin-bottom: 0;
+                background-color: #ee0000;
+                color: white;
+                font-size: 22px;
+                font-weight: 500;
+                border-radius: 11px 10px 0 0;
+                z-index: 5;
+
+                &::before {
+                    z-index: -1;
+                    position: absolute;
+                    content: "";
+                    background-color: #ee0000;
+                    width: 20%;
+                    top: 0;
+                    bottom: 0;
+                    left: -3px;
+                    transform: skew(-20deg);
+                }
+
+                &::after {
+                    z-index: -1;
+                    position: absolute;
+                    content: "";
+                    background-color: #ee0000;
+                    width: 20%;
+                    top: 0;
+                    bottom: 0;
+                    right: -3px;
+                    transform: skew(20deg);
+                }
+            }
+        }
 
         .SmartPhone__carousel {
             width: 100%;
-
             position: relative;
-            height: 100%;
+            height: 310px;
+            box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+            background-color: white;
+            border-radius: 0 0 5px 5px;
 
             .slick-slider {
                 .fa-chevron-left {
+                    cursor: pointer;
                     padding: 20px 10px;
                     display: block;
                     font-size: 23px;
                     position: absolute;
                     color: rgb(153, 152, 152);
-                    top: 30%;
+                    top: 35%;
                     left: 0;
                     background-color: white;
                     z-index: 1;
@@ -33,12 +76,13 @@
                 }
 
                 .fa-chevron-right {
+                    cursor: pointer;
                     padding: 20px 10px;
                     display: block;
                     font-size: 23px;
                     color: rgb(153, 152, 152);
                     position: absolute;
-                    top: 30%;
+                    top: 35%;
                     right: 0;
                     background-color: white;
                     z-index: 1;
@@ -47,7 +91,11 @@
                 }
 
                 .slick-list {
+                    height: 100%;
+
                     .slick-track {
+                        height: 100%;
+
                         width: 100%;
                         margin-left: 0;
                         margin-right: 0;
@@ -150,8 +198,6 @@
                         }
                     }
                 }
-
-
             }
         }
     }
