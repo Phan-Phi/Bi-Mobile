@@ -1,4 +1,5 @@
 export const APIMobile = [
+  //API iPhone 13 Series
   {
     danhSachSP: [
       {
@@ -198,6 +199,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
   },
 
+  // API Macbook Pro
   {
     danhSachSP: [
       {
@@ -370,6 +372,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
   },
 
+  //API Macbook Air
   {
     danhSachSP: [
       {
@@ -507,6 +510,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/thumb-airm1-1-93d871e5-035e-44da-8e88-7f05bcaea648.jpg?v=1640088297253",
   },
 
+  //API iMac - Mac Mini
   {
     danhSachSP: [
       {
@@ -678,6 +682,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/imac-24-inch-45k-retina-m1-mj93saa-600x600.jpg?v=1640088369877",
   },
 
+  //API Mac Mini
   {
     danhSachSP: [
       {
@@ -847,6 +852,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/unnamed.jpg?v=1640138820320",
   },
 
+  //API iPad
   {
     danhSachSP: [
       {
@@ -1016,6 +1022,7 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/ipad-pro-11-3rd-s-pdp-01.jpg?v=1640141563147",
   },
 
+  //API Apple Watch
   {
     danhSachSP: [
       {
@@ -3233,5 +3240,243 @@ export const APIMobile = [
     soluongSP: 5,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/mauhong-3-f853e02e261c4d189f81f1067073b07c-grande.jpeg?v=1629707526367",
+  },
+
+  //API iPhone
+  {
+    danhSachSP: [
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 13 Pro Max Chính Hãng Mới 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pro-max-sierra-blue-600x600.jpg?v=1640690551000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "31.300.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 13 Pro Chính Hãng Mới 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pro-max-sierra-blue-600x600.jpg?v=1640690551000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "29.300.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 13 Mini Chính Hãng 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pink-1-600x600.jpg?v=1640689262000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "20.800.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 13 Chính Hãng Mới 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pink-1-600x600.jpg?v=1640689262000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "23.300.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 11 Chính Hãng Mới 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/600-iphone-11-trang-xtmobile-1.jpg?v=1641236170000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "14.800.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "AIP27",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          tenSP: "Apple iPhone 11 Chính Hãng Mới 100%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/600-iphone-11-trang-xtmobile-1.jpg?v=1641236170000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "14.800.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "AIP27",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+    ],
+    mauSP: "iPhone",
+    soluongSP: 5,
+    mauIMG:
+      "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
   },
 ];
