@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import "../../styles/header.scss";
 
 export default function Header() {
@@ -6,13 +7,13 @@ export default function Header() {
     <header>
       <section>
         <div className="header">
-          <a href="/">
+          <NavLink to="/">
             <img
               src="./img/BiMobile-logo-01.png"
               alt="logo"
               className="header__logo"
             />
-          </a>
+          </NavLink>
 
           <div className="header__input">
             <input type="text" placeholder="Bạn cần tìm gì?" />

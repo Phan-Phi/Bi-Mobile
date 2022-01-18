@@ -18,7 +18,7 @@ export default function SmartPhone(props) {
     return iPhoneReal.danhSachSP.map((sp, index) => {
       return (
         <div key={index}>
-          <a href="">
+          <NavLink to={`/detail/${sp.chiTiet.idTong}`}>
             <div className="products-item ">
               <div className="products-item-img">
                 <img src={sp.chiTiet.hinhSP[0].img} />
@@ -36,7 +36,7 @@ export default function SmartPhone(props) {
                 <button className="yeuThich">Yêu thích</button>
               </div>
             </div>
-          </a>
+          </NavLink>
         </div>
       );
     });
@@ -60,8 +60,12 @@ export default function SmartPhone(props) {
                 <span>{sp.chiTiet.giaSP}</span>
               </div>
               <div className="products-item-button">
-                <button className="chiTiet">Chi tiết</button>
-                <button className="yeuThich">Yêu thích</button>
+                <NavLink to="" className="chiTiet">
+                  Chi tiết
+                </NavLink>
+                <NavLink to="" className="yeuThich">
+                  Yêu thích
+                </NavLink>
               </div>
             </div>
           </NavLink>
@@ -134,7 +138,11 @@ export default function SmartPhone(props) {
       <section className="SmartPhone">
         <div className="SmartPhone__content">
           <div className="SmartPhone__title">
-            <p>iPhone chính hãng mới 100% LLA | VNA</p>
+            <p>
+              <NavLink className="conP" to="/detail/1009">
+                iPhone chính hãng mới 100% LLA | VNA
+              </NavLink>
+            </p>
           </div>
           <div className="SmartPhone__carousel">
             <Slider {...settings}>{renderiPhoneReal()}</Slider>
@@ -146,7 +154,11 @@ export default function SmartPhone(props) {
       <section className="SmartPhone">
         <div className="SmartPhone__content">
           <div className="SmartPhone__title">
-            <p>Samsung Galyxy Z | Note | S</p>
+            <p>
+              <NavLink className="conP" to="/detail/1010">
+                Samsung Galyxy Z | Note | S
+              </NavLink>
+            </p>
           </div>
           <div className="SmartPhone__carousel">
             <Slider {...settings}>{rendersamSungReal()}</Slider>

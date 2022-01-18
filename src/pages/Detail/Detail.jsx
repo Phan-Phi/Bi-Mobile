@@ -6,20 +6,21 @@ import Slider from "react-slick";
 import "../../styles/detail.style.scss";
 
 export default function Detail(props) {
-  const keTao = useSelector((state) => state.RenderTongSP.renderTongSP);
-  let { id } = props.match.params;
-  console.log("detail", id);
+  const renderData = useSelector((state) => state.RenderTongSP.renderData);
+  const { id } = props.match.params;
   const samSungReal = useSelector(
     (state) => state.ListMobileReducer.listMobile[10]
   );
-  const dispatch = useDispatch;
+  const dispatch = useDispatch();
   const action = {
-    type: "RENDER TONG SP",
+    type: "RENDER_TONG_SP",
     data: id,
   };
-  useEffect(dispatch(action), []);
-  // dispatch(action);
-  console.log("object", keTao);
+  useEffect(() => {
+    dispatch(action);
+  }, []);
+  console.log("renderData", renderData);
+  // console.log("renderTongSP", renderTongSP.danhSachSP);
 
   //\///Biến của slick
   const SamplePrevArrow = (props) => {
@@ -83,7 +84,7 @@ export default function Detail(props) {
     return samSungReal.danhSachSP.map((sp, index) => {
       return (
         <div key={index}>
-          <a href="">
+          <NavLink to="#">
             <div className="products-item ">
               <div className="products-item-img">
                 <img src={sp.chiTiet.hinhSP[0].img} />
@@ -101,7 +102,7 @@ export default function Detail(props) {
                 <button className="yeuThich">Yêu thích</button>
               </div>
             </div>
-          </a>
+          </NavLink>
         </div>
       );
     });
@@ -109,9 +110,9 @@ export default function Detail(props) {
 
   //render tong Macbook
   const renderTongMac = () => {
-    return samSungReal.danhSachSP.map((sp, index) => {
+    return renderData.danhSachSP?.map((sp, index) => {
       return (
-        <a href="" key={index}>
+        <NavLink to="" key={index}>
           <div className="products-item ">
             <div className="products-item-img">
               <img src={sp.chiTiet.hinhSP[0].img} />
@@ -129,7 +130,7 @@ export default function Detail(props) {
               <button className="yeuThich">Yêu thích</button>
             </div>
           </div>
-        </a>
+        </NavLink>
       );
     });
   };
@@ -139,12 +140,13 @@ export default function Detail(props) {
       <div className="Detail">
         <div className="Detail-index">
           <p>
-            <a href="/">Trang chủ</a> / <span>iPhone 13 Series</span>
+            <NavLink to="/">Trang chủ</NavLink> /{" "}
+            <span>{renderData.mauSP}</span>
           </p>
         </div>
 
         <div className="Detail-name">
-          <h4>iPhone 13 Series</h4>
+          <h4>{renderData.mauSP}</h4>
         </div>
 
         <div className="Detail-product">

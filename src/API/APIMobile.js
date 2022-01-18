@@ -3252,6 +3252,8 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 100901,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Max Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -3290,6 +3292,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100902,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -3328,6 +3332,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100903,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Mini Chính Hãng 100%",
           hinhSP: [
             {
@@ -3366,6 +3372,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100904,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -3404,6 +3412,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100905,
+          idTong: 1009,
           tenSP: "Apple iPhone 11 Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -3442,6 +3452,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100906,
+          idTong: 1009,
           tenSP: "Apple iPhone 11 Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -3480,7 +3492,7 @@ export const APIMobile = [
       },
     ],
     mauSP: "iPhone",
-    soluongSP: 5,
+    soluongSP: 6,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
   },
@@ -3490,8 +3502,8 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
-          id: 1012001,
-          idTong: 1012,
+          id: 1010001,
+          idTong: 1010,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|512GB)",
           hinhSP: [
             {
@@ -3530,8 +3542,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1012002,
-          idTong: 1012,
+          id: 1010002,
+          idTong: 1010,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|256GB)",
           hinhSP: [
             {
@@ -3570,8 +3582,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1012003,
-          idTong: 1012,
+          id: 1010003,
+          idTong: 1010,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|256GB)",
           hinhSP: [
             {
@@ -3610,8 +3622,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1012004,
-          idTong: 1012,
+          id: 1010004,
+          idTong: 1010,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|128GB)",
           hinhSP: [
             {
@@ -3650,8 +3662,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1012005,
-          idTong: 1012,
+          id: 1010005,
+          idTong: 1010,
           tenSP: "Samsung Galaxy Note 20 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -3690,8 +3702,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1012006,
-          idTong: 1012,
+          id: 1010006,
+          idTong: 1010,
           tenSP: "Samsung Galaxy S21 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [
             {
