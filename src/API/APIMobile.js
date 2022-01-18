@@ -1052,6 +1052,7 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
+          id: 101,
           giaSP: "13.300.000₫",
           thuongHieu: "Apple",
           maSanPham: "AWS7",
@@ -1084,6 +1085,7 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
+          id: 102,
           giaSP: "22.990.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1116,6 +1118,7 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
+          id: 103,
           giaSP: "9.990.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1148,6 +1151,7 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
+          id: 104,
           giaSP: "4.800.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1180,6 +1184,7 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
+          id: 105,
           giaSP: "5.300.000₫",
           thuongHieu: "Apple",
           maSanPham: "AWS3",
@@ -3476,6 +3481,256 @@ export const APIMobile = [
     ],
     mauSP: "iPhone",
     soluongSP: 5,
+    mauIMG:
+      "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
+  },
+
+  //API SamSung chính hãng
+  {
+    danhSachSP: [
+      {
+        chiTiet: {
+          id: 1012001,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy Z Fold3 5G (12GB|512GB)",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/samsung-galaxy-z-fold3-5g-256gb-didongviet-1-11f01df8-ab9d-4497-9b2f-227c135ab927.jpg?v=1629717280000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "44.990.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          id: 1012002,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy Z Fold3 5G (12GB|256GB)",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/samsung-galaxy-z-fold3-5g-256gb-didongviet-1.jpg?v=1629717031000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "41.990.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          id: 1012003,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy Z Flip3 5G (8GB|256GB)",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/zlip-96a5fd54-0e10-4413-9110-8e1bdb633103.jpg?v=1629717242000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "26.990.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          id: 1012004,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy Z Flip3 5G (8GB|128GB)",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/zlip.jpg?v=1629717145000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "24.990.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "(Đang cập nhật...)",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          id: 1012005,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy Note 20 Ultra 5G Chính Hãng Likenew 99%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/81pfi-yatxl-ac-sl1500.jpg?v=1641639180000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "21.500.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "AIP27",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+      {
+        chiTiet: {
+          id: 1012006,
+          idTong: 1012,
+          tenSP: "Samsung Galaxy S21 Ultra 5G Chính Hãng Likenew 99%",
+          hinhSP: [
+            {
+              img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/download-5.jpg?v=1641635536000",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+            },
+            {
+              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+            },
+          ],
+          mauSac: [
+            { mauSP: "#d8351a" },
+            { mauSP: "#e6fa0a" },
+            { mauSP: "#000000" },
+          ],
+          dungLuong: [
+            { dungLuongSP: "128GB" },
+            { dungLuongSP: "256GB" },
+            { dungLuongSP: "512GB" },
+          ],
+          giaSP: "21.200.000₫",
+          thuongHieu: "Apple",
+          maSanPham: "AIP27",
+          manHinh: "6.7, Super Retina XDR, OLED, 2778 x 1284 Pixel",
+          cameraSau: "12.0 MP + 12.0 MP + 12.0 MP",
+          cameraSelfie: "12.0 MP",
+          RAM: "6 GB",
+          pin: "3687 mAh",
+          raMat: "10/2020",
+        },
+      },
+    ],
+    mauSP: "SamSung",
+    soluongSP: 6,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/macbook-pro-m1-myd82-maconline.jpg?v=1640088346320",
   },

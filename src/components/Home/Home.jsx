@@ -12,7 +12,7 @@ export default function Home() {
   const arrayTongSP = useSelector(
     (state) => state.ListMobileReducer.listMobile
   );
-  console.log("arrayTongWatch", arrayTongSP);
+  // console.log("arrayTongWatch", arrayTongSP);
 
   return (
     <main className="main">

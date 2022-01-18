@@ -1,0 +1,304 @@
+.mainDetail {
+    width: 100%;
+
+    .Detail {
+        .Detail-index {
+            margin: 20px 0;
+
+            p {
+                a {
+                    color: black;
+                }
+
+                span {
+                    color: #ee0000;
+                }
+            }
+        }
+
+        .Detail-name {
+            border-radius: 5px;
+            padding: 10px 10px;
+            background-color: white;
+            margin-bottom: 10px;
+        }
+
+        .Detail-product {
+            width: 100%;
+            margin-bottom: 20px;
+
+            .Detail__content {
+                width: 100%;
+                // height: 740px;
+                background-color: white;
+                box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+                border-radius: 5px;
+
+                .Detail__content-products {
+                    .products {
+                        display: grid;
+                        grid-template-columns: repeat(5, 1fr);
+
+                        a {
+                            position: relative;
+                            color: black;
+                            text-decoration: none;
+
+                            &:hover .products-item {
+                                background-color: white;
+
+                                position: absolute;
+                                z-index: 50;
+                            }
+
+                            .products-item {
+
+                                padding: 10px;
+                                position: relative;
+
+                                &:hover {
+                                    border: 1px solid #e6e6e6;
+                                    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                }
+
+                                &:hover .products-item-button {
+                                    display: flex;
+                                }
+
+                                .products-item-img {
+                                    img {
+                                        width: 100%;
+                                    }
+                                }
+
+                                .products-item-text {
+                                    margin-bottom: 10px;
+
+                                    p {
+                                        margin-bottom: 0;
+                                        transition: all 0.3s;
+
+                                        &:hover {
+                                            color: #ee0000;
+                                        }
+                                    }
+
+                                    span {
+                                        color: #006ab7;
+                                    }
+                                }
+
+                                .products-item-button {
+                                    display: none;
+                                    width: 100%;
+                                    gap: 7px;
+
+                                    .chiTiet {
+                                        width: 50%;
+                                        padding: 3px;
+                                        border-radius: 4px;
+                                        border: none;
+                                        color: white;
+                                        background-color: #cb1c22;
+
+                                        &:hover {
+                                            background-color: #ee0000;
+                                        }
+                                    }
+
+                                    .yeuThich {
+                                        padding: 3px;
+                                        width: 50%;
+                                        border-radius: 2px;
+                                        color: white;
+                                        border: none;
+                                        background-color: #a8a8a8;
+
+                                        &:hover {
+                                            background-color: #838383;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
+
+                    }
+                }
+            }
+        }
+
+        //phần đã xem
+        .Detail-daXem {
+            width: 100%;
+            height: 100%;
+            margin-bottom: 20px;
+
+            .Detail-daXem-title {
+                p {
+                    position: relative;
+                    width: 100%;
+                    margin: 0 auto;
+                    text-align: center;
+                    margin-bottom: 0;
+                    background-color: #d4d7d9;
+                    color: black;
+                    font-size: 20px;
+                    font-weight: 500;
+                    padding: 10px 0;
+                    text-transform: uppercase;
+                }
+            }
+
+            .Detail__carousel {
+                width: 100%;
+                position: relative;
+                height: 310px;
+                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+                background-color: white;
+                border-radius: 0 0 5px 5px;
+
+                .slick-slider {
+                    .fa-chevron-left {
+                        cursor: pointer;
+                        padding: 20px 10px;
+                        display: block;
+                        font-size: 23px;
+                        position: absolute;
+                        color: rgb(153, 152, 152);
+                        top: 35%;
+                        left: 0;
+                        background-color: white;
+                        z-index: 1;
+                        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                        border-radius: 0 80% 80% 0;
+                    }
+
+                    .fa-chevron-right {
+                        cursor: pointer;
+                        padding: 20px 10px;
+                        display: block;
+                        font-size: 23px;
+                        color: rgb(153, 152, 152);
+                        position: absolute;
+                        top: 35%;
+                        right: 0;
+                        background-color: white;
+                        z-index: 1;
+                        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                        border-radius: 80% 0 0 80%;
+                    }
+
+                    .slick-list {
+                        height: 100%;
+
+                        .slick-track {
+                            height: 100%;
+
+                            width: 100%;
+                            margin-left: 0;
+                            margin-right: 0;
+
+
+
+                            .slick-slide {
+                                // &:hover div>a>.products-item {
+                                //     background-color: white;
+
+                                //     position: absolute;
+                                //     z-index: 50;
+                                // }
+
+
+                                div {
+                                    a {
+                                        position: relative;
+                                        color: black;
+                                        text-decoration: none;
+
+
+
+                                        .products-item {
+                                            // height: 100%;
+                                            z-index: 50;
+                                            background-color: white;
+                                            padding: 10px;
+                                            position: relative;
+
+                                            &:hover {
+                                                border: 1px solid #e6e6e6;
+                                                box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                            }
+
+                                            &:hover .products-item-button {
+                                                display: flex;
+                                            }
+
+                                            .products-item-img {
+                                                height: 200px;
+
+                                                img {
+                                                    width: 100%;
+                                                    height: 100%;
+                                                }
+                                            }
+
+                                            .products-item-text {
+                                                margin-bottom: 10px;
+
+                                                p {
+                                                    margin-bottom: 0;
+                                                    transition: all 0.3s;
+
+                                                    &:hover {
+                                                        color: #ee0000;
+                                                    }
+                                                }
+
+                                                span {
+                                                    color: #006ab7;
+                                                }
+                                            }
+
+                                            .products-item-button {
+                                                display: none;
+                                                width: 100%;
+                                                gap: 7px;
+
+                                                .chiTiet {
+                                                    width: 50%;
+                                                    padding: 3px;
+                                                    border-radius: 4px;
+                                                    border: none;
+                                                    color: white;
+                                                    background-color: #cb1c22;
+
+                                                    &:hover {
+                                                        background-color: #ee0000;
+                                                    }
+                                                }
+
+                                                .yeuThich {
+                                                    padding: 3px;
+                                                    width: 50%;
+                                                    border-radius: 2px;
+                                                    color: white;
+                                                    border: none;
+                                                    background-color: #a8a8a8;
+
+                                                    &:hover {
+                                                        background-color: #838383;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

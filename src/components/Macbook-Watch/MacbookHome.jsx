@@ -8,7 +8,7 @@ export default function MacbookHome(props) {
     (state) => state.TongMacReducer.macbook.tongMac
   );
   const { arrayWatch } = props;
-  // console.log("arrayTongSP", arrayWatch);
+  // console.log("arrayTongSP", arrayWatch[6].danhSachSP);
 
   const renderTongMac = () => {
     return arrayTongMac.map((sp, index) => {
@@ -39,7 +39,7 @@ export default function MacbookHome(props) {
   const renderWatch = () => {
     return arrayWatch[6].danhSachSP.map((sp, index) => {
       return (
-        <a href="" key={index}>
+        <NavLink to={`/detail/${sp.chiTiet.id}`} key={index}>
           <div className="products-item ">
             <div className="products-item-img">
               <img src={sp.chiTiet.hinhSP[0].img} />
@@ -57,7 +57,7 @@ export default function MacbookHome(props) {
               <button className="yeuThich">Yêu thích</button>
             </div>
           </div>
-        </a>
+        </NavLink>
       );
     });
   };
@@ -106,7 +106,7 @@ export default function MacbookHome(props) {
         </div>
       </section>
 
-      {/* //ipad */}
+      {/* //watch */}
       <section className="watch">
         <div className="watch__content">
           <div className="watch__content-tieuDe">

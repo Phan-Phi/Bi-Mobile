@@ -2,13 +2,17 @@ import React, { Fragment } from "react";
 import "../../styles/SmartPhone.style.scss";
 import Slider from "react-slick";
 import { useSelector } from "react-redux";
+import { NavLink } from "react-router-dom";
 
 export default function SmartPhone(props) {
   //gọi API iphone chính hãng
   const iPhoneReal = useSelector(
     (state) => state.ListMobileReducer.listMobile[9]
   );
-  console.log("iPhoneReal", iPhoneReal.danhSachSP[0].chiTiet);
+  const samSungReal = useSelector(
+    (state) => state.ListMobileReducer.listMobile[10]
+  );
+  // console.log("iPhoneReal", iPhoneReal.danhSachSP[0].chiTiet);
 
   const renderiPhoneReal = () => {
     return iPhoneReal.danhSachSP.map((sp, index) => {
@@ -33,6 +37,34 @@ export default function SmartPhone(props) {
               </div>
             </div>
           </a>
+        </div>
+      );
+    });
+  };
+
+  const rendersamSungReal = () => {
+    return samSungReal.danhSachSP.map((sp, index) => {
+      return (
+        <div key={index}>
+          <NavLink to={`/detail/${sp.chiTiet.idTong}`}>
+            <div className="products-item ">
+              <div className="products-item-img">
+                <img src={sp.chiTiet.hinhSP[0].img} />
+              </div>
+              <div className="products-item-text">
+                <p>
+                  {sp.chiTiet.tenSP.length > 35
+                    ? sp.chiTiet.tenSP.substr(0, 35) + "..."
+                    : sp.chiTiet.tenSP}
+                </p>
+                <span>{sp.chiTiet.giaSP}</span>
+              </div>
+              <div className="products-item-button">
+                <button className="chiTiet">Chi tiết</button>
+                <button className="yeuThich">Yêu thích</button>
+              </div>
+            </div>
+          </NavLink>
         </div>
       );
     });
@@ -117,7 +149,7 @@ export default function SmartPhone(props) {
             <p>Samsung Galyxy Z | Note | S</p>
           </div>
           <div className="SmartPhone__carousel">
-            <Slider {...settings}>{renderiPhoneReal()}</Slider>
+            <Slider {...settings}>{rendersamSungReal()}</Slider>
           </div>
         </div>
       </section>

@@ -17,12 +17,13 @@ export default function Header() {
           <div className="header__input">
             <input type="text" placeholder="Bạn cần tìm gì?" />
             <p>
-              <i class="fas fa-search"></i>
+              <i className="fas fa-search" />
             </p>
           </div>
           <div className="header__footer">
             <div className="header__phone">
-              <i class="fas fa-phone-volume"></i>
+              <i className="fas fa-phone-volume" />
+
               <p>
                 Gọi mua hàng:
                 <br />
@@ -31,12 +32,14 @@ export default function Header() {
             </div>
             <div className="header__taiKhoan">
               <p>
-                <i class="far fa-user"></i>Tài khoản
+                <i className="far fa-user" />
+                Tài khoản
               </p>
             </div>
             <div className="header__gioHang">
               <p>
-                <i class="fas fa-shopping-cart"></i>Giỏ hàng
+                <i className="fas fa-shopping-cart" />
+                Giỏ hàng
               </p>
               <div>
                 <span>0</span>
