@@ -1022,7 +1022,7 @@ export const APIMobile = [
       },
     ],
     mauSP: "iPad",
-    soluongSP: 5,
+    soluongSP: 15,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/ipad-pro-11-3rd-s-pdp-01.jpg?v=1640141563147",
   },
@@ -1198,7 +1198,7 @@ export const APIMobile = [
       },
     ],
     mauSP: "Apple Watch",
-    soluongSP: 5,
+    soluongSP: 12,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/apple-watch-s6-lte-40mm-vien-thep-day-thep-01-600x600.jpg?v=1629621590657",
   },
@@ -1369,7 +1369,7 @@ export const APIMobile = [
       },
     ],
     mauSP: "AirPods",
-    soluongSP: 5,
+    soluongSP: 8,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/download.jpg?v=1629621694837",
   },
@@ -3250,7 +3250,7 @@ export const APIMobile = [
       },
     ],
     mauSP: "Phụ kiện Apple",
-    soluongSP: 5,
+    soluongSP: 9,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/mauhong-3-f853e02e261c4d189f81f1067073b07c-grande.jpeg?v=1629707526367",
   },

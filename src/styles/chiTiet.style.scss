@@ -1,0 +1,194 @@
+.mainChiTiet {
+    width: 100%;
+
+    .ChiTiet {
+        .ChiTiet-index {
+            margin: 20px 0;
+
+            p {
+                a {
+                    color: black;
+                }
+
+                span {
+                    color: #ee0000;
+                }
+            }
+        }
+
+        .ChiTiet-content {
+            background-color: white;
+            padding: 5px 10px;
+            margin-bottom: 10px;
+            box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+
+            .ChiTiet-name {
+                border-bottom: 1px solid rgb(175, 175, 175);
+
+                h3 {
+                    font-size: 22px;
+                    font-weight: 600;
+
+                }
+            }
+
+            .ChiTiet-product {
+                display: grid;
+                grid-template-columns: 35% 40% 25%;
+                margin: 10px 0;
+
+                .ChiTiet-img {}
+
+                .ChiTiet-info {
+                    .ChiTiet-info-thongtin {
+                        p {
+                            margin-bottom: 5px;
+
+                            span {
+
+                                font-weight: 700;
+                            }
+                        }
+
+                        .gia {
+                            span {
+                                font-size: 23px;
+                                color: #ee0000;
+                            }
+                        }
+
+                        .dungluong {
+                            list-style: none;
+                            display: flex;
+                            gap: 5px;
+
+                            .active {
+                                color: #ee0000;
+                                border: 1px solid #ee0000;
+                            }
+
+                            li {
+                                border-radius: 5px;
+                                font-size: 14px;
+                                color: rgb(73, 73, 73);
+                                padding: 5px;
+                                border: 1px solid rgb(116, 116, 116);
+                            }
+                        }
+                    }
+
+                    .ChiTiet-info-btn {
+                        margin-bottom: 10px;
+
+                        .ChiTiet-mua {
+                            background-color: #ee0000;
+                            padding: 5px;
+                            border-radius: 5px;
+                            color: white;
+                            text-align: center;
+                            transition: all 0.3s;
+                            margin-bottom: 8px;
+                            border: 1px solid #ee0000;
+
+                            &:hover {
+                                background-color: white;
+                                color: #ee0000;
+                            }
+
+                            .ChiTiet-muangay {
+                                margin-bottom: 0;
+                                text-transform: uppercase;
+                                font-size: 19px;
+                                font-weight: 500;
+                            }
+
+                            .ChiTiet-giao {
+                                margin-bottom: 0;
+                            }
+                        }
+
+                        .ChiTiet-tuychon {
+                            display: flex;
+                            gap: 6px;
+                            width: 100%;
+                            color: white;
+                            text-align: center;
+
+                            .ChiTiet-yeuthich {
+                                width: 45%;
+                                background-color: #1d72e0;
+                                border-radius: 5px;
+                                padding: 7px 0;
+                                transition: all 0.3s;
+                                border: 1px solid #1d72e0;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #1d72e0;
+                                }
+                            }
+
+                            .ChiTiet-tragop {
+                                width: 45%;
+                                background-color: #1d72e0;
+                                border-radius: 5px;
+                                padding: 7px 0;
+                                transition: all 0.3s;
+                                border: 1px solid #1d72e0;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #1d72e0;
+                                }
+                            }
+
+                            .ChiTiet-sosanh {
+                                width: 10%;
+                                background-color: #1d72e0;
+                                border-radius: 5px;
+                                padding: 7px 0;
+                                transition: all 0.3s;
+                                border: 1px solid #1d72e0;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #1d72e0;
+                                }
+                            }
+                        }
+                    }
+
+                    .ChiTiet-info-chinhsach {
+                        text-align: center;
+
+                        .chinhsach-1 {
+                            margin-bottom: 0;
+
+                            span {
+                                color: #ee0000;
+                            }
+                        }
+
+                        .chinhsach-2 {
+                            margin-bottom: 0;
+
+                            a {
+                                text-decoration: none;
+                                color: #1d72e0;
+                            }
+                        }
+
+                        img {
+                            width: 100%;
+                        }
+                    }
+                }
+
+                .ChiTiet-quangcao {}
+
+                .ChiTiet-info-btn {}
+            }
+        }
+
+    }
+}

@@ -80,22 +80,22 @@ export default function MacbookHome(props) {
         <div className="macbook__content">
           <div className="macbook__content-tieuDe">
             <div>
-              <NavLink to="asdasd" className="macbook--tieuDe">
+              <NavLink to="/detail/1001" className="macbook--tieuDe">
                 <p>Macbook</p>
               </NavLink>
-              <NavLink to="asdasd" className="macbook--navLink">
+              <NavLink to="/detail/1002" className="macbook--navLink">
                 <p>Macbook Air</p>
               </NavLink>
-              <NavLink to="asdasd" className="macbook--navLink">
+              <NavLink to="/detail/1001" className="macbook--navLink">
                 <p>Macbook Pro</p>
               </NavLink>
-              <NavLink to="asdasd" className="macbook--navLink">
+              <NavLink to="/detail/1003" className="macbook--navLink">
                 <p>iMac</p>
               </NavLink>
-              <NavLink to="asdasd" className="macbook--navLink">
+              <NavLink to="/detail/1004" className="macbook--navLink">
                 <p>Mac Mini</p>
               </NavLink>
-              <NavLink to="asdasd" className="macbook--navLink active">
+              <NavLink to="/detail/1004" className="macbook--navLink active">
                 <p>Xem tất cả</p>
               </NavLink>
             </div>
@@ -111,10 +111,10 @@ export default function MacbookHome(props) {
         <div className="watch__content">
           <div className="watch__content-tieuDe">
             <div>
-              <NavLink to="asdasd" className="watch--tieuDe">
+              <NavLink to="#" className="watch--tieuDe">
                 <p>Apple Watch</p>
               </NavLink>
-              <NavLink to="asdasd" className="watch--navLink active">
+              <NavLink to="/detail/1006" className="watch--navLink active">
                 <p>Xem tất cả</p>
               </NavLink>
             </div>
