@@ -1,9 +1,10 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 export default function Product(props) {
   const { spAPI } = props;
   return (
-    <a href="" className="listSP__content">
+    <NavLink to={`/detail/${spAPI.idTong}`} className="listSP__content">
       <div className="listSP__content--img">
         <img src={spAPI.mauIMG} />
       </div>
@@ -11,6 +12,6 @@ export default function Product(props) {
         <p>{spAPI.mauSP}</p>
         <span className="link-text">{spAPI.soluongSP} sản phẩm</span>
       </div>
-    </a>
+    </NavLink>
   );
 }

@@ -201,6 +201,7 @@ export const APIMobile = [
 
   // API Macbook Pro
   {
+    idTong: 1001,
     danhSachSP: [
       {
         chiTiet: {
@@ -374,6 +375,7 @@ export const APIMobile = [
 
   //API Macbook Air
   {
+    idTong: 1002,
     danhSachSP: [
       {
         chiTiet: {
@@ -510,8 +512,9 @@ export const APIMobile = [
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/thumb-airm1-1-93d871e5-035e-44da-8e88-7f05bcaea648.jpg?v=1640088297253",
   },
 
-  //API iMac - Mac Mini
+  //API iMac
   {
+    idTong: 1003,
     danhSachSP: [
       {
         chiTiet: {
@@ -676,14 +679,15 @@ export const APIMobile = [
         },
       },
     ],
-    mauSP: "iMac - Mac Mini",
-    soluongSP: 5,
+    mauSP: "iMac",
+    soluongSP: 10,
     mauIMG:
       "https://bizweb.dktcdn.net/thumb/large/100/434/290/collections/imac-24-inch-45k-retina-m1-mj93saa-600x600.jpg?v=1640088369877",
   },
 
   //API Mac Mini
   {
+    idTong: 1004,
     danhSachSP: [
       {
         chiTiet: {
@@ -854,6 +858,7 @@ export const APIMobile = [
 
   //API iPad
   {
+    idTong: 1005,
     danhSachSP: [
       {
         chiTiet: {
@@ -1024,6 +1029,7 @@ export const APIMobile = [
 
   //API Apple Watch
   {
+    idTong: 1006,
     danhSachSP: [
       {
         chiTiet: {
@@ -1199,6 +1205,7 @@ export const APIMobile = [
 
   //API AirPod
   {
+    idTong: 1007,
     danhSachSP: [
       {
         chiTiet: {
@@ -1369,6 +1376,7 @@ export const APIMobile = [
 
   //API Phu Kien
   {
+    idTong: 1008,
     loaiPK: [
       {
         danhSachPK: [
