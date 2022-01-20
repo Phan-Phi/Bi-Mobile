@@ -67,10 +67,7 @@ export default function MacbookHome(props) {
       <section className="macbookBanner">
         <div className="macbookBanner__content">
           <div className="content-item">
-            <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/feature_banner_1.jpg?1641835087824" />
-          </div>
-          <div className="content-item">
-            <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/feature_banner_2.jpg?1641835087824" />
+            <img src="https://cdn.cellphones.com.vn/media/wysiwyg/tet-special-banner_1200x75.gif" />
           </div>
         </div>
       </section>
@@ -107,6 +104,7 @@ export default function MacbookHome(props) {
       </section>
 
       {/* //watch */}
+
       <section className="watch">
         <div className="watch__content">
           <div className="watch__content-tieuDe">
@@ -121,6 +119,16 @@ export default function MacbookHome(props) {
           </div>
           <div className="watch__content-products">
             <div className="products">{renderWatch()}</div>
+          </div>
+        </div>
+      </section>
+      <section className="macbookBanner">
+        <div className="macbookBanner__content">
+          <div className="content-item">
+            <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/feature_banner_1.jpg?1641835087824" />
+          </div>
+          <div className="content-item">
+            <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/feature_banner_2.jpg?1641835087824" />
           </div>
         </div>
       </section>
