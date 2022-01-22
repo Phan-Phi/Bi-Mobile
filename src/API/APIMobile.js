@@ -3,7 +3,10 @@ export const APIMobile = [
   {
     danhSachSP: [
       {
+        idTong: 1001,
         chiTiet: {
+          id: 100901,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Max Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -42,6 +45,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 1009099,
+          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -1033,6 +1038,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 100601,
           tenSP: "Apple Watch Series 7 GPS 45mm viền nhôm dây cao su",
           hinhSP: [
             {
@@ -1058,7 +1064,6 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          id: 101,
           giaSP: "13.300.000₫",
           thuongHieu: "Apple",
           maSanPham: "AWS7",
@@ -1066,6 +1071,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100602,
           tenSP: "Apple Watch Series 7 45mm (4G) Viền thép dây thép",
           hinhSP: [
             {
@@ -1091,7 +1097,6 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          id: 102,
           giaSP: "22.990.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1099,6 +1104,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100603,
           tenSP: "Apple Watch Series 6 Nike | Chính Hãng",
           hinhSP: [
             {
@@ -1124,7 +1130,6 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          id: 103,
           giaSP: "9.990.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1132,6 +1137,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100604,
           tenSP: "Apple Watch Series 3 38mm GPS viền nhôm dây cao su",
           hinhSP: [
             {
@@ -1157,7 +1163,6 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          id: 104,
           giaSP: "4.800.000₫",
           thuongHieu: "Apple",
           maSanPham: "(Đang cập nhật...)",
@@ -1165,6 +1170,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100605,
           tenSP: "Apple Watch S3 GPS Chính Hãng",
           hinhSP: [
             {
@@ -1190,7 +1196,6 @@ export const APIMobile = [
             { dungLuongSP: "256GB" },
             { dungLuongSP: "512GB" },
           ],
-          id: 105,
           giaSP: "5.300.000₫",
           thuongHieu: "Apple",
           maSanPham: "AWS3",
@@ -3510,7 +3515,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
-          id: 1010001,
+          id: 101001,
           idTong: 1010,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|512GB)",
           hinhSP: [
@@ -3550,7 +3555,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1010002,
+          id: 101002,
           idTong: 1010,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|256GB)",
           hinhSP: [
@@ -3590,7 +3595,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1010003,
+          id: 101003,
           idTong: 1010,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|256GB)",
           hinhSP: [
@@ -3630,7 +3635,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1010004,
+          id: 101004,
           idTong: 1010,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|128GB)",
           hinhSP: [
@@ -3670,7 +3675,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1010005,
+          id: 101005,
           idTong: 1010,
           tenSP: "Samsung Galaxy Note 20 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [
@@ -3710,7 +3715,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 1010006,
+          id: 101006,
           idTong: 1010,
           tenSP: "Samsung Galaxy S21 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [

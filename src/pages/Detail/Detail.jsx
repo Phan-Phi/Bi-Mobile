@@ -149,6 +149,14 @@ export default function Detail(props) {
           <h4>{renderData.mauSP}</h4>
         </div>
 
+        <section className="macbookBanner">
+          <div className="macbookBanner__content">
+            <div className="content-item">
+              <img src="https://cdn.cellphones.com.vn/media/wysiwyg/tet-special-banner_1200x75.gif" />
+            </div>
+          </div>
+        </section>
+
         <div className="Detail-product">
           <div className="Detail__content">
             <div className="Detail__content-products">

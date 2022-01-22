@@ -1,10 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import "../../styles/chiTiet.style.scss";
 import { NavLink } from "react-router-dom";
 import Slider from "react-slick";
 import { useSelector } from "react-redux";
+import ChiTietBaiViet from "./ChiTietBaiViet";
 
 export default function ChiTiet() {
+  let [BtnValue, setBtnValue] = useState(true);
   const samSungReal = useSelector(
     (state) => state.ListMobileReducer.listMobile[10]
   );
@@ -93,12 +95,65 @@ export default function ChiTiet() {
       },
     ],
   };
+
+  //\///Biến của slick chuyen anh
+  const settings1 = {
+    arrows: false,
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    appendDots: (dots) => (
+      <div
+        className="dots"
+        style={{
+          borderRadius: "10px",
+          padding: "10px",
+        }}
+      >
+        <ul className="dots-icon" style={{ margin: "0px" }}>
+          {" "}
+          {dots}{" "}
+        </ul>
+      </div>
+    ),
+    customPaging: (i) => (
+      <div
+        className="dots-item"
+        style={{
+          width: "30px",
+        }}
+      >
+        <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-ip12pro-1-43d3d73d-b4ad-4a15-8f06-18bbeb7f52a4.jpg?v=1629378184627" />
+      </div>
+    ),
+  };
+
+  //function btn xem thêm
+  const BtnXemThem = () => {
+    let btn = document.querySelector(".thongSo_Btn");
+    let baiViet = document.querySelector(".thongSo_baiViet");
+    if (BtnValue) {
+      btn.innerHTML = "Rút gọn";
+      baiViet.style.display = "block";
+      setBtnValue((BtnValue = false));
+    } else if (BtnValue == false) {
+      setBtnValue((BtnValue = true));
+      btn.innerHTML = "Xem thêm";
+      baiViet.style.display = "none";
+    }
+  };
+
   return (
     <main className="mainChiTiet">
       <div className="ChiTiet">
         <div className="ChiTiet-index">
           <p>
-            <NavLink to="/">Trang chủ</NavLink> / <span>asdasdas</span>
+            <NavLink to="/">Trang chủ</NavLink> /{" "}
+            <span>
+              Apple MacBook Air 13 inch 128GB MQD32 I Chính hãng Apple
+            </span>
           </p>
         </div>
 
@@ -108,8 +163,25 @@ export default function ChiTiet() {
           </div>
 
           <div className="ChiTiet-product">
-            <div className="ChiTiet-img">sd</div>
+            {/* slick chuyen anh */}
+            <div className="ChiTiet-img">
+              <Slider {...settings1}>
+                <div>
+                  <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-ip12pro-1-43d3d73d-b4ad-4a15-8f06-18bbeb7f52a4.jpg?v=1629378184627" />
+                </div>
+                <div>
+                  <h3>2</h3>
+                </div>
+                <div>
+                  <h3>3</h3>
+                </div>
+                <div>
+                  <h3>4</h3>
+                </div>
+              </Slider>
+            </div>
 
+            {/* */}
             <div className="ChiTiet-info">
               <div className="ChiTiet-info-thongtin">
                 <p>
@@ -119,6 +191,13 @@ export default function ChiTiet() {
                   Mã sản phẩm: <span>(Đang cập nhật...)</span>
                 </p>
                 <p className="gia">19.500.000₫</p>
+                <p>Màu sắc:</p>
+                <ul className="mau">
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
                 <p>Dung lượng:</p>
                 <ul className="dungluong">
                   <li className="active">256GB</li>
@@ -193,6 +272,141 @@ export default function ChiTiet() {
             </div>
           </div>
         </div>
+
+        <div className="macbookBanner">
+          <div className="macbookBanner__content">
+            <div className="content-item">
+              <img src="https://cdn.cellphones.com.vn/media/wysiwyg/tet-special-banner_1200x75.gif" />
+            </div>
+          </div>
+        </div>
+
+        <div id="thongso" className="thongSo_tinTuc">
+          <div className="thongSo">
+            <h4>Thông số kỹ thuật</h4>
+            <div className="thongSo_content">
+              <table>
+                <tbody>
+                  <tr>
+                    <th>Màn hình</th>
+                    <td>6.1", Super Retina XDR, OLED, 2532 x 1170 Pixel</td>
+                  </tr>
+                  <tr>
+                    <th>Camera sau</th>
+                    <td>12.0 MP + 12.0 MP + 12.0 MP</td>
+                  </tr>
+                  <tr>
+                    <th>Camera Selfie</th>
+                    <td>12.0 MP</td>
+                  </tr>
+                  <tr>
+                    <th>RAM</th>
+                    <td>6 GB</td>
+                  </tr>
+                  <tr>
+                    <th>Bộ nhớ trong</th>
+                    <td>128 GB</td>
+                  </tr>
+                  <tr>
+                    <th>Dung lượng pin</th>
+                    <td>3095 mAh</td>
+                  </tr>
+                  <tr>
+                    <th>Hệ Điều Hành</th>
+                    <td>iOS 15</td>
+                  </tr>
+                  <tr>
+                    <th>Thời gian ra mắt</th>
+                    <td>09/2021</td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <ChiTietBaiViet />
+
+              <a
+                href="#thongso"
+                className="thongSo_Btn"
+                onClick={() => BtnXemThem()}
+              >
+                Xem Thêm
+              </a>
+            </div>
+          </div>
+
+          <div className="tinTuc">
+            <h4>Tin tức</h4>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/iphone-se-3-cover.jpeg?v=1642387308287"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  iPhone SE 3 có thể ra mắt tại sự kiện mùa xuân được Apple tổ
+                  chức vào tháng 3 hoặc 4 tới
+                </p>
+              </div>
+            </div>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/thong-tin-ios-16-4.jpg?v=1641889348797"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  iOS 16 sẽ có gì mới? Ngày phát hành và danh sách iPhone được
+                  cập nhật
+                </p>
+              </div>
+            </div>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/smartwatch-01.jpg?v=1641357049380"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  iPhone SE 3 có thể ra mắt tại sự kiện mùa xuân được Apple tổ
+                  chức vào tháng 3 hoặc 4 tớiTại sao nên chọn smartwatch có mặt
+                  vuông thay vì tròn?
+                </p>
+              </div>
+            </div>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/airpods-3-featured-cover.jpg?v=1641186504990"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  Apple chia sẻ những hạn chế của Bluetooth và bộ tính năng của
+                  ‌AirPods 3‌
+                </p>
+              </div>
+            </div>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/rlklduqnxjkytm9x3xqfc5-970-80-jp.jpg?v=1640752629193"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  Đánh giá iPhone 13 mini: Lựa chọn tuyệt vời cho những ai thích
+                  smartphone nhỏ gọn
+                </p>
+              </div>
+            </div>
+            <div className="tinTuc_content">
+              <div className="tinTuc_img">
+                <img src="https://bizweb.dktcdn.net/thumb/medium/100/434/290/articles/android-vs-iphone-01.jpg?v=1640664128450"></img>
+              </div>
+              <div className="tinTuc_text">
+                <p>
+                  iPhone SE 3 có thể ra mắt tại sự kiện mùa xuân được Apple tổ
+                  chức vào tháng 3 hoặc 4 tớiTại sao nên chọn smartwatch có mặt
+                  vuông thay vì tròn?
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div className="ChiTiet-daXem">
           <div className="ChiTiet-daXem-title">
             <p>Sản phẩm bạn vừa xem</p>

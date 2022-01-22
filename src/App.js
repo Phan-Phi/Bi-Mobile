@@ -13,7 +13,7 @@ function App() {
       <Switch>
         <HomeTemplate path="/" exact Component={Home} />
         <HomeTemplate path="/detail/:id" detail exact Component={Detail} />
-        <HomeTemplate path="/product" detail exact Component={ChiTiet} />
+        <HomeTemplate path="/product/:id" detail exact Component={ChiTiet} />
       </Switch>
     </Router>
   );
