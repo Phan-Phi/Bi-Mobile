@@ -3,7 +3,7 @@ export const MacbookAPI = {
   tongMac: [
     {
       chiTiet: {
-        id: 1000101,
+        id: 100111,
         tenSP:
           "Macbook Pro 16 inch 2021 M1 Max 10 CPU - 32 GPU 64GB 8TB 2021 | Chính hãng Apple",
         hinhSP: [
@@ -37,7 +37,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000102,
+        id: 100112,
         tenSP:
           "Macbook Pro 16 inch 2021 M1 Max 10 CPU - 32 GPU 64GB 8TB 2021 | Chính hãng Apple",
         hinhSP: [
@@ -71,7 +71,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000103,
+        id: 100113,
         tenSP:
           "Macbook Pro 14 inch 2021 M1 Pro 10 CPU - 32 GPU 64GB 1TB sạc 96W | Chính hãng Apple",
         hinhSP: [
@@ -105,7 +105,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000104,
+        id: 100114,
         tenSP: "Apple Macbook Pro 16 inch M1 Pro 2021 Chính hãng mới 100%",
         hinhSP: [
           {
@@ -138,7 +138,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000105,
+        id: 100115,
         tenSP: "MacBook Pro M1 16GB 512GB 2020I Chính hãng mới 100%",
         hinhSP: [
           {
@@ -171,7 +171,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000106,
+        id: 100116,
         tenSP: "Apple MacBook Pro M1 256GB 2020 I Chính hãng mới 100%",
         hinhSP: [
           {
@@ -204,7 +204,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000107,
+        id: 100117,
         tenSP: "Apple MacBook Air M1 16GB 256GB 2020 I Chính hãng mới 100%",
         hinhSP: [
           {
@@ -237,7 +237,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000108,
+        id: 100118,
         tenSP: "Apple MacBook Air M1 16GB 512GB 2020 I Chính hãng mới 100%",
         hinhSP: [
           {
@@ -270,7 +270,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000109,
+        id: 100119,
         tenSP: "Apple MacBook Air M1 512GB 2020 I Chính hãng mới 100%",
         hinhSP: [
           {
@@ -303,7 +303,7 @@ export const MacbookAPI = {
     },
     {
       chiTiet: {
-        id: 1000110,
+        id: 100120,
         tenSP: "Apple MacBook Air M1 256GB 2020 I Chính hãng mới 100%",
         hinhSP: [
           {

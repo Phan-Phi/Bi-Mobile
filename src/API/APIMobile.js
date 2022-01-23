@@ -1043,7 +1043,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
-          id: 100601,
+          id: 100613,
           tenSP: "Apple Watch Series 7 GPS 45mm viền nhôm dây cao su",
           hinhSP: [
             {
@@ -1076,7 +1076,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 100602,
+          id: 100614,
           tenSP: "Apple Watch Series 7 45mm (4G) Viền thép dây thép",
           hinhSP: [
             {
@@ -1109,7 +1109,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 100603,
+          id: 100615,
           tenSP: "Apple Watch Series 6 Nike | Chính Hãng",
           hinhSP: [
             {
@@ -1142,7 +1142,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 100604,
+          id: 100616,
           tenSP: "Apple Watch Series 3 38mm GPS viền nhôm dây cao su",
           hinhSP: [
             {
@@ -1175,7 +1175,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
-          id: 100605,
+          id: 100617,
           tenSP: "Apple Watch S3 GPS Chính Hãng",
           hinhSP: [
             {
@@ -1219,6 +1219,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 100701,
           tenSP: "Tai nghe Airpods 3 Rep",
           hinhSP: [
             {
@@ -1251,6 +1252,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100702,
           tenSP: "Tai nghe Bluetooth AirPods 3 Apple New Chính Hãng",
           hinhSP: [
             {
@@ -1283,6 +1285,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100703,
           tenSP: "Loa thông minh Apple HomePod Mini Chính Hãng",
           hinhSP: [
             {
@@ -1315,6 +1318,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100706,
           tenSP: "Tai nghe chụp tai Bluetooth AirPods Max Apple Chính Hãng",
           hinhSP: [
             {
@@ -1347,6 +1351,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100708,
           tenSP: "Tai nghe Bluetooth AirPods 2 Apple New Chính Hãng",
           hinhSP: [
             {
@@ -1392,6 +1397,7 @@ export const APIMobile = [
         danhSachPK: [
           {
             chiTiet: {
+              id: 100801,
               tenSP: "Cáp Type A - Lightning 1m Apple Chính Hãng",
               hinhSP: [
                 {
@@ -1424,6 +1430,7 @@ export const APIMobile = [
           },
           {
             chiTiet: {
+              id: 100802,
               tenSP:
                 "Adapter Sạc Type C 18W dùng cho iPhone/iPad Apple Chính Hãng",
               hinhSP: [
@@ -1457,6 +1464,7 @@ export const APIMobile = [
           },
           {
             chiTiet: {
+              id: 100803,
               tenSP: "Tai nghe nhét trong EarPods Lightning Apple Chính Hãng",
               hinhSP: [
                 {
@@ -1489,6 +1497,8 @@ export const APIMobile = [
           },
           {
             chiTiet: {
+              id: 100804,
+
               tenSP: "Dây sạc Apple Watch Chính Hãng",
               hinhSP: [
                 {
@@ -1521,6 +1531,7 @@ export const APIMobile = [
           },
           {
             chiTiet: {
+              id: 100805,
               tenSP: "Bao da bàn phím Magic Keyboard iPad Pro Chính Hãng",
               hinhSP: [
                 {
@@ -3100,6 +3111,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 100801,
           tenSP: "Cáp Type A - Lightning 1m Apple Chính Hãng",
           hinhSP: [
             {
@@ -3132,6 +3144,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100802,
           tenSP: "Adapter Sạc Type C 18W dùng cho iPhone/iPad Apple Chính Hãng",
           hinhSP: [
             {
@@ -3164,6 +3177,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100803,
           tenSP: "Tai nghe nhét trong EarPods Lightning Apple Chính Hãng",
           hinhSP: [
             {
@@ -3196,6 +3210,8 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100804,
+
           tenSP: "Dây sạc Apple Watch Chính Hãng",
           hinhSP: [
             {
@@ -3228,6 +3244,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100805,
           tenSP: "Bao da bàn phím Magic Keyboard iPad Pro Chính Hãng",
           hinhSP: [
             {
