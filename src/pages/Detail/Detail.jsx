@@ -84,25 +84,33 @@ export default function Detail(props) {
     return samSungReal.danhSachSP.map((sp, index) => {
       return (
         <div key={index}>
-          <NavLink to="#">
+          <a>
             <div className="products-item ">
-              <div className="products-item-img">
+              <NavLink
+                to={`/product/${sp.chiTiet.id}`}
+                className="products-item-img"
+              >
                 <img src={sp.chiTiet.hinhSP[0].img} />
-              </div>
-              <div className="products-item-text">
+              </NavLink>
+              <NavLink
+                to={`/product/${sp.chiTiet.id}`}
+                className="products-item-text"
+              >
                 <p>
                   {sp.chiTiet.tenSP.length > 35
                     ? sp.chiTiet.tenSP.substr(0, 35) + "..."
                     : sp.chiTiet.tenSP}
                 </p>
                 <span>{sp.chiTiet.giaSP}</span>
-              </div>
+              </NavLink>
               <div className="products-item-button">
-                <button className="chiTiet">Chi tiết</button>
+                <NavLink to={`/product/${sp.chiTiet.id}`} className="chiTiet">
+                  Chi tiết
+                </NavLink>
                 <button className="yeuThich">Yêu thích</button>
               </div>
             </div>
-          </NavLink>
+          </a>
         </div>
       );
     });
@@ -112,25 +120,33 @@ export default function Detail(props) {
   const renderTongMac = () => {
     return renderData.danhSachSP?.map((sp, index) => {
       return (
-        <NavLink to="" key={index}>
+        <a key={index}>
           <div className="products-item ">
-            <div className="products-item-img">
+            <NavLink
+              to={`/product/${sp.chiTiet.id}`}
+              className="products-item-img"
+            >
               <img src={sp.chiTiet.hinhSP[0].img} />
-            </div>
-            <div className="products-item-text">
+            </NavLink>
+            <NavLink
+              to={`/product/${sp.chiTiet.id}`}
+              className="products-item-text"
+            >
               <p>
                 {sp.chiTiet.tenSP.length > 35
                   ? sp.chiTiet.tenSP.substr(0, 35) + "..."
                   : sp.chiTiet.tenSP}
               </p>
               <span>{sp.chiTiet.giaSP}</span>
-            </div>
+            </NavLink>
             <div className="products-item-button">
-              <button className="chiTiet">Chi tiết</button>
+              <NavLink to={`/product/${sp.chiTiet.id}`} className="chiTiet">
+                Chi tiết
+              </NavLink>
               <button className="yeuThich">Yêu thích</button>
             </div>
           </div>
-        </NavLink>
+        </a>
       );
     });
   };

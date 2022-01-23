@@ -210,6 +210,7 @@ export const APIMobile = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 100101,
           tenSP:
             "Macbook Pro 16 inch 2021 M1 Max 10 CPU - 32 GPU 64GB 8TB 2021 | Chính hãng Apple",
           hinhSP: [
@@ -243,6 +244,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100102,
           tenSP:
             "Macbook Pro 14 inch 2021 M1 Pro 10 CPU - 32 GPU 64GB 1TB sạc 96W | Chính hãng Apple",
           hinhSP: [
@@ -276,6 +278,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100103,
           tenSP:
             "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
           hinhSP: [
@@ -309,6 +312,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100104,
           tenSP: "MacBook Pro M1 16GB 512GB 2020I Chính hãng mới 100%",
           hinhSP: [
             {
@@ -341,6 +345,7 @@ export const APIMobile = [
       },
       {
         chiTiet: {
+          id: 100105,
           tenSP: "Apple MacBook Pro M1 256GB 2020 I Chính hãng mới 100%",
           hinhSP: [
             {

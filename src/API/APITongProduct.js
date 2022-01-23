@@ -5,6 +5,7 @@ export const APITongProduct = [
     danhSachSP: [
       {
         chiTiet: {
+          id: 101001,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|512GB)",
           hinhSP: [
             {
@@ -43,6 +44,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101002,
           tenSP: "Samsung Galaxy Z Fold3 5G (12GB|256GB)",
           hinhSP: [
             {
@@ -81,6 +83,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101003,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|256GB)",
           hinhSP: [
             {
@@ -119,6 +122,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101004,
           tenSP: "Samsung Galaxy Z Flip3 5G (8GB|128GB)",
           hinhSP: [
             {
@@ -157,6 +161,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101005,
           tenSP: "Samsung Galaxy Note 20 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -195,6 +200,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101006,
           tenSP: "Samsung Galaxy S21 Ultra 5G Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -233,6 +239,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101007,
           tenSP: "Samsung Galaxy Note 20 Ultra Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -271,6 +278,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101008,
           tenSP: "Samsung Galaxy Note 10 Plus Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -309,6 +317,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101009,
           tenSP: "Samsung Galaxy Note 10 Lite Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -347,6 +356,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101010,
           tenSP: "Samsung Galaxy A72 Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -385,6 +395,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101011,
           tenSP: "Samsung Galaxy A52 Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -423,6 +434,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101012,
           tenSP: "Samsung Galaxy A52 Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -461,6 +473,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101013,
           tenSP: "Samsung Galaxy S10 5G Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -499,6 +512,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101014,
           tenSP: "Samsung Galaxy A32 Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -537,6 +551,7 @@ export const APITongProduct = [
       },
       {
         chiTiet: {
+          id: 101015,
           tenSP: "Samsung Galaxy A02s Chính Hãng Likenew 99%",
           hinhSP: [
             {
@@ -587,7 +602,6 @@ export const APITongProduct = [
       {
         chiTiet: {
           id: 100901,
-          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Max Chính Hãng Mới 100%",
           hinhSP: [
             {
@@ -627,7 +641,6 @@ export const APITongProduct = [
       {
         chiTiet: {
           id: 100902,
-          idTong: 1009,
           tenSP: "Apple iPhone 13 Pro Chính Hãng Mới 100%",
           hinhSP: [
             {

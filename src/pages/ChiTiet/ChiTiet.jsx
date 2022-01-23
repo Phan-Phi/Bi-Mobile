@@ -1,11 +1,26 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import "../../styles/chiTiet.style.scss";
 import { NavLink } from "react-router-dom";
 import Slider from "react-slick";
 import { useSelector } from "react-redux";
 import ChiTietBaiViet from "./ChiTietBaiViet";
+import { useDispatch } from "react-redux";
 
-export default function ChiTiet() {
+export default function ChiTiet(props) {
+  const renderProduct = useSelector(
+    (state) => state.RenderProducts.renderProduct
+  );
+  const { id } = props.match.params;
+  const dispatch = useDispatch();
+  const action = {
+    type: "RENDER_THONG_TIN_SP",
+    data: id,
+  };
+  useEffect(() => {
+    dispatch(action);
+  }, []);
+  console.log("renderProduct", renderProduct[0]);
+
   let [BtnValue, setBtnValue] = useState(true);
   const samSungReal = useSelector(
     (state) => state.ListMobileReducer.listMobile[10]
@@ -151,15 +166,13 @@ export default function ChiTiet() {
         <div className="ChiTiet-index">
           <p>
             <NavLink to="/">Trang chủ</NavLink> /{" "}
-            <span>
-              Apple MacBook Air 13 inch 128GB MQD32 I Chính hãng Apple
-            </span>
+            <span>{renderProduct[0].chiTiet.tenSP}</span>
           </p>
         </div>
 
         <div className="ChiTiet-content">
           <div className="ChiTiet-name">
-            <h3>Apple MacBook Air 13 inch 128GB MQD32 I Chính hãng Apple</h3>
+            <h3>{renderProduct[0].chiTiet.tenSP}</h3>
           </div>
 
           <div className="ChiTiet-product">
@@ -185,12 +198,13 @@ export default function ChiTiet() {
             <div className="ChiTiet-info">
               <div className="ChiTiet-info-thongtin">
                 <p>
-                  Thương hiệu: <span>Mimall Vietnam</span>
+                  Thương hiệu:{" "}
+                  <span>{renderProduct[0].chiTiet.thuongHieu}</span>
                 </p>
                 <p>
                   Mã sản phẩm: <span>(Đang cập nhật...)</span>
                 </p>
-                <p className="gia">19.500.000₫</p>
+                <p className="gia">{renderProduct[0].chiTiet.giaSP}</p>
                 <p>Màu sắc:</p>
                 <ul className="mau">
                   <li></li>
