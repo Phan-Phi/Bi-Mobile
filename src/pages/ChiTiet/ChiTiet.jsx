@@ -19,7 +19,7 @@ export default function ChiTiet(props) {
   useEffect(() => {
     dispatch(action);
   }, []);
-  console.log("renderProduct", renderProduct[0]);
+  console.log("renderProduct", renderProduct[0].chiTiet.hinhSP[0]);
 
   let [BtnValue, setBtnValue] = useState(true);
   const samSungReal = useSelector(
@@ -140,7 +140,7 @@ export default function ChiTiet(props) {
           width: "30px",
         }}
       >
-        <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-ip12pro-1-43d3d73d-b4ad-4a15-8f06-18bbeb7f52a4.jpg?v=1629378184627" />
+        <img src={renderProduct[0].chiTiet.hinhSP[0 + i].img} />
       </div>
     ),
   };
@@ -158,6 +158,17 @@ export default function ChiTiet(props) {
       btn.innerHTML = "Xem thêm";
       baiViet.style.display = "none";
     }
+  };
+
+  //render Hinh SP
+  const renderHinhSP = () => {
+    return renderProduct[0].chiTiet.hinhSP.map((img, index) => {
+      return (
+        <div key={index}>
+          <img src={img.img} />
+        </div>
+      );
+    });
   };
 
   return (
@@ -179,18 +190,10 @@ export default function ChiTiet(props) {
             {/* slick chuyen anh */}
             <div className="ChiTiet-img">
               <Slider {...settings1}>
-                <div>
+                {/* <div>
                   <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-ip12pro-1-43d3d73d-b4ad-4a15-8f06-18bbeb7f52a4.jpg?v=1629378184627" />
-                </div>
-                <div>
-                  <h3>2</h3>
-                </div>
-                <div>
-                  <h3>3</h3>
-                </div>
-                <div>
-                  <h3>4</h3>
-                </div>
+                </div> */}
+                {renderHinhSP()}
               </Slider>
             </div>
 

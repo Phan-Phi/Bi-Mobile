@@ -11,8 +11,7 @@ export default function Footer() {
             MST: 41N8046448 do UBND quận Tân Bình cấp ngày 16/6/2020
           </p>
           <p className="footer__text">
-            Địa chỉ: (CN1) 1007/33 Lạc Long Quân, Phường 11, Quận Tân Bình, TP
-            HCM (CN2) (Sớm Khai Trương)
+            Địa chỉ: 633 Hồng Bàng, Quận 6, Thành phố Hồ Chí Minh
           </p>
           <p className="footer__text">
             Điện thoại: <a href="#">0398.813.369</a>

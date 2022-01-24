@@ -2348,15 +2348,6 @@ export const APITongProduct = [
             {
               img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c-02756a25-102b-4cf1-b3f0-875d282ea000.jpg?v=1640695271000",
             },
-            {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
-            },
-            {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
-            },
-            {
-              img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
-            },
           ],
           mauSac: [
             { mauSP: "#d8351a" },
