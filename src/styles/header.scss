@@ -90,10 +90,45 @@ header {
 
                 p {
                     margin-bottom: 0;
+                    position: relative;
+                    cursor: pointer;
 
                     i {
                         padding-right: 5px;
                         font-size: 24px;
+                    }
+
+                    &:hover .taiKhoan {
+                        display: flex;
+                    }
+
+                    .taiKhoan {
+                        z-index: 10;
+                        top: 100%;
+                        width: 200px;
+                        left: -50%;
+                        position: absolute;
+                        background-color: white;
+                        list-style: none;
+                        padding: 7px;
+                        display: none;
+                        flex-direction: column;
+                        gap: 7px;
+                        border-radius: 5px;
+                        box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+
+                        li {
+                            text-align: center;
+                            color: white;
+                            border-radius: 5px;
+                            padding: 5px 15px;
+                            background-color: #ffa400;
+                            transition: all 0.3s;
+
+                            &:hover {
+                                background-color: #d8351a;
+                            }
+                        }
                     }
                 }
             }

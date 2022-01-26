@@ -596,13 +596,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pro-max-sierra-blue-600x600.jpg?v=1640690551000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-silver-600x600.jpg?v=1640690551347",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-graphite-600x600.jpg?v=1640690551347",
         },
       ],
       mauSac: [
@@ -635,13 +635,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pro-max-sierra-blue-600x600.jpg?v=1640690551000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-silver-600x600.jpg?v=1640690551347",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-pro-max-graphite-600x600.jpg?v=1640690551347",
         },
       ],
       mauSac: [
@@ -675,13 +675,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pink-1-600x600.jpg?v=1640689262000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-starlight-1-600x600.jpg?v=1640687790040",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-blue-1-600x600.jpg?v=1640687790040",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-red-1-600x600.jpg?v=1640687790040",
         },
       ],
       mauSac: [
@@ -715,13 +715,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-13-pink-1-600x600.jpg?v=1640689262000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-starlight-1-600x600.jpg?v=1640687790040",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-blue-1-600x600.jpg?v=1640687790040",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-red-1-600x600.jpg?v=1640687790040",
         },
       ],
       mauSac: [
@@ -755,13 +755,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/600-iphone-11-trang-xtmobile-1.jpg?v=1641236170000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-11-xanhla-600x600.jpg?v=1640786821353",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/600x600-crop-iphone-11-128gb-xtmobile.jpg?v=1640786821353",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-iphone-11-tim-didongviet-5.jpg?v=1640786821353",
         },
       ],
       mauSac: [
@@ -795,13 +795,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/600-iphone-11-trang-xtmobile-1.jpg?v=1641236170000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-11-xanhla-600x600.jpg?v=1640786821353",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/600x600-crop-iphone-11-128gb-xtmobile.jpg?v=1640786821353",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-iphone-11-tim-didongviet-5.jpg?v=1640786821353",
         },
       ],
       mauSac: [
@@ -835,13 +835,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-xs-max-gold-600x600.jpg?v=1640692275000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/600-600-xsmax-2.jpg?v=1640692275073",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/xs-max-trang-cd80a8a5-8d7c-42ec-9e1d-eafee23470a4-be545b57-3f52-4897-9dca-fb022463ced0.png?v=1640692275073",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/xs-max-trang-cd80a8a5-8d7c-42ec-9e1d-eafee23470a4-be545b57-3f52-4897-9dca-fb022463ced0.png?v=1640692275073",
         },
       ],
       mauSac: [
@@ -875,13 +875,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-xr-trang-600-1-200x200.jpg?v=1640692701000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-xr-64gb-hop-moi-170220-090200-600x600.jpg?v=1640692701803",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-xr-xanh-1-1-org.jpg?v=1640692701803",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-xr-do-1-1-org.jpg?v=1640692701803",
         },
       ],
       mauSac: [
@@ -915,13 +915,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-x-256gb-a1-600x600.jpg?v=1640692930000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-x-64gb-hh-600x600.jpg?v=1640692930727",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-x-256gb-a1-600x600.jpg?v=1640692930000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-x-64gb-hh-600x600.jpg?v=1640692930727",
         },
       ],
       mauSac: [
@@ -955,13 +955,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-8-plus-hh-600x600-600x600.jpg?v=1640688890000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-8-plus-den-600x600-600x600.jpg?v=1640688890240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-8-plus-64gb-bac-1-2-org.jpg?v=1640688890240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-8-plus-do-1-org.jpg?v=1640688890240https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
         },
       ],
       mauSac: [
@@ -995,13 +995,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/refurb-iphone8-gold.jpg?v=1640688260000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-8-red-256gb-do-600x600-600x600.jpg?v=1640688260023",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-se-128gb-2020-trang-200x200.jpg?v=1640688260023",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-8-64gb-den-1-org.jpg?v=1640688260023",
         },
       ],
       mauSac: [
@@ -1075,13 +1075,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/iphone-7-plus-128gb-hh-600x600.jpg?v=1640688583000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/7prose-1.jpg?v=1640688583330",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-7-plus-32gb-gold-600x600-600x600.jpg?v=1640688583330",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-7-plus-bac1-1-org.jpg?v=1640688583330",
         },
       ],
       mauSac: [
@@ -1117,13 +1117,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
       ],
       mauSac: [
@@ -1151,13 +1151,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/ipad-pro-11-inch-2020-macf5-den-71e2648d-1338-4203-abbf-8971e26dfa29-5867a684-2172-4b1f-a6cf-7c58e894e25d-8b2e53d8-3033-4bc6-8278-c857adbc4b24-47346e90-e8fc-4af0-87b3-84ae802c0992-b0cdccf9-ac82-4384-9cc3-e753f1c6a300.jpg?v=1640865233870",
         },
       ],
       mauSac: [
@@ -1185,13 +1185,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210-19616fdc-6d39-4e2b-872e-7a7270a8184f.png?v=1640694330000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210-19616fdc-6d39-4e2b-872e-7a7270a8184f.png?v=1640694330000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210-19616fdc-6d39-4e2b-872e-7a7270a8184f.png?v=1640694330000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210-19616fdc-6d39-4e2b-872e-7a7270a8184f.png?v=1640694330000",
         },
       ],
       mauSac: [
@@ -1219,13 +1219,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-2018-bachlong-vn.png?v=1640865422000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-2018-bachlong-vn.png?v=1640865422000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-2018-bachlong-vn.png?v=1640865422000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-2018-bachlong-vn.png?v=1640865422000",
         },
       ],
       mauSac: [
@@ -1253,13 +1253,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/10047243-apple-ipad-pro-11-inch-wifi-128gb-bac-2020-1-b6402c75-741b-4da9-80ac-fb4b83b6669f-06543a70-e4ca-4a8c-ba65-8bce7ac2740c.jpg?v=1641713075000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/10047243-apple-ipad-pro-11-inch-wifi-128gb-bac-2020-1-b6402c75-741b-4da9-80ac-fb4b83b6669f-06543a70-e4ca-4a8c-ba65-8bce7ac2740c.jpg?v=1641713075000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/10047243-apple-ipad-pro-11-inch-wifi-128gb-bac-2020-1-b6402c75-741b-4da9-80ac-fb4b83b6669f-06543a70-e4ca-4a8c-ba65-8bce7ac2740c.jpg?v=1641713075000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/10047243-apple-ipad-pro-11-inch-wifi-128gb-bac-2020-1-b6402c75-741b-4da9-80ac-fb4b83b6669f-06543a70-e4ca-4a8c-ba65-8bce7ac2740c.jpg?v=1641713075000",
         },
       ],
       mauSac: [
@@ -1283,6 +1283,15 @@ export const APIProducts = [
       idTong: 1005,
       tenSP: "Apple iPad Air 10.9 2020 4G 256GB I Chính hãng Apple",
       hinhSP: [
+        {
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c-02756a25-102b-4cf1-b3f0-875d282ea000.jpg?v=1640695271000",
+        },
+        {
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c-02756a25-102b-4cf1-b3f0-875d282ea000.jpg?v=1640695271000",
+        },
+        {
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c-02756a25-102b-4cf1-b3f0-875d282ea000.jpg?v=1640695271000",
+        },
         {
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c-02756a25-102b-4cf1-b3f0-875d282ea000.jpg?v=1640695271000",
         },
@@ -1312,13 +1321,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-12-9-inch-wifi-128gb-2020-bac-600x600-1-600x600-9281e73260ed496ea7a63e17fe9e6547.jpg?v=1629785708000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-ipad-pro-11-2020-1.jpg?v=1629785708820",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-12-9-inch-wifi-128gb-2020-bac-600x600-1-600x600-9281e73260ed496ea7a63e17fe9e6547.jpg?v=1629785708000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-11-inch-2020-xam-600x600-200x200.jpg?v=1629785708820",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-12-9-inch-wifi-128gb-2020-bac-600x600-1-600x600-9281e73260ed496ea7a63e17fe9e6547.jpg?v=1629785708000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-11-inch-2020-xam-600x600-200x200.jpg?v=1629785708820",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-pro-12-9-inch-wifi-128gb-2020-bac-600x600-1-600x600-9281e73260ed496ea7a63e17fe9e6547.jpg?v=1629785708000",
         },
       ],
       mauSac: [
@@ -1346,13 +1355,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210.png?v=1640694592000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210.png?v=1640694592000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210.png?v=1640694592000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/starlight-2-196a59e9-768c-4fa0-9994-175828667aa2-618cdfde-d734-4b63-b7e8-0de598936210.png?v=1640694592000",
         },
       ],
       mauSac: [
@@ -1380,13 +1389,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c.jpg?v=1640695427000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c.jpg?v=1640695427000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c.jpg?v=1640695427000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/35791-thumb650-apple-ipad-air-2020-4th-gen-wifi-sky-blue-1-bedfb2a9-2594-4a3f-8142-23c5458c534c-87bea6e4-407c-41e1-8a0d-5ec990d8475c.jpg?v=1640695427000",
         },
       ],
       mauSac: [
@@ -1414,13 +1423,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-wifi-grey-1-600x600-b98f2242-ea1a-4799-bd83-66c2aa3f8a68.jpg?v=1640764230000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-wifi-grey-1-600x600-b98f2242-ea1a-4799-bd83-66c2aa3f8a68.jpg?v=1640764230000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-wifi-grey-1-600x600-b98f2242-ea1a-4799-bd83-66c2aa3f8a68.jpg?v=1640764230000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-wifi-grey-1-600x600-b98f2242-ea1a-4799-bd83-66c2aa3f8a68.jpg?v=1640764230000",
         },
       ],
       mauSac: [
@@ -1448,13 +1457,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/download-1.jpg?v=1629613165000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/download-1.jpg?v=1629613165000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/download-1.jpg?v=1629613165000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/download-1.jpg?v=1629613165000",
         },
       ],
       mauSac: [
@@ -1482,13 +1491,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/images.jpg?v=1629785904000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/images.jpg?v=1629785904000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/images.jpg?v=1629785904000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/images.jpg?v=1629785904000",
         },
       ],
       mauSac: [
@@ -1516,13 +1525,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-mini-6-1-600x600.jpg?v=1641785738000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-mini-6-1-600x600.jpg?v=1641785738000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-mini-6-1-600x600.jpg?v=1641785738000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-mini-6-1-600x600.jpg?v=1641785738000",
         },
       ],
       mauSac: [
@@ -1550,13 +1559,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-d0dd56b0-ac56-48ad-a69f-194e05c27dfa.jpg?v=1641807301000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-d0dd56b0-ac56-48ad-a69f-194e05c27dfa.jpg?v=1641807301000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-d0dd56b0-ac56-48ad-a69f-194e05c27dfa.jpg?v=1641807301000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ipad-gen-9-d0dd56b0-ac56-48ad-a69f-194e05c27dfa.jpg?v=1641807301000",
         },
       ],
       mauSac: [
@@ -1584,13 +1593,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/avt-ipadmini5-2.png?v=1640693891000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/avt-ipadmini5-2.png?v=1640693891000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/avt-ipadmini5-2.png?v=1640693891000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/avt-ipadmini5-2.png?v=1640693891000",
         },
       ],
       mauSac: [
@@ -1620,13 +1629,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mku73-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-0595d5b2-3731-4f58-a13a-69f1c1d8555a.jpg?v=1641807212000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mku93-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-fb10135f-e18f-475d-82ca-c12c711780bf.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkud3-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-93565581-87b6-4196-9abe-0b849caa0bbe.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/den-487adb93-ef22-450e-a647-4eafd57ce74d.jpg?v=1641807212240",
         },
       ],
       mauSac: [
@@ -1639,7 +1648,7 @@ export const APIProducts = [
         { dungLuongSP: "256GB" },
         { dungLuongSP: "512GB" },
       ],
-      giaSP: "13.300.000₫",
+      giaSP: "12.300.000₫",
       thuongHieu: "Apple",
       maSanPham: "AWS7",
     },
@@ -1654,13 +1663,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mku93-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co.jpg?v=1641786062000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mku93-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-fb10135f-e18f-475d-82ca-c12c711780bf.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkud3-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-93565581-87b6-4196-9abe-0b849caa0bbe.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/den-487adb93-ef22-450e-a647-4eafd57ce74d.jpg?v=1641807212240",
         },
       ],
       mauSac: [
@@ -1688,13 +1697,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-41mm-4g-vien-thep-day-cao-su-didongviet-1-4f41b42b-4dd2-49cb-ad4d-a13d6027453d.jpg?v=1641015328000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mku93-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-fb10135f-e18f-475d-82ca-c12c711780bf.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkud3-vw-34fr-plus-watch-41-alum-midnight-nc-7s-vw-34fr-wf-co-93565581-87b6-4196-9abe-0b849caa0bbe.jpg?v=1641807212240",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/den-487adb93-ef22-450e-a647-4eafd57ce74d.jpg?v=1641807212240",
         },
       ],
       mauSac: [
@@ -1722,13 +1731,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-se-40mm-vien-nhom-day-cao-su-01-600x600-bd817a64-c721-4d6a-adfc-57e338b847e5.jpg?v=1629785066000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/aw-se-2-1815-9fa639dd-76d2-427f-8889-b82bbd752e6a.jpg?v=1629785066533",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/10038440-dong-ho-thong-minh-apple-watch-series-3-42mm-silver-white-sport-band-1-c6d50897-1239-4e14-a758-79aa6265f820.jpg?v=1629785066533",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-gps-40mm-aluminum-case-with-sport-band-1aac9adf-b083-471b-b3d4-7e395205a8b2.png?v=1640091158413",
         },
       ],
       mauSac: [
@@ -1756,13 +1765,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/6215917-sd-d13a531b-f745-4c52-891c-dea01b9dfa36.jpg?v=1641631497000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-40-mm-gps-vien-nhom-xam-day-cao-su-didongviet-d029fbc1-6f2a-4231-aa4d-fca7c72184d0.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkuu3-vw-34fr-plus-watch-44-alum-gold-cell-se-vw-34fr-wf-co-4b79ea1f-b034-4afa-99f1-956a5e8199af.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/se-40mm-vien-nhom-day-cao-su-hong-thumb-1-600x600-a438444b-1135-40dd-a60c-9eba6908480b.jpg?v=1641631497630https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -1790,13 +1799,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-se-44mm-4g-vien-nhom-day-vai-white-1.jpg?v=1641109013000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-se-44mm-4g-vien-nhom-day-vai-white-1.jpg?v=1641109013000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-se-44mm-4g-vien-nhom-day-vai-white-1.jpg?v=1641109013000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-se-44mm-4g-vien-nhom-day-vai-white-1.jpg?v=1641109013000",
         },
       ],
       mauSac: [
@@ -1821,16 +1830,16 @@ export const APIProducts = [
       tenSP: "Apple Watch SE 44mm (4G) Viền Nhôm - Dây Cao Su  | Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/6215917-sd-d13a531b-f745-4c52-891c-dea01b9dfa36-fd09d304-2a52-4dce-8bf9-40802f03a783.jpg?v=1641109599000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/6215917-sd-d13a531b-f745-4c52-891c-dea01b9dfa36.jpg?v=1641631497000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-40-mm-gps-vien-nhom-xam-day-cao-su-didongviet-d029fbc1-6f2a-4231-aa4d-fca7c72184d0.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkuu3-vw-34fr-plus-watch-44-alum-gold-cell-se-vw-34fr-wf-co-4b79ea1f-b034-4afa-99f1-956a5e8199af.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/se-40mm-vien-nhom-day-cao-su-hong-thumb-1-600x600-a438444b-1135-40dd-a60c-9eba6908480b.jpg?v=1641631497630https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -1855,16 +1864,16 @@ export const APIProducts = [
       tenSP: "Apple Watch SE 44mm (4G) Viền Nhôm - Dây Cao Su  | Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/se-40mm-vien-nhom-day-cao-su-hong-thumb-234918-600x600.jpg?v=1629785041000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/6215917-sd-d13a531b-f745-4c52-891c-dea01b9dfa36.jpg?v=1641631497000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-40-mm-gps-vien-nhom-xam-day-cao-su-didongviet-d029fbc1-6f2a-4231-aa4d-fca7c72184d0.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mkuu3-vw-34fr-plus-watch-44-alum-gold-cell-se-vw-34fr-wf-co-4b79ea1f-b034-4afa-99f1-956a5e8199af.jpg?v=1641631497630",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/se-40mm-vien-nhom-day-cao-su-hong-thumb-1-600x600-a438444b-1135-40dd-a60c-9eba6908480b.jpg?v=1641631497630https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -1892,13 +1901,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-thumb-229042-600x600.jpg?v=1629785270000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-s6-44mm-vien-nhom-day-cao-su-ava-600x600.jpg?v=1629785270607",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-gps-40mm-aluminum-case-with-sport-band-6830af5e-64bc-4dd8-afaa-c35daff33edf-569a3761-ab93-42eb-9fc0-16c6e8de9696-4b34ccfe-c6ed-43aa-af3f-4eec03f998fd-8da57333-78fd-40a2-9d37-2816d7c0324b.png?v=1629785278677",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/trang-org-c8987fef-bfda-47b3-8dd8-d8c48632eec4-4febd437-e4a4-445d-acd0-f260e705a1a8-39dc7bc6-92de-4e2f-8f52-170f0c8178a0.jpg?v=1629785278677",
         },
       ],
       mauSac: [
@@ -1923,16 +1932,16 @@ export const APIProducts = [
       tenSP: "Apple Watch S6 40MM Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mtp62-vw-34frwatch-40-alum-spacegray-nc-6s-vw-34fr-wf-co.jpg?v=1640092247000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-thumb-229042-600x600.jpg?v=1629785270000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-s6-44mm-vien-nhom-day-cao-su-ava-600x600.jpg?v=1629785270607",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-watch-se-gps-40mm-aluminum-case-with-sport-band-6830af5e-64bc-4dd8-afaa-c35daff33edf-569a3761-ab93-42eb-9fc0-16c6e8de9696-4b34ccfe-c6ed-43aa-af3f-4eec03f998fd-8da57333-78fd-40a2-9d37-2816d7c0324b.png?v=1629785278677",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/trang-org-c8987fef-bfda-47b3-8dd8-d8c48632eec4-4febd437-e4a4-445d-acd0-f260e705a1a8-39dc7bc6-92de-4e2f-8f52-170f0c8178a0.jpg?v=1629785278677",
         },
       ],
       mauSac: [
@@ -1960,13 +1969,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/636778799310641475-00509082-1.jpg?v=1641807766000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjq2.jpg?v=1641807766647",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjw2.jpg?v=1641807766647",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjw2.jpg?v=1641807766647",
         },
       ],
       mauSac: [
@@ -1991,16 +2000,16 @@ export const APIProducts = [
       tenSP: "Apple Watch S3 GPS Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-trang-thumb-1-1-600x600.jpg?v=1629784844000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/636778799310641475-00509082-1.jpg?v=1641807766000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjq2.jpg?v=1641807766647",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjw2.jpg?v=1641807766647",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/fqjw2.jpg?v=1641807766647",
         },
       ],
       mauSac: [
@@ -2027,13 +2036,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-thep-day-thep-vang-cont-1-org.jpg?v=1640866644000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-thep-day-thep-vang-cont-1-org.jpg?v=1640866644000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-thep-day-thep-vang-cont-1-org.jpg?v=1640866644000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-thep-day-thep-vang-cont-1-org.jpg?v=1640866644000",
         },
       ],
       mauSac: [
@@ -2060,13 +2069,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1-c26ac644-63a3-4d19-935e-5459f8bd9e6e.jpg?v=1641014352000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1-c26ac644-63a3-4d19-935e-5459f8bd9e6e.jpg?v=1641014352000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1-c26ac644-63a3-4d19-935e-5459f8bd9e6e.jpg?v=1641014352000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-series-7-lte-45mm-day-thep-bac-1-c26ac644-63a3-4d19-935e-5459f8bd9e6e.jpg?v=1641014352000",
         },
       ],
       mauSac: [
@@ -2093,13 +2102,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-xanh-cont-2-org-org.jpg?v=1641109903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-xanh-cont-2-org-org.jpg?v=1641109903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-xanh-cont-2-org-org.jpg?v=1641109903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s6-lte-44mm-vien-nhom-day-cao-su-xanh-cont-2-org-org.jpg?v=1641109903000",
         },
       ],
       mauSac: [
@@ -2126,13 +2135,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-12-org.jpg?v=1641110777000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-12-org.jpg?v=1641110777000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-12-org.jpg?v=1641110777000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s3-gps-42mm-vien-nhom-day-cao-su-den-12-org.jpg?v=1641110777000",
         },
       ],
       mauSac: [
@@ -2159,13 +2168,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s5-40mm-vien-nhom-day-cao-su-1-org-206b249f-9977-473d-be56-56ecae86cafe-e6aa7beb-ce39-4bef-aee9-33af59bd83bd.jpg?v=1640686903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s5-40mm-vien-nhom-day-cao-su-1-org-206b249f-9977-473d-be56-56ecae86cafe-e6aa7beb-ce39-4bef-aee9-33af59bd83bd.jpg?v=1640686903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s5-40mm-vien-nhom-day-cao-su-1-org-206b249f-9977-473d-be56-56ecae86cafe-e6aa7beb-ce39-4bef-aee9-33af59bd83bd.jpg?v=1640686903000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-watch-s5-40mm-vien-nhom-day-cao-su-1-org-206b249f-9977-473d-be56-56ecae86cafe-e6aa7beb-ce39-4bef-aee9-33af59bd83bd.jpg?v=1640686903000",
         },
       ],
       mauSac: [
@@ -2266,13 +2275,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/5bd40107b2e327c499c81bb200ea213e-c96a860f-4cc3-4345-9737-3fe6cbdfeb4b.jpg?v=1641704324000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery2-202110-ec21495b-6763-413e-a39a-8a60c74ea0ae-390e5e83-9eab-4190-8799-12df9c209f05-f32f9d8c-3362-4154-a8ea-ac88c0b25393-868d8ec0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery3-202110-95cb14e7-a307-4422-91de-8597b069a95c-5aeb1a79-af4c-41a1-92df-693b58c43536-1cdd2022-a49e-4421-b24a-327c1af06acc-c2888920-3c77-4e85-8373-9c6978a2e509.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp14-silver-gallery5-202110-6207dabd-c315-4c34-876d-c77f319a8155-5ae4d557-7f85-4389-9375-296995ba0811-bc82a3d6-9fb0-4c55-b816-d498841d2184-58f797da-4b8c-4ac7-ad53-6f66ae39c66a.jpg?v=1641704565103",
         },
       ],
       mauSac: [
@@ -2301,13 +2310,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/5bd40107b2e327c499c81bb200ea213e-c96a860f-4cc3-4345-9737-3fe6cbdfeb4b.jpg?v=1641704324000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery2-202110-ec21495b-6763-413e-a39a-8a60c74ea0ae-390e5e83-9eab-4190-8799-12df9c209f05-f32f9d8c-3362-4154-a8ea-ac88c0b25393-868d8ec0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery3-202110-95cb14e7-a307-4422-91de-8597b069a95c-5aeb1a79-af4c-41a1-92df-693b58c43536-1cdd2022-a49e-4421-b24a-327c1af06acc-c2888920-3c77-4e85-8373-9c6978a2e509.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp14-silver-gallery5-202110-6207dabd-c315-4c34-876d-c77f319a8155-5ae4d557-7f85-4389-9375-296995ba0811-bc82a3d6-9fb0-4c55-b816-d498841d2184-58f797da-4b8c-4ac7-ad53-6f66ae39c66a.jpg?v=1641704565103",
         },
       ],
       mauSac: [
@@ -2335,13 +2344,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/5bd40107b2e327c499c81bb200ea213e-c96a860f-4cc3-4345-9737-3fe6cbdfeb4b.jpg?v=1641704324000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery2-202110-ec21495b-6763-413e-a39a-8a60c74ea0ae-390e5e83-9eab-4190-8799-12df9c209f05-f32f9d8c-3362-4154-a8ea-ac88c0b25393-868d8ec0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp14-silver-gallery3-202110-95cb14e7-a307-4422-91de-8597b069a95c-5aeb1a79-af4c-41a1-92df-693b58c43536-1cdd2022-a49e-4421-b24a-327c1af06acc-c2888920-3c77-4e85-8373-9c6978a2e509.jpg?v=1641704565103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp14-silver-gallery5-202110-6207dabd-c315-4c34-876d-c77f319a8155-5ae4d557-7f85-4389-9375-296995ba0811-bc82a3d6-9fb0-4c55-b816-d498841d2184-58f797da-4b8c-4ac7-ad53-6f66ae39c66a.jpg?v=1641704565103",
         },
       ],
       mauSac: [
@@ -2367,16 +2376,16 @@ export const APIProducts = [
         "Macbook Pro M1 Pro 16 10 CPU - 16 GPU 16GB 1TB 2021 | Chính hãng Apple",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp16-spacegray-gallery2-202110-d1c84cd2-14e8-4737-ba8b-0ea64ec7fc83.jpg?v=1641703930000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/70d642945adc42613beaec7619687bff-1a04f907-c832-42a5-9f22-a221df48b9df-bcfe3932-f602-401a-a6bf-00883983a145-c4a0c86e-cb6f-4512-83ab-85e3a1d1d2b2.jpg?v=1641783941000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -2401,16 +2410,16 @@ export const APIProducts = [
       tenSP: "MacBook Pro M1 16GB 512GB 2020I Chính hãng mới 100%",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/macbook-pro-m1-myd82-maconline-95699b86-dff2-4b5e-8003-3950ef8f373e-080a3e37-e0cc-4f6b-b8d6-260dd0092835.jpg?v=1640865945000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/70d642945adc42613beaec7619687bff-1a04f907-c832-42a5-9f22-a221df48b9df-bcfe3932-f602-401a-a6bf-00883983a145-c4a0c86e-cb6f-4512-83ab-85e3a1d1d2b2.jpg?v=1641783941000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/macbook-pro-m1-2020-maconline-55fb3b34-931a-4920-bf74-5635bcf3e0e5-3c85672a-cf06-4e0e-b1c5-643751eb8c8b.jpg?v=1640865945113",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -2438,13 +2447,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/macbook-pro-m1-myd82-maconline.jpg?v=1629321379000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -2473,13 +2482,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp16-spacegray-gallery2-202110-d1c84cd2-14e8-4737-ba8b-0ea64ec7fc83-c2da8f57-6ed3-4d0f-8475-77562edec8ed-5094b683-3aa9-47c2-9208-25b68d2a6d66-4e933756-98cb-4272-8315-71fe3a5abac1.jpg?v=1641634099000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -2508,13 +2517,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/mbp16-spacegray-gallery2-202110-d1c84cd2-14e8-4737-ba8b-0ea64ec7fc83-c2da8f57-6ed3-4d0f-8475-77562edec8ed-5094b683-3aa9-47c2-9208-25b68d2a6d66-4e933756-98cb-4272-8315-71fe3a5abac1.jpg?v=1641634099000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-gold-1-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -2733,138 +2742,6 @@ export const APIProducts = [
       maSanPham: "MBPM1",
     },
   },
-  {
-    chiTiet: {
-      id: 100117,
-      tenSP: "Apple MacBook Air M1 16GB 256GB 2020 I Chính hãng mới 100%",
-      hinhSP: [
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/thumb-airm1-1-c1f9fbcc-72b3-4096-9178-1a4e3e78c920-d86aeda4-a9d8-40f8-a2a6-0e938510a792-dbc1a7b4-b227-4374-b2d9-91296dc95a13.jpg?v=1640139226197",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…2-9559-47b9-add9-0dff0e49f442.jpg?v=1640139226197",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
-        },
-      ],
-      mauSac: [
-        { mauSP: "#d8351a" },
-        { mauSP: "#e6fa0a" },
-        { mauSP: "#000000" },
-      ],
-      dungLuong: [
-        { dungLuongSP: "128GB" },
-        { dungLuongSP: "256GB" },
-        { dungLuongSP: "512GB" },
-      ],
-      giaSP: "30.500.000₫",
-      thuongHieu: "Apple",
-      maSanPham: "(Đang cập nhật...)",
-    },
-  },
-  {
-    chiTiet: {
-      id: 100118,
-      tenSP: "Apple MacBook Air M1 16GB 512GB 2020 I Chính hãng mới 100%",
-      hinhSP: [
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/thumb-airm1-1-c1f9fbcc-72b3-4096-9178-1a4e3e78c920-d86aeda4-a9d8-40f8-a2a6-0e938510a792.jpg?v=1640139156807",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…4-a9d8-40f8-a2a6-0e938510a792.jpg?v=1640139156807",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
-        },
-      ],
-      mauSac: [
-        { mauSP: "#d8351a" },
-        { mauSP: "#e6fa0a" },
-        { mauSP: "#000000" },
-      ],
-      dungLuong: [
-        { dungLuongSP: "128GB" },
-        { dungLuongSP: "256GB" },
-        { dungLuongSP: "512GB" },
-      ],
-      giaSP: "35.500.000₫",
-      thuongHieu: "Apple",
-      maSanPham: "(Đang cập nhật...)",
-    },
-  },
-  {
-    chiTiet: {
-      id: 100119,
-      tenSP: "Apple MacBook Air M1 512GB 2020 I Chính hãng mới 100%",
-      hinhSP: [
-        {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-airm1-1-c1f9fbcc-72b3-4096-9178-1a4e3e78c920.jpg?v=1641725066000",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
-        },
-      ],
-      mauSac: [
-        { mauSP: "#d8351a" },
-        { mauSP: "#e6fa0a" },
-        { mauSP: "#000000" },
-      ],
-      dungLuong: [
-        { dungLuongSP: "128GB" },
-        { dungLuongSP: "256GB" },
-        { dungLuongSP: "512GB" },
-      ],
-      giaSP: "30.600.000₫",
-      thuongHieu: "Apple",
-      maSanPham: "MBAM2",
-    },
-  },
-  {
-    chiTiet: {
-      id: 100120,
-      tenSP: "Apple MacBook Air M1 256GB 2020 I Chính hãng mới 100%",
-      hinhSP: [
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/thumb-airm1-1.jpg?v=1629321187507",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…book-air-2020-m1-mgnd3-flxj9b.jpg?v=1629321187507",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
-        },
-        {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
-        },
-      ],
-      mauSac: [
-        { mauSP: "#d8351a" },
-        { mauSP: "#e6fa0a" },
-        { mauSP: "#000000" },
-      ],
-      dungLuong: [
-        { dungLuongSP: "128GB" },
-        { dungLuongSP: "256GB" },
-        { dungLuongSP: "512GB" },
-      ],
-      giaSP: "24.990.000₫",
-      thuongHieu: "Apple",
-      maSanPham: "MBAM1",
-    },
-  },
 
   //Product iMac
   {
@@ -2878,13 +2755,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553-0752b4d0-9606-4dcf-80cd-cfb83e00af3d.png?v=1641640715000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/06e75a4ba2d2bbaef95b46d17f3a871b-b1ccffdc-02e1-4853-9898-1c7a7cc4d152-67789911-1de9-4b0f-9257-65a5d7b2b77a-3e740835-f303-495c-bf2d-c9da34b2b1db-2f590fb5-c929-47aa-bf78-eb2546c6ce32.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215-gallery-4-126bde83-7cda-43d9-a812-6e443190f263-990c96d1-ee1a-4d2f-a9a9-784dedc1e32a-48a7c788-1d7b-412b-8303-40fb6b1d6510-86a29736-310d-4851-bc83-a283cbd12896.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215in-3-9abfc5e6-92c6-43cc-8839-5ab764827739-3c442944-8cff-4486-9be9-fd63c9f0dacd-37f81852-38c0-4242-95af-f5ffc06f4413-e8101422-c6ce-41e2-92ad-9e54f61021c2.jpg?v=1641640715280",
         },
       ],
       mauSac: [
@@ -2910,16 +2787,16 @@ export const APIProducts = [
         "Apple iMac 27 5K 2020 i5 3.1 8GB 256GB Radeon 5300 Chính Hãng (MXWT2)",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553.png?v=1641640969000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553-0752b4d0-9606-4dcf-80cd-cfb83e00af3d.png?v=1641640715000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/06e75a4ba2d2bbaef95b46d17f3a871b-b1ccffdc-02e1-4853-9898-1c7a7cc4d152-67789911-1de9-4b0f-9257-65a5d7b2b77a-3e740835-f303-495c-bf2d-c9da34b2b1db-2f590fb5-c929-47aa-bf78-eb2546c6ce32.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215-gallery-4-126bde83-7cda-43d9-a812-6e443190f263-990c96d1-ee1a-4d2f-a9a9-784dedc1e32a-48a7c788-1d7b-412b-8303-40fb6b1d6510-86a29736-310d-4851-bc83-a283cbd12896.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215in-3-9abfc5e6-92c6-43cc-8839-5ab764827739-3c442944-8cff-4486-9be9-fd63c9f0dacd-37f81852-38c0-4242-95af-f5ffc06f4413-e8101422-c6ce-41e2-92ad-9e54f61021c2.jpg?v=1641640715280",
         },
       ],
       mauSac: [
@@ -2945,16 +2822,16 @@ export const APIProducts = [
         "Apple iMac 27 5K 2020 i7 3.8 8GB 512GB Radeon 5500XT Chính Hãng (MXWV2)",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3.png?v=1641710257000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553-0752b4d0-9606-4dcf-80cd-cfb83e00af3d.png?v=1641640715000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/06e75a4ba2d2bbaef95b46d17f3a871b-b1ccffdc-02e1-4853-9898-1c7a7cc4d152-67789911-1de9-4b0f-9257-65a5d7b2b77a-3e740835-f303-495c-bf2d-c9da34b2b1db-2f590fb5-c929-47aa-bf78-eb2546c6ce32.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215-gallery-4-126bde83-7cda-43d9-a812-6e443190f263-990c96d1-ee1a-4d2f-a9a9-784dedc1e32a-48a7c788-1d7b-412b-8303-40fb6b1d6510-86a29736-310d-4851-bc83-a283cbd12896.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215in-3-9abfc5e6-92c6-43cc-8839-5ab764827739-3c442944-8cff-4486-9be9-fd63c9f0dacd-37f81852-38c0-4242-95af-f5ffc06f4413-e8101422-c6ce-41e2-92ad-9e54f61021c2.jpg?v=1641640715280",
         },
       ],
       mauSac: [
@@ -2980,16 +2857,16 @@ export const APIProducts = [
         "Apple imac 21.5 4K 2020 i5 3.0 8GB 256GB Radeon 560X Chính Hãng (MHK33)",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b.png?v=1641710673000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553-0752b4d0-9606-4dcf-80cd-cfb83e00af3d.png?v=1641640715000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/06e75a4ba2d2bbaef95b46d17f3a871b-b1ccffdc-02e1-4853-9898-1c7a7cc4d152-67789911-1de9-4b0f-9257-65a5d7b2b77a-3e740835-f303-495c-bf2d-c9da34b2b1db-2f590fb5-c929-47aa-bf78-eb2546c6ce32.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215-gallery-4-126bde83-7cda-43d9-a812-6e443190f263-990c96d1-ee1a-4d2f-a9a9-784dedc1e32a-48a7c788-1d7b-412b-8303-40fb6b1d6510-86a29736-310d-4851-bc83-a283cbd12896.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215in-3-9abfc5e6-92c6-43cc-8839-5ab764827739-3c442944-8cff-4486-9be9-fd63c9f0dacd-37f81852-38c0-4242-95af-f5ffc06f4413-e8101422-c6ce-41e2-92ad-9e54f61021c2.jpg?v=1641640715280",
         },
       ],
       mauSac: [
@@ -3014,16 +2891,16 @@ export const APIProducts = [
       tenSP: "Apple iMac 21.5 2020 i5 2.3 8GB 256GB Chính Hãng (MHK03)",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6.png?v=1641713744000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-21-inch-2020-mac24h-xuo7-a6-53ec02de-11a9-4fa8-97b3-abffa9e7572b-02f7b841-95d0-430e-af68-564d097ce9b3-ae712841-a9b6-4215-8844-0aa8b187b553-0752b4d0-9606-4dcf-80cd-cfb83e00af3d.png?v=1641640715000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/06e75a4ba2d2bbaef95b46d17f3a871b-b1ccffdc-02e1-4853-9898-1c7a7cc4d152-67789911-1de9-4b0f-9257-65a5d7b2b77a-3e740835-f303-495c-bf2d-c9da34b2b1db-2f590fb5-c929-47aa-bf78-eb2546c6ce32.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215-gallery-4-126bde83-7cda-43d9-a812-6e443190f263-990c96d1-ee1a-4d2f-a9a9-784dedc1e32a-48a7c788-1d7b-412b-8303-40fb6b1d6510-86a29736-310d-4851-bc83-a283cbd12896.jpg?v=1641640715280",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-215in-3-9abfc5e6-92c6-43cc-8839-5ab764827739-3c442944-8cff-4486-9be9-fd63c9f0dacd-37f81852-38c0-4242-95af-f5ffc06f4413-e8101422-c6ce-41e2-92ad-9e54f61021c2.jpg?v=1641640715280",
         },
       ],
       mauSac: [
@@ -3051,13 +2928,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/66bc676d412197b59a139f68f96cdd15-5599462f-f68a-42f0-9fff-6d31e79602c7.jpg?v=1641723778000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
       ],
       mauSac: [
@@ -3082,16 +2959,16 @@ export const APIProducts = [
       tenSP: "Apple iMac 24 2021 M1 8GPU 8GB 256GB Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-24-inch-45k-retina-m1-mj93saa-600x600-8c951b90-6241-41ba-a048-da528d631f50-83c9ebe7-a49c-4b68-b8cf-52f9664a3739-80d2b7c6-2740-4f49-b02e-8c42f12fca00-540d2854-269c-457d-b6ca-1480b4ec9399.jpg?v=1641723774000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/66bc676d412197b59a139f68f96cdd15-5599462f-f68a-42f0-9fff-6d31e79602c7.jpg?v=1641723778000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
       ],
       mauSac: [
@@ -3116,16 +2993,16 @@ export const APIProducts = [
       tenSP: "Apple iMac 24 2021 M1 8GPU 16GB 1TB Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-24-inch-45k-retina-m1-mj93saa-600x600-8c951b90-6241-41ba-a048-da528d631f50-83c9ebe7-a49c-4b68-b8cf-52f9664a3739-80d2b7c6-2740-4f49-b02e-8c42f12fca00.jpg?v=1641724350000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/66bc676d412197b59a139f68f96cdd15-5599462f-f68a-42f0-9fff-6d31e79602c7.jpg?v=1641723778000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
       ],
       mauSac: [
@@ -3150,16 +3027,16 @@ export const APIProducts = [
       tenSP: "Apple iMac 24 2021 M1 8GPU 16GB 512GB Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-24-inch-45k-retina-m1-mj93saa-600x600-8c951b90-6241-41ba-a048-da528d631f50-83c9ebe7-a49c-4b68-b8cf-52f9664a3739-80d2b7c6-2740-4f49-b02e-8c42f12fca00.jpg?v=1641724350000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/66bc676d412197b59a139f68f96cdd15-5599462f-f68a-42f0-9fff-6d31e79602c7.jpg?v=1641723778000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
       ],
       mauSac: [
@@ -3184,16 +3061,16 @@ export const APIProducts = [
       tenSP: "Apple iMac 24 2021 M1 8GPU 16GB 256GB Chính Hãng",
       hinhSP: [
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/imac-24-inch-45k-retina-m1-mj93saa-600x600-8c951b90-6241-41ba-a048-da528d631f50-83c9ebe7-a49c-4b68-b8cf-52f9664a3739-80d2b7c6-2740-4f49-b02e-8c42f12fca00.jpg?v=1641724350000",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/66bc676d412197b59a139f68f96cdd15-5599462f-f68a-42f0-9fff-6d31e79602c7.jpg?v=1641723778000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/78528e8ccbb704a0b18ccbb0ffb92d1a-73ee837f-62e0-4ad3-bfd9-72e94b6a72d3.jpg?v=1641723778070",
         },
       ],
       mauSac: [
@@ -3291,13 +3168,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-airm1-1-c1f9fbcc-72b3-4096-9178-1a4e3e78c920-d86aeda4-a9d8-40f8-a2a6-0e938510a792-dbc1a7b4-b227-4374-b2d9-91296dc95a13.jpg?v=1641724863000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -3325,13 +3202,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-airm1-1-c1f9fbcc-72b3-4096-9178-1a4e3e78c920-d86aeda4-a9d8-40f8-a2a6-0e938510a792-dbc1a7b4-b227-4374-b2d9-91296dc95a13.jpg?v=1641724863000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
         },
       ],
       mauSac: [
@@ -3361,13 +3238,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
       ],
       mauSac: [
@@ -3395,13 +3272,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery1-202110-afa9c05c-6a7a-4de3-ac0c-9ef1f3fe45c0-d700915e-e39b-438e-8c47-fc8a116ab1d2.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
       ],
       mauSac: [
@@ -3429,13 +3306,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
         },
         {
-          img: "	https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
       ],
       mauSac: [
@@ -3463,13 +3340,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
       ],
       mauSac: [
@@ -3497,13 +3374,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/unnamed.jpg?v=1629321803000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…0-42ca-4ddf-9555-d3a39e3797df.jpg?v=1640745711720",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mac-mini-1-960x540.jpg?v=1629321803973",
         },
       ],
       mauSac: [
@@ -3533,13 +3410,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mme73.jpg?v=1641349047813",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mme73.jpg?v=1641349047813",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mme73.jpg?v=1641349047813",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mme73.jpg?v=1641349047813",
         },
       ],
       mauSac: [
@@ -3567,13 +3444,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
         },
       ],
       mauSac: [
@@ -3604,10 +3481,10 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-blue-1-600x600.jpg?v=1640687790040",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/iphone-13-mini-blue-1-600x600.jpg?v=1640687790040",
         },
       ],
       mauSac: [
@@ -3636,13 +3513,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/api3-spbio-blck-front-1-600x600.jpg?v=1629781739000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spbio-blue-front-600x600.png?v=1629781740183",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spbio-corl-front-1-600x600.jpg?v=1629781743927",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spbio-kaki-front-2-600x600.jpg?v=1629781744460",
         },
       ],
       mauSac: [
@@ -3671,13 +3548,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/api3-spmfr-blck-front-4-600x600.png?v=1629781444000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spmfr-blck-marketing-1-600x600.jpg?v=1629781448550",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spmfr-blck-marketing-2-600x600.jpg?v=1629781448987",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/api3-spmfr-blck-marketing-3-600x600.jpg?v=1629781449237",
         },
       ],
       mauSac: [
@@ -3705,13 +3582,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bluetooth-airpods-max-apple-1-1-org.jpg?v=1629621123000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-max-apple-2-1-org.jpg?v=1629621124257",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-max-apple-4-1-org.jpg?v=1629621132327",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-max-apple-1-2-org-1.jpg?v=1629621132587",
         },
       ],
       mauSac: [
@@ -3739,13 +3616,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg?v=1629615536000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-2-org.jpg?v=1629615537490",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-3-org.jpg?v=1629615543340",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/airpods-pro-wireless-charge-apple-mwp22-ava-4-org.jpg?v=1629615543853",
         },
       ],
       mauSac: [
@@ -3773,13 +3650,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bluetooth-airpods-2-apple-mv7n2-imei-1-org.jpg?v=1629615365000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-2-apple-mv7n2-imei-2-org.jpg?v=1629615369750",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-2-apple-mv7n2-imei-3-org.jpg?v=1629615370103",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/bluetooth-airpods-2-apple-mv7n2-imei-4-org.jpg?v=1629615370377",
         },
       ],
       mauSac: [
@@ -3809,13 +3686,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery2-202110-ce8e008c-3835-4ab3-b61b-24663123c001-7a3af118-1c23-488b-8985-89cf32d8b890.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/mbp16-silver-gallery3-202110-ef318056-5f92-48f5-a2d3-2d3935cdd01f-d95a688a-8bc1-4589-b761-3ec2f1e183b7.jpg?v=1640745906697",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
       ],
       mauSac: [
@@ -3843,13 +3720,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-02e1-4853-9898-1c7a7cc4d152.jpg?v=1640746515980",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/bo-sac-nhanh-iphone-18w-chinh-hang-chinh-1.jpg?v=1629614223000",
         },
       ],
       mauSac: [
@@ -3877,13 +3754,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/tai-nghe-earpods-cong-lightning-apple-mmtn2-org-1.jpg?v=1629615085000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/apple-macbook-air-2020-m1-mgnd3-flxj9b-3e0b956e-82a2-4e07-b32d-ce80e1d2ea31.jpg?v=1640139130173",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/tai-nghe-earpods-cong-lightning-apple-mmtn2-org-1.jpg?v=1629615085000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290/products/imac-24-inch-2021-blue-2-600x600-b2306bf4-a62b-4e6b-b621-e09458d2b7b6-b9ce9a63-0a7f-4707-ae84-5b988bd616ac-be487275-2778-45e0-b598-fe4fb257578e-2dc02fc7-4f84-4af9-98f9-3ca5142807ab-b33034c0-d5a7-45de-953c-c0e08c72045f.png?v=1640140322193",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/tai-nghe-earpods-cong-lightning-apple-mmtn2-org-1.jpg?v=1629615085000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/tai-nghe-earpods-cong-lightning-apple-mmtn2-org-1.jpg?v=1629615085000",
         },
       ],
       mauSac: [
@@ -3911,13 +3788,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…c-24-inch-2021-blue-2-600x600.png?v=1629322149793",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/cap-lightning-1m-apple-mque2-trang-1-org.jpg?v=1629614879000",
         },
       ],
       mauSac: [
@@ -3945,13 +3822,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/ban-phim-magic-keyboard-2-cho-ipad-pro-11-inch-apple-mxqt2-avt-600x600.jpg?v=1629622222000",
         },
       ],
       mauSac: [
@@ -3979,13 +3856,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airtag-1-pack-avt-600x600.jpg?v=1629621625000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airtag-1-pack-avt-600x600.jpg?v=1629621625000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airtag-1-pack-avt-600x600.jpg?v=1629621625000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/airtag-1-pack-avt-600x600.jpg?v=1629621625000",
         },
       ],
       mauSac: [
@@ -4013,13 +3890,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/sac-khong-day-magsafe-apple-av-600x600.jpg?v=1629622580000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/sac-khong-day-magsafe-apple-av-600x600.jpg?v=1629622580000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/sac-khong-day-magsafe-apple-av-600x600.jpg?v=1629622580000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/sac-khong-day-magsafe-apple-av-600x600.jpg?v=1629622580000",
         },
       ],
       mauSac: [
@@ -4047,13 +3924,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/chuot-bluetooth-apple-mla02-trang-org-1.jpg?v=1629621582000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/chuot-bluetooth-apple-mla02-trang-org-1.jpg?v=1629621582000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/chuot-bluetooth-apple-mla02-trang-org-1.jpg?v=1629621582000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/chuot-bluetooth-apple-mla02-trang-org-1.jpg?v=1629621582000",
         },
       ],
       mauSac: [
@@ -4081,13 +3958,13 @@ export const APIProducts = [
           img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-tv-4k.jpg?v=1629691538000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…s/41821-apple-mac-mini-m1-ha2.jpg?v=1629321803973",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-tv-4k.jpg?v=1629691538000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…one-13-pro-max-silver-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-tv-4k.jpg?v=1629691538000",
         },
         {
-          img: "https://bizweb.dktcdn.net/thumb/medium/100/434/290…e-13-pro-max-graphite-600x600.jpg?v=1640690551347",
+          img: "https://bizweb.dktcdn.net/thumb/large/100/434/290/products/apple-tv-4k.jpg?v=1629691538000",
         },
       ],
       mauSac: [

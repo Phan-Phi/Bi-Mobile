@@ -35,6 +35,13 @@ export default function Header() {
               <p>
                 <i className="far fa-user" />
                 Tài khoản
+                <ul className="taiKhoan">
+                  <li className="dangNhap">Đăng Nhập</li>
+                  <li className="dangKy">Đăng Ký</li>
+                  <li className="yeuThich">
+                    Yêu Thích <span>0</span>
+                  </li>
+                </ul>
               </p>
             </div>
             <div className="header__gioHang">
