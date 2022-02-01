@@ -19,7 +19,7 @@ export default function ChiTiet(props) {
   useEffect(() => {
     dispatch(action);
   }, []);
-  console.log("renderProduct", renderProduct[0].chiTiet.hinhSP[0]);
+  console.log("renderProduct", renderProduct);
 
   let [BtnValue, setBtnValue] = useState(true);
   const samSungReal = useSelector(
@@ -171,6 +171,15 @@ export default function ChiTiet(props) {
     });
   };
 
+  //render màu sắc
+  const renderColor = () => {
+    return renderProduct[0].chiTiet.mauSac.map((color, index) => {
+      return (
+        <li style={{ backgroundColor: `${color.mauSP}` }} key={index}></li>
+      );
+    });
+  };
+
   return (
     <main className="mainChiTiet">
       <div className="ChiTiet">
@@ -189,12 +198,7 @@ export default function ChiTiet(props) {
           <div className="ChiTiet-product">
             {/* slick chuyen anh */}
             <div className="ChiTiet-img">
-              <Slider {...settings1}>
-                {/* <div>
-                  <img src="https://bizweb.dktcdn.net/thumb/large/100/434/290/products/thumb-ip12pro-1-43d3d73d-b4ad-4a15-8f06-18bbeb7f52a4.jpg?v=1629378184627" />
-                </div> */}
-                {renderHinhSP()}
-              </Slider>
+              <Slider {...settings1}>{renderHinhSP()}</Slider>
             </div>
 
             {/* */}
@@ -209,12 +213,7 @@ export default function ChiTiet(props) {
                 </p>
                 <p className="gia">{renderProduct[0].chiTiet.giaSP}</p>
                 <p>Màu sắc:</p>
-                <ul className="mau">
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                  <li></li>
-                </ul>
+                <ul className="mau">{renderColor()}</ul>
                 <p>Dung lượng:</p>
                 <ul className="dungluong">
                   <li className="active">256GB</li>

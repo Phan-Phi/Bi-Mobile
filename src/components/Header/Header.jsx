@@ -36,8 +36,16 @@ export default function Header() {
                 <i className="far fa-user" />
                 Tài khoản
                 <ul className="taiKhoan">
-                  <li className="dangNhap">Đăng Nhập</li>
-                  <li className="dangKy">Đăng Ký</li>
+                  <li>
+                    <NavLink className="dangNhap" to="/login">
+                      Đăng Nhập
+                    </NavLink>
+                  </li>
+                  <li className="dangKy">
+                    <NavLink className="dangKy" to="/sign-up">
+                      Đăng Ký
+                    </NavLink>
+                  </li>
                   <li className="yeuThich">
                     Yêu Thích <span>0</span>
                   </li>

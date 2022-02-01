@@ -1,0 +1,230 @@
+.mainLogin {
+    width: 100%;
+
+    .Login {
+        .Login-index {
+            margin: 20px 0;
+
+            p {
+                a {
+                    color: black;
+                }
+
+                span {
+                    color: #ee0000;
+                }
+            }
+        }
+
+        .Login-content {
+            width: 70%;
+            margin: 0 auto;
+            display: flex;
+            text-align: center;
+            margin-bottom: 30px;
+
+            .Login-img {
+                position: relative;
+                width: 50%;
+
+                img {
+                    width: 100%;
+                }
+
+                .Login-img-text {
+                    text-align: left;
+                    position: absolute;
+                    bottom: 0;
+                    text-align: center;
+
+                    h5 {
+                        text-align: left;
+                        font-size: 18px;
+                        text-transform: uppercase;
+                    }
+
+                    p {
+                        font-size: 14px;
+                        text-align: left;
+
+                        i {
+                            color: rgb(3, 192, 3);
+                        }
+                    }
+                }
+            }
+
+            .Login-input {
+                width: 50%;
+                background-color: white;
+
+                .dangnhap-dangky {
+                    display: flex;
+                    border-bottom: 1px solid rgb(231, 231, 231);
+                    margin-bottom: 30px;
+
+                    .dangnhap {
+                        width: 50%;
+                        padding: 10px 30px;
+                        background-color: #ee7171;
+
+                        .dangNhap {
+                            color: white;
+                            margin-bottom: 0;
+                            font-weight: 500;
+                            text-decoration: none;
+                        }
+                    }
+
+                    .dangky {
+                        width: 50%;
+                        padding: 10px 20px;
+
+                        .dangKy {
+                            text-decoration: none;
+                            color: black;
+                            margin-bottom: 0;
+                            font-weight: 500;
+                        }
+                    }
+                }
+
+                .input {
+                    width: 90%;
+                    margin: 0 auto;
+
+                    .email {
+                        margin-bottom: 10px;
+
+                        p {
+                            font-size: 14px;
+                            text-align: left;
+                            text-transform: uppercase;
+                            margin-bottom: 5px;
+                        }
+
+                        input {
+                            border-radius: 5px;
+                            border: 1px solid rgb(231, 231, 231);
+                            width: 100%;
+                            padding: 7px;
+                        }
+                    }
+
+                    .matKhau {
+                        margin-bottom: 10px;
+
+                        p {
+                            font-size: 14px;
+                            text-align: left;
+                            text-transform: uppercase;
+                            margin-bottom: 5px;
+                        }
+
+                        input {
+                            border-radius: 5px;
+                            border: 1px solid rgb(231, 231, 231);
+                            width: 100%;
+                            padding: 7px;
+                        }
+                    }
+
+                    .quenPass {
+                        text-decoration: none;
+                        font-size: 15px;
+                        text-align: right;
+
+                        a {
+                            color: #ee0000;
+
+                        }
+                    }
+
+                    button {
+                        border: none;
+                        text-transform: uppercase;
+                        padding: 10px 0;
+                        border-radius: 5px;
+                        background-color: #ee0000;
+                        width: 100%;
+                        color: white;
+                        transition: all 0.3s;
+                        margin-bottom: 10px;
+
+                        &:hover {
+                            background-color: #c50000;
+                        }
+
+                    }
+
+                    p {
+                        text-align: center;
+                        font-size: 13px;
+                    }
+
+                    .changeLogin {
+                        position: relative;
+                        margin-bottom: 0;
+
+                        &::before {
+                            content: "";
+                            z-index: 1;
+                            background-color: rgb(228, 228, 228);
+                            height: 1px;
+                            width: 100%;
+                            left: 0;
+                            position: absolute;
+                            top: 10px;
+                        }
+
+                        span {
+                            position: relative;
+                            border-radius: 15px;
+                            width: 40%;
+                            margin: 0 auto;
+                            border: 1px solid rgb(228, 228, 228);
+                            padding: 5px;
+                            background-color: white;
+                            z-index: 2;
+                        }
+                    }
+
+                    .face-google {
+                        display: flex;
+                        gap: 15px;
+                        margin-top: 20px;
+                        justify-content: center;
+
+                        .facebook {
+                            width: 30%;
+                            padding: 5px 8px;
+                            border-radius: 5px;
+                            background-color: #0657a3;
+                            color: white;
+                            transition: all 0.3s;
+                            cursor: pointer;
+
+                            &:hover {
+                                opacity: 0.7;
+                            }
+                        }
+
+                        .google {
+                            width: 30%;
+                            padding: 5px 8px;
+                            border-radius: 5px;
+                            background-color: #e03232;
+                            color: white;
+                            transition: all 0.3s;
+                            cursor: pointer;
+
+                            &:hover {
+                                opacity: 0.7;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
