@@ -8,6 +8,7 @@ header {
         margin: 0 auto;
 
         .header {
+
             width: 100%;
             display: flex;
             justify-content: space-between;
@@ -148,6 +149,7 @@ header {
                 position: relative;
                 padding: 10px 0;
                 margin-left: 15px;
+                cursor: pointer;
 
                 p {
                     margin-bottom: 0;
@@ -172,5 +174,78 @@ header {
             }
         }
 
+
+    }
+
+    .headerDisplay {
+        display: none;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.411);
+        z-index: 99;
+        height: 100vh;
+    }
+
+    .headerGioHang {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 25%;
+        height: 100vh;
+        z-index: 100;
+        background-color: white;
+        padding: 15px;
+        transform: translateX(100%);
+        transition: transform 0.5s;
+
+        .headerGioHang_head {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+
+            p {
+                font-size: 18px;
+                text-transform: uppercase;
+                margin-bottom: 0;
+                font-weight: 600;
+            }
+
+            i {
+                cursor: pointer;
+            }
+        }
+
+        .headerGioHang_footer {
+            .giaTien {
+                display: flex;
+                justify-content: space-between;
+
+                p {}
+
+                .so {}
+            }
+
+            .thanhToan {
+                button {
+                    font-size: 18px;
+                    font-weight: 400;
+                    padding: 8px;
+                    color: white;
+                    text-align: center;
+                    background-color: #d8351a;
+                    border: none;
+                    border-radius: 5px;
+                    width: 100%;
+                    transition: all .3s;
+
+                    &:hover {
+                        background-color: #aa2a15;
+                    }
+                }
+            }
+        }
     }
 }
