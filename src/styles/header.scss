@@ -7,6 +7,12 @@ header {
         width: 100%;
         margin: 0 auto;
 
+        .navBar {
+            i {
+                font-size: 24px;
+            }
+        }
+
         .header {
 
             width: 100%;
@@ -199,7 +205,7 @@ header {
         background-color: white;
         padding: 15px;
         transform: translateX(100%);
-        transition: transform 0.5s;
+        // transition: transform 0.5s;
 
         .headerGioHang_head {
             display: flex;
@@ -247,5 +253,136 @@ header {
                 }
             }
         }
+    }
+
+    .headerNavBar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 100;
+        background-color: white;
+        width: 35%;
+        height: 100vh;
+        overflow-y: scroll;
+
+        .NavBar-Login {
+            background-color: #d8351a;
+            padding: 5px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+
+            .iconUser {
+                margin-bottom: 0;
+                margin-right: 30px;
+                padding: 10px 15px;
+                border-radius: 10px;
+                background-color: white;
+                color: black;
+
+                i {
+                    font-size: 20px;
+                }
+            }
+
+            .iconText {
+                width: 80%;
+                display: flex;
+                align-items: center;
+
+                p {
+                    text-align: center;
+                    width: 50%;
+                    margin: 0;
+                }
+            }
+
+            .login {
+                color: white;
+                text-decoration: none;
+
+
+            }
+        }
+
+        .NavBar-Menu {
+
+
+            padding: 5px;
+
+            ul {
+                margin-bottom: 0px;
+
+                hr {
+                    margin: 5px 0;
+                }
+
+                .menu-content {
+                    &:hover {
+                        color: #d8351a
+                    }
+
+                    a {
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        border-bottom: 1px solid #e5e5e5;
+
+                        p {
+                            line-height: 2;
+                            font-size: 17px;
+                            font-weight: 500;
+                            margin-bottom: 0px;
+
+
+                        }
+                    }
+
+                    .menu-con {
+                        margin-left: 10px;
+                        display: none;
+
+
+                        li {
+                            list-style: none;
+
+
+                            a {
+                                text-decoration: none;
+                                color: black;
+
+                                &:hover {
+                                    color: #d8351a
+                                }
+
+                                p {
+                                    line-height: 2;
+                                    font-size: 15px;
+                                    font-weight: 400;
+                                }
+                            }
+                        }
+
+                        .menu-chau {
+                            display: none;
+                            margin-left: 10px;
+
+                            li {
+                                a {
+                                    line-height: 2;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+
+        }
+    }
+
+    .headerNavBar::-webkit-scrollbar {
+        overflow: hidden;
+        width: 1px;
     }
 }
