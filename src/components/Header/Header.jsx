@@ -25,39 +25,34 @@ export default function Header() {
     Hdisplay.style.display = "block";
   };
 
-  const openMenuNavBar = () => {
-    const menuCon = document.querySelector(".menu-con");
-    const menuIcon = document.querySelector(".menu-icon");
+  //Dóng mở tag con bên trong Menu Bar
+  const openMenuNavBar = (id) => {
+    const menuCon = document.getElementsByClassName("menu-con")[id];
+    const menuIcon = document.getElementsByClassName("menu-icon")[id];
 
     if (menuConNav) {
-      menuIcon.innerHTML = `<i class="fas fa-angle-down"></i>`;
-      menuCon.style.display = "block";
-      menuCon.style.transition = "display 0.5s";
+      menuIcon.innerHTML = `<i class="fas fa-minus"></i>`;
+      menuCon.setAttribute("style", "display: block");
       menuConNav = false;
     } else {
-      menuIcon.innerHTML = `<i class="fas fa-angle-up"></i>`;
-      menuCon.style.display = "none";
-      menuCon.style.transition = "display 0.5s";
+      menuIcon.innerHTML = `<i class="fas fa-plus"></i>`;
+      menuCon.setAttribute("style", "display: none");
       menuConNav = true;
     }
   };
-
-  const openMenuNavBarChau = () => {
-    const menuChau = document.querySelector(".menu-chau");
-    const menuChauIcon = document.querySelector(".menuChau-icon");
-    console.log("first");
+  const openMenuNavBarChau = (id) => {
+    const menuChau = document.getElementsByClassName("menu-chau")[id];
+    const menuChauIcon = document.getElementsByClassName("menuChau-icon")[id];
     if (menuChauNavs) {
-      console.log("first222");
-      menuChauIcon.innerHTML = `<i class="fas fa-angle-down"></i>`;
-      menuChau.style.display = "block";
+      menuChauIcon.innerHTML = `<i class="fas fa-minus"></i>`;
+      menuChau.setAttribute("style", "display: block");
       menuChauNavs = false;
-    } else if (menuChauNavs == false) {
-      menuChauIcon.innerHTML = `<i class="fas fa-angle-up"></i>`;
-      menuChau.style.display = "none";
+    } else {
+      menuChauIcon.innerHTML = `<i class="fas fa-plus"></i>`;
+      menuChau.setAttribute("style", "display: none");
       menuChauNavs = true;
     }
   };
-
   return (
     <header>
       <section>
@@ -172,8 +167,12 @@ export default function Header() {
             <li className="menu-content">
               <a>
                 <p>Điện thoại</p>
-                <p onClick={() => openMenuNavBar()} className="menu-icon">
-                  <i class="fas fa-angle-up"></i>
+                <p
+                  onClick={() => openMenuNavBar(0)}
+                  className="menu-icon"
+                  style={{ display: "block" }}
+                >
+                  <i class="fas fa-plus"></i>
                 </p>
               </a>
 
@@ -182,10 +181,10 @@ export default function Header() {
                   <a href="#">
                     <p>Apple</p>
                     <p
-                      onClick={() => openMenuNavBarChau()}
+                      onClick={() => openMenuNavBarChau(0)}
                       className="menuChau-icon"
                     >
-                      <i class="fas fa-angle-up"></i>
+                      <i class="fas fa-plus"></i>
                     </p>
                   </a>
                   <ul className="menu-chau">
@@ -213,10 +212,10 @@ export default function Header() {
                   <a href="#">
                     <p>SamSung</p>
                     <p
-                      onClick={() => openMenuNavBarChau()}
+                      onClick={() => openMenuNavBarChau(1)}
                       className="menuChau-icon"
                     >
-                      <i class="fas fa-angle-up"></i>
+                      <i class="fas fa-plus"></i>
                     </p>
                   </a>
                   <ul className="menu-chau">
@@ -239,6 +238,240 @@ export default function Header() {
                       <a href="">Galaxy A Series</a>
                     </li>
                   </ul>
+                </li>
+              </ul>
+            </li>
+
+            <li className="menu-content">
+              <a>
+                <p>Laptop</p>
+                <p onClick={() => openMenuNavBar(1)} className="menu-icon">
+                  <i class="fas fa-plus"></i>
+                </p>
+              </a>
+
+              <ul className="menu-con">
+                <li>
+                  <a href="#">
+                    <p>Mac</p>
+                    <p
+                      onClick={() => openMenuNavBarChau(2)}
+                      className="menuChau-icon"
+                    >
+                      <i class="fas fa-plus"></i>
+                    </p>
+                  </a>
+                  <ul className="menu-chau">
+                    <li>
+                      <a href="">Macbook Air</a>
+                    </li>
+                    <li>
+                      <a href="">Macbook Pro</a>
+                    </li>
+                    <li>
+                      <a href="">iMac</a>
+                    </li>
+                    <li>
+                      <a href="">Mac Mini</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Laptop Dell</p>
+                  </a>
+                  <a href="#">
+                    <p>Laptop Asus</p>
+                  </a>
+                  <a href="#">
+                    <p>Laptop Acer</p>
+                  </a>
+                  <a href="#">
+                    <p>Laptop Lenovo</p>
+                  </a>
+                  <a href="#">
+                    <p>Laptop MSI</p>
+                  </a>
+                  <a href="#">
+                    <p>Laptop HP</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li className="menu-content">
+              <a>
+                <p>iPad</p>
+                <p onClick={() => openMenuNavBar(2)} className="menu-icon">
+                  <i class="fas fa-plus"></i>
+                </p>
+              </a>
+
+              <ul className="menu-con">
+                <li>
+                  <a href="#">
+                    <p>iPad Generation</p>
+                  </a>
+                  <a href="#">
+                    <p>iPad Mini</p>
+                  </a>
+                  <a href="#">
+                    <p>iPad Mini</p>
+                  </a>
+                  <a href="#">
+                    <p>iPad Air</p>
+                  </a>
+                  <a href="#">
+                    <p>iPad Pro</p>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li className="menu-content">
+              <a>
+                <p>Phụ kiện</p>
+                <p onClick={() => openMenuNavBar(3)} className="menu-icon">
+                  <i class="fas fa-plus"></i>
+                </p>
+              </a>
+
+              <ul className="menu-con">
+                <li>
+                  <a href="#">
+                    <p>Phụ kiện Apple</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Phụ kiện Mac</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Pin sạc dự phòng</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Dây cáp sạc</p>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="#">
+                    <p>Apdapter củ sạc</p>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="#">
+                    <p>Cường lực ốp lưng</p>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="#">
+                    <p>Đồ chơi công nghệ</p>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="#">
+                    <p>Balo, túi xách, ví</p>
+                  </a>
+                </li>
+
+                <li>
+                  <a href="#">
+                    <p>Thương hiệu nổi bật </p>
+                    <p
+                      onClick={() => openMenuNavBarChau(3)}
+                      className="menuChau-icon"
+                    >
+                      <i class="fas fa-plus"></i>
+                    </p>
+                  </a>
+                  <ul className="menu-chau">
+                    <li>
+                      <a href="">Apple Accsessories</a>
+                    </li>
+                    <li>
+                      <a href="">ITSKIN France</a>
+                    </li>
+                    <li>
+                      <a href="">Tomtoc</a>
+                    </li>
+                    <li>
+                      <a href="">MiPow USA</a>
+                    </li>
+                    <li>
+                      <a href="">Innostye</a>
+                    </li>
+                    <li>
+                      <a href="">Rain Design</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
+            <li className="menu-content">
+              <a>
+                <p>Apple Watch</p>
+              </a>
+            </li>
+
+            <li className="menu-content">
+              <a>
+                <p>Phụ kiện</p>
+                <p onClick={() => openMenuNavBar(4)} className="menu-icon">
+                  <i class="fas fa-plus"></i>
+                </p>
+              </a>
+
+              <ul className="menu-con">
+                <li>
+                  <a href="#">
+                    <p>Apple</p>
+                    <p
+                      onClick={() => openMenuNavBarChau(4)}
+                      className="menuChau-icon"
+                    >
+                      <i class="fas fa-plus"></i>
+                    </p>
+                  </a>
+                  <ul className="menu-chau">
+                    <li>
+                      <a href="">AirPods 2</a>
+                    </li>
+                    <li>
+                      <a href="">AirPods Pro</a>
+                    </li>
+                    <li>
+                      <a href="">AirPods Promax</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Marshall</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Bose</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Bang & Olufsen</p>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">
+                    <p>Beats Audio</p>
+                  </a>
                 </li>
               </ul>
             </li>
