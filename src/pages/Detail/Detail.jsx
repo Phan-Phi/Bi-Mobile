@@ -101,7 +101,7 @@ export default function Detail(props) {
                     ? sp.chiTiet.tenSP.substr(0, 35) + "..."
                     : sp.chiTiet.tenSP}
                 </p>
-                <span>{sp.chiTiet.giaSP}</span>
+                <span>{sp.chiTiet.giaSP.toLocaleString()}₫</span>
               </NavLink>
               <div className="products-item-button">
                 <NavLink to={`/product/${sp.chiTiet.id}`} className="chiTiet">
@@ -137,7 +137,7 @@ export default function Detail(props) {
                   ? sp.chiTiet.tenSP.substr(0, 35) + "..."
                   : sp.chiTiet.tenSP}
               </p>
-              <span>{sp.chiTiet.giaSP}</span>
+              <span>{sp.chiTiet.giaSP.toLocaleString()}₫</span>
             </NavLink>
             <div className="products-item-button">
               <NavLink to={`/product/${sp.chiTiet.id}`} className="chiTiet">

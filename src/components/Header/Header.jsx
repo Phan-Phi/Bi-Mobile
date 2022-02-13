@@ -15,14 +15,18 @@ export default function Header() {
   const closeDisplay = () => {
     const Hdisplay = document.querySelector(".headerDisplay");
     const HgioHang = document.querySelector(".headerGioHang");
+    const headerNavBar = document.querySelector(".headerNavBar");
     Hdisplay.style.display = "none";
     HgioHang.style.transform = "translateX(100%)";
     HgioHang.style.transition = "transform 0.6s";
+    headerNavBar.style.transform = "translateX(-100%)";
   };
 
   const openMenu = () => {
     const Hdisplay = document.querySelector(".headerDisplay");
+    const headerNavBar = document.querySelector(".headerNavBar");
     Hdisplay.style.display = "block";
+    headerNavBar.style.transform = "translateX(0%)";
   };
 
   //Dóng mở tag con bên trong Menu Bar

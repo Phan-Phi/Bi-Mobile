@@ -211,7 +211,9 @@ export default function ChiTiet(props) {
                 <p>
                   Mã sản phẩm: <span>(Đang cập nhật...)</span>
                 </p>
-                <p className="gia">{renderProduct[0].chiTiet.giaSP}</p>
+                <p className="gia">
+                  {renderProduct[0].chiTiet.giaSP.toLocaleString()}₫
+                </p>
                 <p>Màu sắc:</p>
                 <ul className="mau">{renderColor()}</ul>
                 <p>Dung lượng:</p>
