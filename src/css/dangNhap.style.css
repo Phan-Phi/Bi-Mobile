@@ -1,0 +1,236 @@
+.mainLogin {
+  width: 100%;
+}
+
+.mainLogin .Login .Login-index {
+  margin: 20px 0;
+}
+
+.mainLogin .Login .Login-index p a {
+  color: black;
+}
+
+.mainLogin .Login .Login-index p span {
+  color: #ee0000;
+}
+
+.mainLogin .Login .Login-content {
+  width: 70%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mainLogin .Login .Login-content .Login-img {
+  position: relative;
+  width: 50%;
+}
+
+.mainLogin .Login .Login-content .Login-img img {
+  width: 100%;
+}
+
+.mainLogin .Login .Login-content .Login-img .Login-img-text {
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.mainLogin .Login .Login-content .Login-img .Login-img-text h5 {
+  text-align: left;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.mainLogin .Login .Login-content .Login-img .Login-img-text p {
+  font-size: 14px;
+  text-align: left;
+}
+
+.mainLogin .Login .Login-content .Login-img .Login-img-text p i {
+  color: #03c003;
+}
+
+.mainLogin .Login .Login-content .Login-input {
+  width: 50%;
+  background-color: white;
+}
+
+.mainLogin .Login .Login-content .Login-input .dangnhap-dangky {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 30px;
+}
+
+.mainLogin .Login .Login-content .Login-input .dangnhap-dangky .dangnhap {
+  width: 50%;
+  padding: 10px 30px;
+  background-color: #ee7171;
+}
+
+.mainLogin .Login .Login-content .Login-input .dangnhap-dangky .dangnhap .dangNhap {
+  color: white;
+  margin-bottom: 0;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.mainLogin .Login .Login-content .Login-input .dangnhap-dangky .dangky {
+  width: 50%;
+  padding: 10px 20px;
+}
+
+.mainLogin .Login .Login-content .Login-input .dangnhap-dangky .dangky .dangKy {
+  text-decoration: none;
+  color: black;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.mainLogin .Login .Login-content .Login-input .input {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .email {
+  margin-bottom: 10px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .email p {
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .email input {
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  width: 100%;
+  padding: 7px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .matKhau {
+  margin-bottom: 10px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .matKhau p {
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .matKhau input {
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  width: 100%;
+  padding: 7px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .quenPass {
+  text-decoration: none;
+  font-size: 15px;
+  text-align: right;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .quenPass a {
+  color: #ee0000;
+}
+
+.mainLogin .Login .Login-content .Login-input .input button {
+  border: none;
+  text-transform: uppercase;
+  padding: 10px 0;
+  border-radius: 5px;
+  background-color: #ee0000;
+  width: 100%;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input button:hover {
+  background-color: #c50000;
+}
+
+.mainLogin .Login .Login-content .Login-input .input p {
+  text-align: center;
+  font-size: 13px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .changeLogin {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .changeLogin::before {
+  content: "";
+  z-index: 1;
+  background-color: #e4e4e4;
+  height: 1px;
+  width: 100%;
+  left: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .changeLogin span {
+  position: relative;
+  border-radius: 15px;
+  width: 40%;
+  margin: 0 auto;
+  border: 1px solid #e4e4e4;
+  padding: 5px;
+  background-color: white;
+  z-index: 2;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .face-google {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .face-google .facebook {
+  width: 30%;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background-color: #0657a3;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .face-google .facebook:hover {
+  opacity: 0.7;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .face-google .google {
+  width: 30%;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background-color: #e03232;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.mainLogin .Login .Login-content .Login-input .input .face-google .google:hover {
+  opacity: 0.7;
+}
+/*# sourceMappingURL=dangNhap.style.css.map */

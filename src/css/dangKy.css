@@ -1,0 +1,236 @@
+.mainSignUp {
+  width: 100%;
+}
+
+.mainSignUp .SignUp .SignUp-index {
+  margin: 20px 0;
+}
+
+.mainSignUp .SignUp .SignUp-index p a {
+  color: black;
+}
+
+.mainSignUp .SignUp .SignUp-index p span {
+  color: #ee0000;
+}
+
+.mainSignUp .SignUp .SignUp-content {
+  width: 70%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img {
+  position: relative;
+  width: 50%;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img img {
+  width: 100%;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img .SignUp-img-text {
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img .SignUp-img-text h5 {
+  text-align: left;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img .SignUp-img-text p {
+  font-size: 14px;
+  text-align: left;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-img .SignUp-img-text p i {
+  color: #03c003;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input {
+  width: 50%;
+  background-color: white;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .dangnhap-dangky {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid #e7e7e7;
+  margin-bottom: 30px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .dangnhap-dangky .dangnhap {
+  width: 50%;
+  padding: 10px 30px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .dangnhap-dangky .dangnhap .dangNhap {
+  color: black;
+  margin-bottom: 0;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .dangnhap-dangky .dangky {
+  width: 50%;
+  padding: 10px 20px;
+  background-color: #ee7171;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .dangnhap-dangky .dangky .dangKy {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .email {
+  margin-bottom: 10px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .email p {
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .email input {
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  width: 100%;
+  padding: 7px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .matKhau {
+  margin-bottom: 10px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .matKhau p {
+  font-size: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .matKhau input {
+  border-radius: 5px;
+  border: 1px solid #e7e7e7;
+  width: 100%;
+  padding: 7px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .quenPass {
+  text-decoration: none;
+  font-size: 15px;
+  text-align: right;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .quenPass a {
+  color: #ee0000;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input button {
+  border: none;
+  text-transform: uppercase;
+  padding: 10px 0;
+  border-radius: 5px;
+  background-color: #ee0000;
+  width: 100%;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input button:hover {
+  background-color: #c50000;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input p {
+  text-align: center;
+  font-size: 13px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .changeSignUp {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .changeSignUp::before {
+  content: "";
+  z-index: 1;
+  background-color: #e4e4e4;
+  height: 1px;
+  width: 100%;
+  left: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .changeSignUp span {
+  position: relative;
+  border-radius: 15px;
+  width: 40%;
+  margin: 0 auto;
+  border: 1px solid #e4e4e4;
+  padding: 5px;
+  background-color: white;
+  z-index: 2;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .face-google {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .face-google .facebook {
+  width: 30%;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background-color: #0657a3;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .face-google .facebook:hover {
+  opacity: 0.7;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .face-google .google {
+  width: 30%;
+  padding: 5px 8px;
+  border-radius: 5px;
+  background-color: #e03232;
+  color: white;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.mainSignUp .SignUp .SignUp-content .SignUp-input .input .face-google .google:hover {
+  opacity: 0.7;
+}
+/*# sourceMappingURL=dangKy.css.map */

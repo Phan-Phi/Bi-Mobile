@@ -1,0 +1,312 @@
+.AmThanhPhuKien {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content {
+  width: 100%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div {
+  border-bottom: 2px solid #ee0000;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--tieuDe {
+  width: 50%;
+  height: 100%;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--tieuDe p {
+  position: relative;
+  text-align: center;
+  width: 50%;
+  background-color: #ee0000;
+  color: white;
+  font-weight: 500;
+  text-transform: uppercase;
+  z-index: 1;
+  margin-bottom: 0;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--tieuDe p::after {
+  z-index: -1;
+  position: absolute;
+  content: '';
+  top: 0;
+  bottom: 0;
+  left: 23px;
+  right: -23px;
+  background-color: inherit;
+  -webkit-transform: skew(23deg);
+          transform: skew(23deg);
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--navLink {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--navLink:hover {
+  color: #ffab41;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .AmThanhPhuKien--navLink p {
+  margin-bottom: 0;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .active {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #ffab41;
+  margin-right: 20px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-tieuDe div .active:hover {
+  color: #ee0000;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% 75%;
+      grid-template-columns: 25% 75%;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .shadow {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .shadow:hover {
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+  z-index: 2;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content {
+  background-color: white;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 0.5px solid #e7e7e7;
+  height: 100%;
+  text-decoration: none;
+  color: black;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP img {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP .link-head:hover {
+  color: #ee0000;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP .link-text {
+  margin-top: 5px;
+  color: #a8a8a8;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-decoration: none;
+  border: 0.5px solid #e7e7e7;
+  color: black;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content:hover {
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+  z-index: 2;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content:hover .listSP__content--text > p {
+  color: #ee0000;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--img {
+  width: 60%;
+  height: 100%;
+  margin-right: 5px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--img img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text {
+  width: 100%;
+  font-size: 15px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text p {
+  margin-bottom: 0;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text .link-text {
+  margin-top: 5px;
+  color: #a8a8a8;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a:hover .products-item {
+  background-color: white;
+  position: absolute;
+  z-index: 50;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item {
+  padding: 10px;
+  position: relative;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item:hover {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item:hover .products-item-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-img {
+  height: 200px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-text {
+  margin-bottom: 10px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-text p {
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-text p:hover {
+  color: #ee0000;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-text span {
+  color: #006ab7;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-button {
+  display: none;
+  width: 100%;
+  gap: 7px;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-button .chiTiet {
+  text-align: center;
+  width: 50%;
+  padding: 3px;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  background-color: #cb1c22;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-button .chiTiet:hover {
+  background-color: #ee0000;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-button .yeuThich {
+  padding: 3px;
+  width: 50%;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  background-color: #a8a8a8;
+}
+
+.AmThanhPhuKien .AmThanhPhuKien__content .AmThanhPhuKien__content-products .products a .products-item .products-item-button .yeuThich:hover {
+  background-color: #838383;
+}
+/*# sourceMappingURL=amThanhPhuKien.style.css.map */

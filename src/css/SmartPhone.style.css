@@ -1,0 +1,205 @@
+.SmartPhone {
+  width: 100%;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+.SmartPhone .SmartPhone__content {
+  width: 100%;
+  height: 100%;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title {
+  border-bottom: 2px solid #ee0000;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title p {
+  position: relative;
+  width: 42%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 0;
+  background-color: #ee0000;
+  color: white;
+  font-size: 22px;
+  font-weight: 500;
+  border-radius: 11px 10px 0 0;
+  z-index: 5;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title p::before {
+  z-index: -1;
+  position: absolute;
+  content: "";
+  background-color: #ee0000;
+  width: 20%;
+  top: 0;
+  bottom: 0;
+  left: -3px;
+  -webkit-transform: skew(-20deg);
+          transform: skew(-20deg);
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title p::after {
+  z-index: -1;
+  position: absolute;
+  content: "";
+  background-color: #ee0000;
+  width: 20%;
+  top: 0;
+  bottom: 0;
+  right: -3px;
+  -webkit-transform: skew(20deg);
+          transform: skew(20deg);
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title p .conP {
+  color: white;
+  text-decoration: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__title p .conP:hover {
+  color: #FED101;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel {
+  width: 100%;
+  position: relative;
+  height: 310px;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+  background-color: white;
+  border-radius: 0 0 5px 5px;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .fa-chevron-left {
+  cursor: pointer;
+  padding: 20px 10px;
+  display: block;
+  font-size: 23px;
+  position: absolute;
+  color: #999898;
+  top: 35%;
+  left: 0;
+  background-color: white;
+  z-index: 1;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 0 80% 80% 0;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .fa-chevron-right {
+  cursor: pointer;
+  padding: 20px 10px;
+  display: block;
+  font-size: 23px;
+  color: #999898;
+  position: absolute;
+  top: 35%;
+  right: 0;
+  background-color: white;
+  z-index: 1;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 80% 0 0 80%;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list {
+  height: 100%;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track {
+  height: 100%;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item {
+  z-index: 50;
+  background-color: white;
+  padding: 10px;
+  position: relative;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item:hover {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item:hover .products-item-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-img {
+  height: 200px;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text {
+  margin-bottom: 10px;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text p {
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text p:hover {
+  color: #ee0000;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text span {
+  color: #006ab7;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button {
+  display: none;
+  width: 100%;
+  gap: 7px;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .chiTiet {
+  text-align: center;
+  width: 50%;
+  padding: 3px;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  background-color: #cb1c22;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .chiTiet:hover {
+  background-color: #ee0000;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .yeuThich {
+  padding: 3px;
+  text-align: center;
+  width: 50%;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  background-color: #a8a8a8;
+}
+
+.SmartPhone .SmartPhone__content .SmartPhone__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .yeuThich:hover {
+  background-color: #838383;
+}
+/*# sourceMappingURL=SmartPhone.style.css.map */

@@ -725,6 +725,758 @@
         }
     }
 
+    .mainDetail {
+        width: 100%;
+
+        .Detail {
+            width: 700px;
+
+            margin: 0 auto;
+
+            .Detail-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .Detail-name {
+                border-radius: 5px;
+                padding: 10px 10px;
+                background-color: white;
+                margin-bottom: 10px;
+            }
+
+            .macbookBanner {
+                padding: 0;
+            }
+
+            .Detail-product {
+                width: 100%;
+                margin-bottom: 20px;
+
+                .Detail__content {
+                    width: 100%;
+                    height: 1527px;
+                    background-color: white;
+                    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+                    border-radius: 5px;
+
+                    .Detail__content-products {
+                        .products {
+                            display: grid;
+                            grid-template-columns: repeat(3, 1fr);
+
+                            a {
+                                .products-item {
+                                    .products-item-img {
+                                        img {}
+                                    }
+
+                                    .products-item-text {
+                                        p {}
+
+                                        span {}
+                                    }
+
+                                    .products-item-button {
+                                        .chiTiet {}
+
+                                        .yeuThich {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            //phần đã xem
+            .Detail-daXem {
+
+                .Detail-daXem-title {
+                    p {}
+                }
+
+                .Detail__carousel {
+                    .slick-slider {
+                        .fa-chevron-left {}
+
+                        .fa-chevron-right {}
+
+                        .slick-list {
+                            .slick-track {
+                                .slick-slide {
+                                    div {
+                                        a {
+                                            .products-item {
+                                                .products-item-img {
+                                                    img {}
+                                                }
+
+                                                .products-item-text {
+
+                                                    p {}
+
+                                                    span {}
+                                                }
+
+                                                .products-item-button {
+                                                    .chiTiet {}
+
+                                                    .yeuThich {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mainChiTiet {
+        width: 100%;
+
+        .ChiTiet {
+            width: 700px;
+            margin: 0 auto;
+
+            .ChiTiet-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .ChiTiet-content {
+                border-radius: 5px;
+                background-color: white;
+                padding: 5px 10px;
+                margin-bottom: 10px;
+                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+
+                .ChiTiet-name {
+                    border-bottom: 1px solid rgb(175, 175, 175);
+
+                    h3 {
+                        font-size: 22px;
+                        font-weight: 600;
+
+                    }
+                }
+
+                .ChiTiet-product {
+                    display: grid;
+                    grid-template-columns: 45% 55%;
+                    margin-top: 10px;
+                    gap: 0;
+
+                    .ChiTiet-img {
+                        width: 100%;
+
+                        .slick-slider {
+                            height: 100%;
+
+                            .slick-list {
+                                margin-bottom: 20px;
+
+                                .slick-track {
+                                    .slick-slide {
+                                        div {
+                                            div {
+                                                img {
+                                                    width: 100%;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            .slick-dots {
+                                padding: 0;
+                                height: 90px;
+                                position: unset;
+
+                                .dots-icon {
+                                    display: flex;
+                                    gap: 5px;
+                                    height: 100%;
+
+                                    .slick-active {
+                                        border-radius: 5px;
+                                        border: 2px solid #ee0000;
+                                    }
+
+                                    li {
+                                        height: 100%;
+                                        margin: 0;
+                                        width: 25%;
+                                        list-style: none;
+
+
+                                        .dots-item {
+                                            width: 100% !important;
+                                            height: 100%;
+
+                                            img {
+                                                width: 100%;
+                                                height: 100%;
+                                                border: 1px solid rgb(226, 226, 226);
+                                                border-radius: 5px;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .ChiTiet-info {
+                        width: 100%;
+
+                        .ChiTiet-info-thongtin {
+                            p {
+                                margin-bottom: 5px;
+
+                                span {
+
+                                    font-weight: 700;
+                                }
+                            }
+
+                            .gia {
+                                font-weight: 600;
+                                font-size: 23px;
+                                color: #ee0000;
+
+                            }
+
+                            .mau {
+                                display: flex;
+                                gap: 5px;
+                                cursor: pointer;
+
+                                li {
+                                    border-radius: 5px;
+                                    background-color: #ee0000;
+                                    width: 60px;
+                                    height: 30px;
+                                    list-style: none;
+                                }
+                            }
+
+                            .dungluong {
+                                cursor: pointer;
+                                list-style: none;
+                                display: flex;
+                                gap: 5px;
+
+                                .active {
+                                    color: #ee0000;
+                                    border: 1px solid #ee0000;
+                                }
+
+                                li {
+                                    border-radius: 5px;
+                                    font-size: 14px;
+                                    color: rgb(73, 73, 73);
+                                    padding: 5px;
+                                    border: 1px solid rgb(116, 116, 116);
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-btn {
+                            margin-bottom: 10px;
+
+                            .ChiTiet-mua {
+                                cursor: pointer;
+                                background-color: #ee0000;
+                                padding: 5px;
+                                border-radius: 5px;
+                                color: white;
+                                text-align: center;
+                                transition: all 0.3s;
+                                margin-bottom: 8px;
+                                border: 1px solid #ee0000;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #ee0000;
+                                }
+
+                                .ChiTiet-muangay {
+                                    margin-bottom: 0;
+                                    text-transform: uppercase;
+                                    font-size: 19px;
+                                    font-weight: 500;
+                                }
+
+                                .ChiTiet-giao {
+                                    margin-bottom: 0;
+                                }
+                            }
+
+                            .ChiTiet-tuychon {
+                                display: flex;
+                                gap: 6px;
+                                width: 100%;
+                                color: white;
+                                text-align: center;
+
+                                .ChiTiet-yeuthich {
+                                    cursor: pointer;
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-tragop {
+                                    cursor: pointer;
+
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-sosanh {
+                                    cursor: pointer;
+                                    width: 10%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-chinhsach {
+                            text-align: center;
+
+                            .chinhsach-1 {
+                                margin-bottom: 0;
+
+                                span {
+                                    color: #ee0000;
+                                }
+                            }
+
+                            .chinhsach-2 {
+                                margin-bottom: 0;
+
+                                a {
+                                    text-decoration: none;
+                                    color: #1d72e0;
+                                }
+                            }
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+                    }
+
+                    .ChiTiet-quangcao {
+                        display: flex;
+                        width: 100%;
+                        height: 100px;
+                        grid-column: 1/3;
+                        margin-top: 8px;
+
+                        .quangcao-content {
+                            display: flex;
+                            gap: 5px;
+                            border-bottom: none;
+                            margin-bottom: 10px;
+
+                            .quangcao-img {
+                                width: 20%;
+
+                                img {
+                                    border-radius: 5px;
+                                    // border: 1px solid rgb(209, 209, 209);
+                                    width: 100%;
+                                }
+                            }
+
+                            .quangcao-title {
+                                width: 80%;
+
+                                h6 {
+                                    font-size: 14px;
+                                    font-weight: 600;
+                                    margin-bottom: 0;
+                                }
+
+                                p {
+                                    font-size: 12px;
+                                    margin-bottom: 0;
+
+                                }
+                            }
+                        }
+
+                        .quangcao-img2 {
+                            display: none;
+                            width: 100%;
+                        }
+
+                    }
+
+                }
+            }
+
+            .macbookBanner {
+                padding: 0;
+                margin-bottom: 10px;
+
+            }
+
+            .thongSo_tinTuc {
+
+                display: flex;
+                gap: 10px;
+                width: 100%;
+                margin-bottom: 10px;
+                flex-direction: column;
+
+                .thongSo {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 100%;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .thongSo_content {
+                        text-align: center;
+
+                        table {
+                            width: 100%;
+                            margin-bottom: 10px;
+
+                            tbody {
+                                text-align: left;
+                                width: 100%;
+
+                                tr {
+                                    border: 1px solid rgb(206, 206, 206);
+
+                                    th {
+                                        border-right: 1px solid rgb(206, 206, 206);
+                                        padding: 14px;
+                                        width: 35%;
+                                        font-weight: 600;
+                                    }
+
+                                    td {
+                                        padding: 14px;
+                                        width: 65%;
+
+                                    }
+                                }
+                            }
+                        }
+
+                        .thongSo_baiViet {
+                            display: none;
+                            text-align: left;
+
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+
+                        a {
+                            color: #414141;
+                            text-decoration: none;
+                            text-align: center;
+                            padding: 7px 25px;
+                            font-size: 15px;
+                            border-radius: 5px;
+                            background: none;
+                            border: 1px solid rgb(94, 94, 94);
+                            transition: all 0.3s;
+
+                            &:hover {
+                                border: 1px solid #ee0000;
+                                color: #ee0000;
+                            }
+                        }
+                    }
+                }
+
+                .tinTuc {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 100%;
+                    height: 100%;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .tinTuc_content {
+                        display: flex;
+                        width: 100%;
+                        gap: 10px;
+                        cursor: pointer;
+                        transition: all 0.3s;
+
+                        .tinTuc_img {
+                            width: 20%;
+
+                            img {
+                                border-radius: 5px;
+                                width: 100%;
+                            }
+                        }
+
+                        .tinTuc_text {
+                            width: 80%;
+
+                            p {
+                                margin-bottom: 0;
+                            }
+                        }
+
+                        &:not(:first-child) {
+                            margin-top: 10px;
+                        }
+
+                        &:hover {
+                            color: #ee0000;
+                        }
+                    }
+
+
+                }
+            }
+
+            //phần đã xem
+            .ChiTiet-daXem {
+                width: 100%;
+                height: 100%;
+                margin-bottom: 20px;
+
+                .ChiTiet-daXem-title {
+                    p {
+                        position: relative;
+                        width: 100%;
+                        margin: 0 auto;
+                        text-align: center;
+                        margin-bottom: 0;
+                        background-color: #d4d7d9;
+                        color: black;
+                        font-size: 20px;
+                        font-weight: 500;
+                        padding: 10px 0;
+                        text-transform: uppercase;
+                    }
+                }
+
+                .ChiTiet__carousel {
+                    width: 100%;
+                    position: relative;
+                    height: 310px;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+                    background-color: white;
+                    border-radius: 0 0 5px 5px;
+
+                    .slick-slider {
+                        .fa-chevron-left {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            position: absolute;
+                            color: rgb(153, 152, 152);
+                            top: 35%;
+                            left: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 0 80% 80% 0;
+                        }
+
+                        .fa-chevron-right {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            color: rgb(153, 152, 152);
+                            position: absolute;
+                            top: 35%;
+                            right: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 80% 0 0 80%;
+                        }
+
+                        .slick-list {
+                            height: 100%;
+
+                            .slick-track {
+                                height: 100%;
+
+                                width: 100%;
+                                margin-left: 0;
+                                margin-right: 0;
+
+
+
+                                .slick-slide {
+                                    // &:hover div>a>.products-item {
+                                    //     background-color: white;
+
+                                    //     position: absolute;
+                                    //     z-index: 50;
+                                    // }
+
+
+                                    div {
+                                        a {
+                                            position: relative;
+                                            color: black;
+                                            text-decoration: none;
+
+
+
+                                            .products-item {
+                                                // height: 100%;
+                                                z-index: 50;
+                                                background-color: white;
+                                                padding: 10px;
+                                                position: relative;
+
+                                                &:hover {
+                                                    border: 1px solid #e6e6e6;
+                                                    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                                }
+
+                                                &:hover .products-item-button {
+                                                    display: flex;
+                                                }
+
+                                                .products-item-img {
+                                                    height: 200px;
+
+                                                    img {
+                                                        width: 100%;
+                                                        height: 100%;
+                                                    }
+                                                }
+
+                                                .products-item-text {
+                                                    margin-bottom: 10px;
+
+                                                    p {
+                                                        margin-bottom: 0;
+                                                        transition: all 0.3s;
+
+                                                        &:hover {
+                                                            color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    span {
+                                                        color: #006ab7;
+                                                    }
+                                                }
+
+                                                .products-item-button {
+                                                    display: none;
+                                                    width: 100%;
+                                                    gap: 7px;
+
+                                                    .chiTiet {
+                                                        width: 50%;
+                                                        padding: 3px;
+                                                        border-radius: 4px;
+                                                        border: none;
+                                                        color: white;
+                                                        background-color: #cb1c22;
+
+                                                        &:hover {
+                                                            background-color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    .yeuThich {
+                                                        padding: 3px;
+                                                        width: 50%;
+                                                        border-radius: 2px;
+                                                        color: white;
+                                                        border: none;
+                                                        background-color: #a8a8a8;
+
+                                                        &:hover {
+                                                            background-color: #838383;
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
     footer {
         .footer__top {
             width: 700px;
@@ -1445,6 +2197,749 @@
 
                                         span {
                                             font-size: 13px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mainDetail {
+        width: 100%;
+
+        .Detail {
+            width: 960px;
+
+            margin: 0 auto;
+
+            .Detail-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .Detail-name {
+                border-radius: 5px;
+                padding: 10px 10px;
+                background-color: white;
+                margin-bottom: 10px;
+            }
+
+            .macbookBanner {
+                width: 100%;
+                padding: 0;
+            }
+
+            .Detail-product {
+                width: 100%;
+                margin-bottom: 20px;
+
+                .Detail__content {
+                    width: 100%;
+                    height: 1250px;
+                    background-color: white;
+                    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+                    border-radius: 5px;
+
+                    .Detail__content-products {
+                        .products {
+                            display: grid;
+                            grid-template-columns: repeat(4, 1fr);
+
+                            a {
+                                .products-item {
+                                    .products-item-img {
+                                        img {}
+                                    }
+
+                                    .products-item-text {
+                                        p {}
+
+                                        span {}
+                                    }
+
+                                    .products-item-button {
+                                        .chiTiet {}
+
+                                        .yeuThich {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            //phần đã xem
+            .Detail-daXem {
+
+                .Detail-daXem-title {
+                    p {}
+                }
+
+                .Detail__carousel {
+                    .slick-slider {
+                        .fa-chevron-left {}
+
+                        .fa-chevron-right {}
+
+                        .slick-list {
+                            .slick-track {
+                                .slick-slide {
+                                    div {
+                                        a {
+                                            .products-item {
+                                                .products-item-img {
+                                                    img {}
+                                                }
+
+                                                .products-item-text {
+
+                                                    p {}
+
+                                                    span {}
+                                                }
+
+                                                .products-item-button {
+                                                    .chiTiet {}
+
+                                                    .yeuThich {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mainChiTiet {
+        width: 100%;
+
+        .ChiTiet {
+            width: 960px;
+            margin: 0 auto;
+
+            .ChiTiet-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .ChiTiet-content {
+                border-radius: 5px;
+                background-color: white;
+                padding: 5px 10px;
+                margin-bottom: 10px;
+                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+
+                .ChiTiet-name {
+                    border-bottom: 1px solid rgb(175, 175, 175);
+
+                    h3 {
+                        font-size: 22px;
+                        font-weight: 600;
+
+                    }
+                }
+
+                .ChiTiet-product {
+                    display: flex;
+                    // grid-template-columns: 35% 40% 25%;
+                    margin-top: 10px;
+                    gap: 10px;
+
+                    .ChiTiet-img {
+                        width: 35%;
+
+                        .slick-slider {
+                            .slick-list {
+                                .slick-track {
+                                    .slick-slide {
+                                        div {
+                                            div {
+                                                img {
+                                                    width: 100%;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            .slick-dots {
+                                padding: 0;
+                                height: 90px;
+                                position: unset;
+
+                                .dots-icon {
+                                    display: flex;
+                                    gap: 5px;
+                                    height: 100%;
+
+                                    .slick-active {
+                                        border-radius: 5px;
+                                        border: 2px solid #ee0000;
+                                    }
+
+                                    li {
+                                        height: 100%;
+                                        margin: 0;
+                                        width: 25%;
+                                        list-style: none;
+
+
+                                        .dots-item {
+                                            width: 100% !important;
+                                            height: 100%;
+
+                                            img {
+                                                width: 100%;
+                                                height: 100%;
+                                                border: 1px solid rgb(226, 226, 226);
+                                                border-radius: 5px;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .ChiTiet-info {
+                        width: 40%;
+
+                        .ChiTiet-info-thongtin {
+                            p {
+                                margin-bottom: 5px;
+
+                                span {
+
+                                    font-weight: 700;
+                                }
+                            }
+
+                            .gia {
+                                font-weight: 600;
+                                font-size: 23px;
+                                color: #ee0000;
+
+                            }
+
+                            .mau {
+                                display: flex;
+                                gap: 5px;
+                                cursor: pointer;
+
+                                li {
+                                    border-radius: 5px;
+                                    background-color: #ee0000;
+                                    width: 60px;
+                                    height: 30px;
+                                    list-style: none;
+                                }
+                            }
+
+                            .dungluong {
+                                cursor: pointer;
+                                list-style: none;
+                                display: flex;
+                                gap: 5px;
+
+                                .active {
+                                    color: #ee0000;
+                                    border: 1px solid #ee0000;
+                                }
+
+                                li {
+                                    border-radius: 5px;
+                                    font-size: 14px;
+                                    color: rgb(73, 73, 73);
+                                    padding: 5px;
+                                    border: 1px solid rgb(116, 116, 116);
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-btn {
+                            margin-bottom: 10px;
+
+                            .ChiTiet-mua {
+                                cursor: pointer;
+                                background-color: #ee0000;
+                                padding: 5px;
+                                border-radius: 5px;
+                                color: white;
+                                text-align: center;
+                                transition: all 0.3s;
+                                margin-bottom: 8px;
+                                border: 1px solid #ee0000;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #ee0000;
+                                }
+
+                                .ChiTiet-muangay {
+                                    margin-bottom: 0;
+                                    text-transform: uppercase;
+                                    font-size: 19px;
+                                    font-weight: 500;
+                                }
+
+                                .ChiTiet-giao {
+                                    margin-bottom: 0;
+                                }
+                            }
+
+                            .ChiTiet-tuychon {
+                                display: flex;
+                                gap: 6px;
+                                width: 100%;
+                                color: white;
+                                text-align: center;
+
+                                .ChiTiet-yeuthich {
+                                    cursor: pointer;
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-tragop {
+                                    cursor: pointer;
+
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-sosanh {
+                                    cursor: pointer;
+                                    width: 10%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-chinhsach {
+                            text-align: center;
+
+                            .chinhsach-1 {
+                                margin-bottom: 0;
+
+                                span {
+                                    color: #ee0000;
+                                }
+                            }
+
+                            .chinhsach-2 {
+                                margin-bottom: 0;
+
+                                a {
+                                    text-decoration: none;
+                                    color: #1d72e0;
+                                }
+                            }
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+                    }
+
+                    .ChiTiet-quangcao {
+                        width: 25%;
+                        flex-direction: column;
+
+                        .quangcao-content {
+                            display: flex;
+                            gap: 5px;
+                            border-bottom: 1px solid rgb(223, 223, 223);
+                            margin-bottom: 10px;
+
+                            .quangcao-img {
+                                width: 20%;
+
+                                img {
+                                    border-radius: 5px;
+                                    border: 1px solid rgb(209, 209, 209);
+                                    width: 100%;
+                                }
+                            }
+
+                            .quangcao-title {
+                                width: 80%;
+
+                                h6 {
+                                    font-size: 14px;
+                                    font-weight: 600;
+                                    margin-bottom: 0;
+                                }
+
+                                p {
+                                    font-size: 12px;
+                                    margin-bottom: 0;
+
+                                }
+                            }
+                        }
+
+                        img {
+                            width: 100%;
+                        }
+                    }
+
+                }
+            }
+
+            .macbookBanner {
+                padding: 0;
+                margin-bottom: 10px;
+
+            }
+
+            .thongSo_tinTuc {
+                display: flex;
+                flex-direction: row;
+                gap: 10px;
+                width: 100%;
+                margin-bottom: 10px;
+
+                .thongSo {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 50%;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .thongSo_content {
+                        text-align: center;
+
+                        table {
+                            width: 100%;
+                            margin-bottom: 10px;
+
+                            tbody {
+                                text-align: left;
+                                width: 100%;
+
+                                tr {
+                                    border: 1px solid rgb(206, 206, 206);
+
+                                    th {
+                                        border-right: 1px solid rgb(206, 206, 206);
+                                        padding: 14px;
+                                        width: 35%;
+                                        font-weight: 600;
+                                    }
+
+                                    td {
+                                        padding: 14px;
+                                        width: 65%;
+
+                                    }
+                                }
+                            }
+                        }
+
+                        .thongSo_baiViet {
+                            display: none;
+                            text-align: left;
+
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+
+                        a {
+                            color: #414141;
+                            text-decoration: none;
+                            text-align: center;
+                            padding: 7px 25px;
+                            font-size: 15px;
+                            border-radius: 5px;
+                            background: none;
+                            border: 1px solid rgb(94, 94, 94);
+                            transition: all 0.3s;
+
+                            &:hover {
+                                border: 1px solid #ee0000;
+                                color: #ee0000;
+                            }
+                        }
+                    }
+                }
+
+                .tinTuc {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 50%;
+                    height: 550px;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .tinTuc_content {
+                        display: flex;
+                        width: 100%;
+                        gap: 10px;
+                        cursor: pointer;
+                        transition: all 0.3s;
+
+                        .tinTuc_img {
+                            width: 20%;
+
+                            img {
+                                border-radius: 5px;
+                                width: 100%;
+                            }
+                        }
+
+                        .tinTuc_text {
+                            width: 80%;
+
+                            p {
+                                margin-bottom: 0;
+                            }
+                        }
+
+                        &:not(:first-child) {
+                            margin-top: 10px;
+                        }
+
+                        &:hover {
+                            color: #ee0000;
+                        }
+                    }
+
+
+                }
+            }
+
+            //phần đã xem
+            .ChiTiet-daXem {
+                width: 100%;
+                height: 100%;
+                margin-bottom: 20px;
+
+                .ChiTiet-daXem-title {
+                    p {
+                        position: relative;
+                        width: 100%;
+                        margin: 0 auto;
+                        text-align: center;
+                        margin-bottom: 0;
+                        background-color: #d4d7d9;
+                        color: black;
+                        font-size: 20px;
+                        font-weight: 500;
+                        padding: 10px 0;
+                        text-transform: uppercase;
+                    }
+                }
+
+                .ChiTiet__carousel {
+                    width: 100%;
+                    position: relative;
+                    height: 310px;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+                    background-color: white;
+                    border-radius: 0 0 5px 5px;
+
+                    .slick-slider {
+                        .fa-chevron-left {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            position: absolute;
+                            color: rgb(153, 152, 152);
+                            top: 35%;
+                            left: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 0 80% 80% 0;
+                        }
+
+                        .fa-chevron-right {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            color: rgb(153, 152, 152);
+                            position: absolute;
+                            top: 35%;
+                            right: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 80% 0 0 80%;
+                        }
+
+                        .slick-list {
+                            height: 100%;
+
+                            .slick-track {
+                                height: 100%;
+
+                                width: 100%;
+                                margin-left: 0;
+                                margin-right: 0;
+
+
+
+                                .slick-slide {
+                                    // &:hover div>a>.products-item {
+                                    //     background-color: white;
+
+                                    //     position: absolute;
+                                    //     z-index: 50;
+                                    // }
+
+
+                                    div {
+                                        a {
+                                            position: relative;
+                                            color: black;
+                                            text-decoration: none;
+
+
+
+                                            .products-item {
+                                                // height: 100%;
+                                                z-index: 50;
+                                                background-color: white;
+                                                padding: 10px;
+                                                position: relative;
+
+                                                &:hover {
+                                                    border: 1px solid #e6e6e6;
+                                                    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                                }
+
+                                                &:hover .products-item-button {
+                                                    display: flex;
+                                                }
+
+                                                .products-item-img {
+                                                    height: 200px;
+
+                                                    img {
+                                                        width: 100%;
+                                                        height: 100%;
+                                                    }
+                                                }
+
+                                                .products-item-text {
+                                                    margin-bottom: 10px;
+
+                                                    p {
+                                                        margin-bottom: 0;
+                                                        transition: all 0.3s;
+
+                                                        &:hover {
+                                                            color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    span {
+                                                        color: #006ab7;
+                                                    }
+                                                }
+
+                                                .products-item-button {
+                                                    display: none;
+                                                    width: 100%;
+                                                    gap: 7px;
+
+                                                    .chiTiet {
+                                                        width: 50%;
+                                                        padding: 3px;
+                                                        border-radius: 4px;
+                                                        border: none;
+                                                        color: white;
+                                                        background-color: #cb1c22;
+
+                                                        &:hover {
+                                                            background-color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    .yeuThich {
+                                                        padding: 3px;
+                                                        width: 50%;
+                                                        border-radius: 2px;
+                                                        color: white;
+                                                        border: none;
+                                                        background-color: #a8a8a8;
+
+                                                        &:hover {
+                                                            background-color: #838383;
+                                                        }
+                                                    }
+                                                }
+                                            }
                                         }
                                     }
                                 }
@@ -2742,6 +4237,740 @@
 
     }
 
+    .mainDetail {
+        width: 100%;
+
+        .Detail {
+            width: 1200px;
+
+            margin: 0 auto;
+
+            .Detail-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .Detail-name {}
+
+            .macbookBanner {}
+
+            .Detail-product {
+
+
+                .Detail__content {
+                    width: 100%;
+                    height: 940px;
+                    background-color: white;
+                    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.15);
+                    border-radius: 5px;
+
+                    .Detail__content-products {
+                        .products {
+                            display: grid;
+                            grid-template-columns: repeat(5, 1fr);
+
+                            a {
+                                .products-item {
+                                    .products-item-img {
+                                        img {
+                                            height: 220px;
+                                        }
+                                    }
+
+                                    .products-item-text {
+                                        p {}
+
+                                        span {}
+                                    }
+
+                                    .products-item-button {
+                                        .chiTiet {}
+
+                                        .yeuThich {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            //phần đã xem
+            .Detail-daXem {
+
+                .Detail-daXem-title {
+                    p {}
+                }
+
+                .Detail__carousel {
+                    .slick-slider {
+                        .fa-chevron-left {}
+
+                        .fa-chevron-right {}
+
+                        .slick-list {
+                            .slick-track {
+                                .slick-slide {
+                                    div {
+                                        a {
+                                            .products-item {
+                                                .products-item-img {
+                                                    img {}
+                                                }
+
+                                                .products-item-text {
+
+                                                    p {}
+
+                                                    span {}
+                                                }
+
+                                                .products-item-button {
+                                                    .chiTiet {}
+
+                                                    .yeuThich {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mainChiTiet {
+        width: 100%;
+
+        .ChiTiet {
+            width: 1200px;
+            margin: 0 auto;
+
+            .ChiTiet-index {
+                margin: 20px 0;
+
+                p {
+                    a {
+                        color: black;
+                    }
+
+                    span {
+                        color: #ee0000;
+                    }
+                }
+            }
+
+            .ChiTiet-content {
+                border-radius: 5px;
+                background-color: white;
+                padding: 5px 10px;
+                margin-bottom: 10px;
+                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+
+                .ChiTiet-name {
+                    border-bottom: 1px solid rgb(175, 175, 175);
+
+                    h3 {
+                        font-size: 22px;
+                        font-weight: 600;
+
+                    }
+                }
+
+                .ChiTiet-product {
+                    display: flex;
+                    // grid-template-columns: 35% 40% 25%;
+                    margin-top: 10px;
+                    gap: 10px;
+
+                    .ChiTiet-img {
+                        width: 35%;
+
+                        .slick-slider {
+                            .slick-list {
+                                .slick-track {
+                                    .slick-slide {
+                                        div {
+                                            div {
+                                                img {
+                                                    width: 100%;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+
+                            .slick-dots {
+                                padding: 0;
+                                height: 90px;
+                                position: unset;
+
+                                .dots-icon {
+                                    display: flex;
+                                    gap: 5px;
+                                    height: 100%;
+
+                                    .slick-active {
+                                        border-radius: 5px;
+                                        border: 2px solid #ee0000;
+                                    }
+
+                                    li {
+                                        height: 100%;
+                                        margin: 0;
+                                        width: 25%;
+                                        list-style: none;
+
+
+                                        .dots-item {
+                                            width: 100% !important;
+                                            height: 100%;
+
+                                            img {
+                                                width: 100%;
+                                                height: 100%;
+                                                border: 1px solid rgb(226, 226, 226);
+                                                border-radius: 5px;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .ChiTiet-info {
+                        width: 40%;
+
+                        .ChiTiet-info-thongtin {
+                            p {
+                                margin-bottom: 5px;
+
+                                span {
+
+                                    font-weight: 700;
+                                }
+                            }
+
+                            .gia {
+                                font-weight: 600;
+                                font-size: 23px;
+                                color: #ee0000;
+
+                            }
+
+                            .mau {
+                                display: flex;
+                                gap: 5px;
+                                cursor: pointer;
+
+                                li {
+                                    border-radius: 5px;
+                                    background-color: #ee0000;
+                                    width: 60px;
+                                    height: 30px;
+                                    list-style: none;
+                                }
+                            }
+
+                            .dungluong {
+                                cursor: pointer;
+                                list-style: none;
+                                display: flex;
+                                gap: 5px;
+
+                                .active {
+                                    color: #ee0000;
+                                    border: 1px solid #ee0000;
+                                }
+
+                                li {
+                                    border-radius: 5px;
+                                    font-size: 14px;
+                                    color: rgb(73, 73, 73);
+                                    padding: 5px;
+                                    border: 1px solid rgb(116, 116, 116);
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-btn {
+                            margin-bottom: 10px;
+
+                            .ChiTiet-mua {
+                                cursor: pointer;
+                                background-color: #ee0000;
+                                padding: 5px;
+                                border-radius: 5px;
+                                color: white;
+                                text-align: center;
+                                transition: all 0.3s;
+                                margin-bottom: 8px;
+                                border: 1px solid #ee0000;
+
+                                &:hover {
+                                    background-color: white;
+                                    color: #ee0000;
+                                }
+
+                                .ChiTiet-muangay {
+                                    margin-bottom: 0;
+                                    text-transform: uppercase;
+                                    font-size: 19px;
+                                    font-weight: 500;
+                                }
+
+                                .ChiTiet-giao {
+                                    margin-bottom: 0;
+                                }
+                            }
+
+                            .ChiTiet-tuychon {
+                                display: flex;
+                                gap: 6px;
+                                width: 100%;
+                                color: white;
+                                text-align: center;
+
+                                .ChiTiet-yeuthich {
+                                    cursor: pointer;
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-tragop {
+                                    cursor: pointer;
+
+                                    width: 45%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+
+                                .ChiTiet-sosanh {
+                                    cursor: pointer;
+                                    width: 10%;
+                                    background-color: #1d72e0;
+                                    border-radius: 5px;
+                                    padding: 7px 0;
+                                    transition: all 0.3s;
+                                    border: 1px solid #1d72e0;
+
+                                    &:hover {
+                                        background-color: white;
+                                        color: #1d72e0;
+                                    }
+                                }
+                            }
+                        }
+
+                        .ChiTiet-info-chinhsach {
+                            text-align: center;
+
+                            .chinhsach-1 {
+                                margin-bottom: 0;
+
+                                span {
+                                    color: #ee0000;
+                                }
+                            }
+
+                            .chinhsach-2 {
+                                margin-bottom: 0;
+
+                                a {
+                                    text-decoration: none;
+                                    color: #1d72e0;
+                                }
+                            }
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+                    }
+
+                    .ChiTiet-quangcao {
+                        width: 25%;
+
+                        .quangcao-content {
+                            display: flex;
+                            gap: 5px;
+                            border-bottom: 1px solid rgb(223, 223, 223);
+                            margin-bottom: 10px;
+
+                            .quangcao-img {
+                                width: 20%;
+
+                                img {
+                                    border-radius: 5px;
+                                    border: 1px solid rgb(209, 209, 209);
+                                    width: 100%;
+                                }
+                            }
+
+                            .quangcao-title {
+                                width: 80%;
+
+                                h6 {
+                                    font-size: 14px;
+                                    font-weight: 600;
+                                    margin-bottom: 0;
+                                }
+
+                                p {
+                                    font-size: 12px;
+                                    margin-bottom: 0;
+
+                                }
+                            }
+                        }
+
+                        img {
+                            width: 100%;
+                        }
+                    }
+
+                }
+            }
+
+            .macbookBanner {
+                padding: 0;
+                margin-bottom: 10px;
+
+            }
+
+            .thongSo_tinTuc {
+
+                display: flex;
+                gap: 10px;
+                width: 100%;
+                margin-bottom: 10px;
+
+                .thongSo {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 50%;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .thongSo_content {
+                        text-align: center;
+
+                        table {
+                            width: 100%;
+                            margin-bottom: 10px;
+
+                            tbody {
+                                text-align: left;
+                                width: 100%;
+
+                                tr {
+                                    border: 1px solid rgb(206, 206, 206);
+
+                                    th {
+                                        border-right: 1px solid rgb(206, 206, 206);
+                                        padding: 14px;
+                                        width: 35%;
+                                        font-weight: 600;
+                                    }
+
+                                    td {
+                                        padding: 14px;
+                                        width: 65%;
+
+                                    }
+                                }
+                            }
+                        }
+
+                        .thongSo_baiViet {
+                            display: none;
+                            text-align: left;
+
+
+                            img {
+                                width: 100%;
+                            }
+                        }
+
+                        a {
+                            color: #414141;
+                            text-decoration: none;
+                            text-align: center;
+                            padding: 7px 25px;
+                            font-size: 15px;
+                            border-radius: 5px;
+                            background: none;
+                            border: 1px solid rgb(94, 94, 94);
+                            transition: all 0.3s;
+
+                            &:hover {
+                                border: 1px solid #ee0000;
+                                color: #ee0000;
+                            }
+                        }
+                    }
+                }
+
+                .tinTuc {
+                    padding: 10px;
+                    border-radius: 5px;
+                    background-color: white;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+                    width: 50%;
+                    height: 550px;
+
+                    h4 {
+                        font-size: 22px;
+                        font-weight: 600;
+                    }
+
+                    .tinTuc_content {
+                        display: flex;
+                        width: 100%;
+                        gap: 10px;
+                        cursor: pointer;
+                        transition: all 0.3s;
+
+                        .tinTuc_img {
+                            width: 20%;
+
+                            img {
+                                border-radius: 5px;
+                                width: 100%;
+                            }
+                        }
+
+                        .tinTuc_text {
+                            width: 80%;
+
+                            p {
+                                margin-bottom: 0;
+                            }
+                        }
+
+                        &:not(:first-child) {
+                            margin-top: 10px;
+                        }
+
+                        &:hover {
+                            color: #ee0000;
+                        }
+                    }
+
+
+                }
+            }
+
+            //phần đã xem
+            .ChiTiet-daXem {
+                width: 100%;
+                height: 100%;
+                margin-bottom: 20px;
+
+                .ChiTiet-daXem-title {
+                    p {
+                        position: relative;
+                        width: 100%;
+                        margin: 0 auto;
+                        text-align: center;
+                        margin-bottom: 0;
+                        background-color: #d4d7d9;
+                        color: black;
+                        font-size: 20px;
+                        font-weight: 500;
+                        padding: 10px 0;
+                        text-transform: uppercase;
+                    }
+                }
+
+                .ChiTiet__carousel {
+                    width: 100%;
+                    position: relative;
+                    height: 310px;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+                    background-color: white;
+                    border-radius: 0 0 5px 5px;
+
+                    .slick-slider {
+                        .fa-chevron-left {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            position: absolute;
+                            color: rgb(153, 152, 152);
+                            top: 35%;
+                            left: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 0 80% 80% 0;
+                        }
+
+                        .fa-chevron-right {
+                            cursor: pointer;
+                            padding: 20px 10px;
+                            display: block;
+                            font-size: 23px;
+                            color: rgb(153, 152, 152);
+                            position: absolute;
+                            top: 35%;
+                            right: 0;
+                            background-color: white;
+                            z-index: 1;
+                            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                            border-radius: 80% 0 0 80%;
+                        }
+
+                        .slick-list {
+                            height: 100%;
+
+                            .slick-track {
+                                height: 100%;
+
+                                width: 100%;
+                                margin-left: 0;
+                                margin-right: 0;
+
+
+
+                                .slick-slide {
+                                    // &:hover div>a>.products-item {
+                                    //     background-color: white;
+
+                                    //     position: absolute;
+                                    //     z-index: 50;
+                                    // }
+
+
+                                    div {
+                                        a {
+                                            position: relative;
+                                            color: black;
+                                            text-decoration: none;
+
+
+
+                                            .products-item {
+                                                // height: 100%;
+                                                z-index: 50;
+                                                background-color: white;
+                                                padding: 10px;
+                                                position: relative;
+
+                                                &:hover {
+                                                    border: 1px solid #e6e6e6;
+                                                    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+                                                }
+
+                                                &:hover .products-item-button {
+                                                    display: flex;
+                                                }
+
+                                                .products-item-img {
+                                                    height: 200px;
+
+                                                    img {
+                                                        width: 100%;
+                                                        height: 100%;
+                                                    }
+                                                }
+
+                                                .products-item-text {
+                                                    margin-bottom: 10px;
+
+                                                    p {
+                                                        margin-bottom: 0;
+                                                        transition: all 0.3s;
+
+                                                        &:hover {
+                                                            color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    span {
+                                                        color: #006ab7;
+                                                    }
+                                                }
+
+                                                .products-item-button {
+                                                    display: none;
+                                                    width: 100%;
+                                                    gap: 7px;
+
+                                                    .chiTiet {
+                                                        width: 50%;
+                                                        padding: 3px;
+                                                        border-radius: 4px;
+                                                        border: none;
+                                                        color: white;
+                                                        background-color: #cb1c22;
+
+                                                        &:hover {
+                                                            background-color: #ee0000;
+                                                        }
+                                                    }
+
+                                                    .yeuThich {
+                                                        padding: 3px;
+                                                        width: 50%;
+                                                        border-radius: 2px;
+                                                        color: white;
+                                                        border: none;
+                                                        background-color: #a8a8a8;
+
+                                                        &:hover {
+                                                            background-color: #838383;
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 
     footer {
         .footer__top {

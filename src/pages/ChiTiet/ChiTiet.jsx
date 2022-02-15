@@ -19,12 +19,24 @@ export default function ChiTiet(props) {
   useEffect(() => {
     dispatch(action);
   }, []);
-  console.log("renderProduct", renderProduct);
+  // console.log("renderProduct", renderProduct[0].chiTiet);
 
   let [BtnValue, setBtnValue] = useState(true);
   const samSungReal = useSelector(
     (state) => state.ListMobileReducer.listMobile[10]
   );
+
+  //render gio hang khi click mua hang
+  const renderGioHang = () => {
+    const idAction = renderProduct[0].chiTiet;
+    const action2 = {
+      type: "RENDER_GIO_HANG",
+      data: idAction,
+    };
+    console.log("sddasdasdasdasdasdasdasdad", action2);
+    dispatch(action2);
+  };
+
   //render bạn đã xem
   const rendersamSungReal = () => {
     return samSungReal.danhSachSP.map((sp, index) => {
@@ -224,7 +236,7 @@ export default function ChiTiet(props) {
               </div>
 
               <div className="ChiTiet-info-btn">
-                <div className="ChiTiet-mua">
+                <div onClick={() => renderGioHang()} className="ChiTiet-mua">
                   <p className="ChiTiet-muangay">mua ngay</p>
                   <p className="ChiTiet-giao">
                     Giao tận nơi hoặc nhận tại cửa hàng
@@ -266,7 +278,10 @@ export default function ChiTiet(props) {
               </div>
               <div className="quangcao-content">
                 <div className="quangcao-img">
-                  <img src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/product_main_policy_2_img.jpg?1642391593337" />
+                  <img
+                    src="https://bizweb.dktcdn.net/100/434/290/themes/832160/assets/product_main_policy_2_img.jpg?1642391593337"
+                    alt=""
+                  />
                 </div>
                 <div className="quangcao-title">
                   <h6>Apple Watch Series 3 38MM GPS VN/A</h6>
@@ -286,7 +301,9 @@ export default function ChiTiet(props) {
                   </p>
                 </div>
               </div>
-              <img src="https://cdn.cellphones.com.vn/media/wysiwyg/tet-400x100.gif"></img>
+              <div className="quangcao-img2">
+                <img src="https://cdn.cellphones.com.vn/media/wysiwyg/tet-400x100.gif"></img>
+              </div>
             </div>
           </div>
         </div>

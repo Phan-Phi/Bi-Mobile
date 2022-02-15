@@ -1,0 +1,140 @@
+.listProduct {
+  width: 100%;
+  margin: 20px auto;
+  padding: 0 10px;
+}
+
+.listProduct .listProduct__content img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 80%;
+      grid-template-columns: 20% 80%;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.096);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.096);
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .shadow {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .shadow:hover {
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+  z-index: 2;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content {
+  background-color: white;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 20px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 0.5px solid #e7e7e7;
+  height: 100%;
+  text-decoration: none;
+  color: black;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP img {
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP p {
+  margin-bottom: 0;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP .link-head:hover {
+  color: #ee0000;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .SP__content--NewSP .link-text {
+  margin-top: 5px;
+  color: #a8a8a8;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-decoration: none;
+  border: 0.5px solid #e7e7e7;
+  color: black;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content:hover {
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.199);
+  z-index: 2;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content:hover .listSP__content--text > p {
+  color: #ee0000;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--img {
+  width: 35%;
+  height: 100%;
+  margin-right: 5px;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--img img {
+  width: 87%;
+  margin-bottom: 0;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text {
+  width: 65%;
+  font-size: 15px;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text p {
+  margin-bottom: 0;
+}
+
+.listProduct .listProduct__content .listProduct__content--SP .SP .SP__content .listProduct__content--listSP .listSP__content .listSP__content--text .link-text {
+  margin-top: 5px;
+  color: #a8a8a8;
+}
+/*# sourceMappingURL=listProduct.css.map */

@@ -1,9 +1,40 @@
 import React from "react";
+import { useSelector } from "react-redux";
 import { NavLink } from "react-router-dom";
 import "../../styles/header.scss";
 let menuConNav = true;
 let menuChauNavs = true;
 export default function Header() {
+  const gioHang = useSelector((state) => state.GioHangReducer.GioHang);
+  console.log("gioHang", gioHang);
+
+  const GioHangSP = () => {
+    return gioHang.map((gh, index) => {
+      return (
+        <div key={index} className="product_content">
+          <div className="product_img">
+            <img src={gh.hinhSP[0].img} alt="" />
+          </div>
+          <div className="product_text">
+            <p>{gh.tenSP}</p>
+            <div className="soluong_gia">
+              <div className="soluong">
+                <p>Số lượng:</p>
+                <p className="soluong_so">
+                  <span>-</span>1<span>+</span>
+                </p>
+              </div>
+              <div className="gia">
+                <p className="gia_gia">{gh.giaSP}</p>
+                <p className="gia_bo">Bỏ sản phẩm</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
+    });
+  };
+
   const BtnGioHang = () => {
     const Hdisplay = document.querySelector(".headerDisplay");
     const HgioHang = document.querySelector(".headerGioHang");
@@ -123,7 +154,9 @@ export default function Header() {
           </div>
         </div>
       </section>
+
       <div onClick={() => closeDisplay()} className="headerDisplay"></div>
+
       <div className="headerGioHang">
         <div className="headerGioHang_head">
           <p>Giỏ hàng</p>
@@ -132,7 +165,7 @@ export default function Header() {
           </p>
         </div>
 
-        <div className="headerGioHang_product"></div>
+        <div className="headerGioHang_product">{GioHangSP()}</div>
 
         <div className="headerGioHang_footer">
           <hr />

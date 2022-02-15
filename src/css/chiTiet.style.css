@@ -1,0 +1,595 @@
+.mainChiTiet {
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-index {
+  margin: 20px 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-index p a {
+  color: black;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-index p span {
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content {
+  border-radius: 5px;
+  background-color: white;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-name {
+  border-bottom: 1px solid #afafaf;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-name h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img {
+  width: 35%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-list .slick-track .slick-slide div div img {
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots {
+  padding: 0;
+  height: 90px;
+  position: unset;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots .dots-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 5px;
+  height: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots .dots-icon .slick-active {
+  border-radius: 5px;
+  border: 2px solid #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots .dots-icon li {
+  height: 100%;
+  margin: 0;
+  width: 25%;
+  list-style: none;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots .dots-icon li .dots-item {
+  width: 100% !important;
+  height: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-img .slick-slider .slick-dots .dots-icon li .dots-item img {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #e2e2e2;
+  border-radius: 5px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info {
+  width: 40%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin p {
+  margin-bottom: 5px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin p span {
+  font-weight: 700;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .gia {
+  font-weight: 600;
+  font-size: 23px;
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .mau {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .mau li {
+  border-radius: 5px;
+  background-color: #ee0000;
+  width: 60px;
+  height: 30px;
+  list-style: none;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .dungluong {
+  cursor: pointer;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 5px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .dungluong .active {
+  color: #ee0000;
+  border: 1px solid #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-thongtin .dungluong li {
+  border-radius: 5px;
+  font-size: 14px;
+  color: #494949;
+  padding: 5px;
+  border: 1px solid #747474;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn {
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-mua {
+  cursor: pointer;
+  background-color: #ee0000;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-bottom: 8px;
+  border: 1px solid #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-mua:hover {
+  background-color: white;
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-mua .ChiTiet-muangay {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-mua .ChiTiet-giao {
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 6px;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-yeuthich {
+  cursor: pointer;
+  width: 45%;
+  background-color: #1d72e0;
+  border-radius: 5px;
+  padding: 7px 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-yeuthich:hover {
+  background-color: white;
+  color: #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-tragop {
+  cursor: pointer;
+  width: 45%;
+  background-color: #1d72e0;
+  border-radius: 5px;
+  padding: 7px 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-tragop:hover {
+  background-color: white;
+  color: #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-sosanh {
+  cursor: pointer;
+  width: 10%;
+  background-color: #1d72e0;
+  border-radius: 5px;
+  padding: 7px 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-btn .ChiTiet-tuychon .ChiTiet-sosanh:hover {
+  background-color: white;
+  color: #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach {
+  text-align: center;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach .chinhsach-1 {
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach .chinhsach-1 span {
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach .chinhsach-2 {
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach .chinhsach-2 a {
+  text-decoration: none;
+  color: #1d72e0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-info .ChiTiet-info-chinhsach img {
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao {
+  width: 25%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 5px;
+  border-bottom: 1px solid #dfdfdf;
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content .quangcao-img {
+  width: 20%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content .quangcao-img img {
+  border-radius: 5px;
+  border: 1px solid #d1d1d1;
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content .quangcao-title {
+  width: 80%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content .quangcao-title h6 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao .quangcao-content .quangcao-title p {
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-content .ChiTiet-product .ChiTiet-quangcao img {
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .macbookBanner {
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+  width: 50%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo h4 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content {
+  text-align: center;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content table {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content table tbody {
+  text-align: left;
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content table tbody tr {
+  border: 1px solid #cecece;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content table tbody tr th {
+  border-right: 1px solid #cecece;
+  padding: 14px;
+  width: 35%;
+  font-weight: 600;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content table tbody tr td {
+  padding: 14px;
+  width: 65%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content .thongSo_baiViet {
+  display: none;
+  text-align: left;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content .thongSo_baiViet img {
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content a {
+  color: #414141;
+  text-decoration: none;
+  text-align: center;
+  padding: 7px 25px;
+  font-size: 15px;
+  border-radius: 5px;
+  background: none;
+  border: 1px solid #5e5e5e;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .thongSo .thongSo_content a:hover {
+  border: 1px solid #ee0000;
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+  width: 50%;
+  height: 550px;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc h4 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  gap: 10px;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content .tinTuc_img {
+  width: 20%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content .tinTuc_img img {
+  border-radius: 5px;
+  width: 100%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content .tinTuc_text {
+  width: 80%;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content .tinTuc_text p {
+  margin-bottom: 0;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content:not(:first-child) {
+  margin-top: 10px;
+}
+
+.mainChiTiet .ChiTiet .thongSo_tinTuc .tinTuc .tinTuc_content:hover {
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 20px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet-daXem-title p {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 0;
+  background-color: #d4d7d9;
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px 0;
+  text-transform: uppercase;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel {
+  width: 100%;
+  position: relative;
+  height: 310px;
+  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+          box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.082);
+  background-color: white;
+  border-radius: 0 0 5px 5px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .fa-chevron-left {
+  cursor: pointer;
+  padding: 20px 10px;
+  display: block;
+  font-size: 23px;
+  position: absolute;
+  color: #999898;
+  top: 35%;
+  left: 0;
+  background-color: white;
+  z-index: 1;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 0 80% 80% 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .fa-chevron-right {
+  cursor: pointer;
+  padding: 20px 10px;
+  display: block;
+  font-size: 23px;
+  color: #999898;
+  position: absolute;
+  top: 35%;
+  right: 0;
+  background-color: white;
+  z-index: 1;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 80% 0 0 80%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list {
+  height: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track {
+  height: 100%;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item {
+  z-index: 50;
+  background-color: white;
+  padding: 10px;
+  position: relative;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item:hover {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item:hover .products-item-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-img {
+  height: 200px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text {
+  margin-bottom: 10px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text p {
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text p:hover {
+  color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-text span {
+  color: #006ab7;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button {
+  display: none;
+  width: 100%;
+  gap: 7px;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .chiTiet {
+  width: 50%;
+  padding: 3px;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  background-color: #cb1c22;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .chiTiet:hover {
+  background-color: #ee0000;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .yeuThich {
+  padding: 3px;
+  width: 50%;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  background-color: #a8a8a8;
+}
+
+.mainChiTiet .ChiTiet .ChiTiet-daXem .ChiTiet__carousel .slick-slider .slick-list .slick-track .slick-slide div a .products-item .products-item-button .yeuThich:hover {
+  background-color: #838383;
+}
+/*# sourceMappingURL=chiTiet.style.css.map */

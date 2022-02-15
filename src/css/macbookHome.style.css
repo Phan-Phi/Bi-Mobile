@@ -1,0 +1,384 @@
+.macbookBanner {
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
+
+.macbookBanner .macbookBanner__content {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 20px;
+}
+
+.macbookBanner .macbookBanner__content .content-item {
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  height: 100%;
+}
+
+.macbookBanner .macbookBanner__content .content-item img {
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+
+.macbook {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.macbook .macbook__content {
+  width: 100%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div {
+  border-bottom: 2px solid #ee0000;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--tieuDe {
+  width: 60%;
+  height: 100%;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--tieuDe p {
+  position: relative;
+  text-align: center;
+  width: 31%;
+  background-color: #ee0000;
+  color: white;
+  font-weight: 500;
+  text-transform: uppercase;
+  z-index: 1;
+  margin-bottom: 0;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--tieuDe p::after {
+  z-index: -1;
+  position: absolute;
+  content: '';
+  top: 0;
+  bottom: 0;
+  left: 23px;
+  right: -23px;
+  background-color: inherit;
+  -webkit-transform: skew(23deg);
+          transform: skew(23deg);
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--navLink {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--navLink:hover {
+  color: #ffab41;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .macbook--navLink p {
+  margin-bottom: 0;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .active {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #ffab41;
+  margin-right: 20px;
+}
+
+.macbook .macbook__content .macbook__content-tieuDe div .active:hover {
+  color: #ee0000;
+}
+
+.macbook .macbook__content .macbook__content-products .products {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+}
+
+.macbook .macbook__content .macbook__content-products .products a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+.macbook .macbook__content .macbook__content-products .products a:hover .products-item {
+  background-color: white;
+  position: absolute;
+  z-index: 50;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item {
+  padding: 10px;
+  position: relative;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item:hover {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item:hover .products-item-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-img img {
+  width: 100%;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-text {
+  margin-bottom: 10px;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-text p {
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-text p:hover {
+  color: #ee0000;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-text span {
+  color: #006ab7;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-button {
+  display: none;
+  width: 100%;
+  gap: 7px;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-button .chiTiet {
+  text-align: center;
+  width: 50%;
+  padding: 3px;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  background-color: #cb1c22;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-button .chiTiet:hover {
+  background-color: #ee0000;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-button .yeuThich {
+  padding: 3px;
+  width: 50%;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  background-color: #a8a8a8;
+}
+
+.macbook .macbook__content .macbook__content-products .products a .products-item .products-item-button .yeuThich:hover {
+  background-color: #838383;
+}
+
+.watch {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.watch .watch__content {
+  width: 100%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.watch .watch__content .watch__content-tieuDe div {
+  border-bottom: 2px solid #ee0000;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--tieuDe {
+  width: 60%;
+  height: 100%;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--tieuDe p {
+  position: relative;
+  text-align: center;
+  width: 31%;
+  background-color: #ee0000;
+  color: white;
+  font-weight: 500;
+  text-transform: uppercase;
+  z-index: 1;
+  margin-bottom: 0;
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--tieuDe p::after {
+  z-index: -1;
+  position: absolute;
+  content: '';
+  top: 0;
+  bottom: 0;
+  left: 23px;
+  right: -23px;
+  background-color: inherit;
+  -webkit-transform: skew(23deg);
+          transform: skew(23deg);
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--navLink {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--navLink:hover {
+  color: #ffab41;
+}
+
+.watch .watch__content .watch__content-tieuDe div .watch--navLink p {
+  margin-bottom: 0;
+}
+
+.watch .watch__content .watch__content-tieuDe div .active {
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  color: #ffab41;
+  margin-right: 20px;
+}
+
+.watch .watch__content .watch__content-tieuDe div .active:hover {
+  color: #ee0000;
+}
+
+.watch .watch__content .watch__content-products .products {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+}
+
+.watch .watch__content .watch__content-products .products a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+}
+
+.watch .watch__content .watch__content-products .products a:hover .products-item {
+  background-color: white;
+  position: absolute;
+  z-index: 50;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item {
+  padding: 10px;
+  position: relative;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item:hover {
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.watch .watch__content .watch__content-products .products a .products-item:hover .products-item-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-img img {
+  width: 100%;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-text {
+  margin-bottom: 10px;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-text p {
+  margin-bottom: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-text p:hover {
+  color: #ee0000;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-text span {
+  color: #006ab7;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-button {
+  display: none;
+  width: 100%;
+  gap: 7px;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-button .chiTiet {
+  text-align: center;
+  width: 50%;
+  padding: 3px;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  background-color: #cb1c22;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-button .chiTiet:hover {
+  background-color: #ee0000;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-button .yeuThich {
+  padding: 3px;
+  width: 50%;
+  border-radius: 2px;
+  color: white;
+  border: none;
+  background-color: #a8a8a8;
+}
+
+.watch .watch__content .watch__content-products .products a .products-item .products-item-button .yeuThich:hover {
+  background-color: #838383;
+}
+/*# sourceMappingURL=macbookHome.style.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "../styles/homeTemplate.style.scss"
+    ],
+    "names": [],
+    "file": "homeTemplate.style.css"
+}

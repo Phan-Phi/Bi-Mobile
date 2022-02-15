@@ -224,6 +224,64 @@ header {
             }
         }
 
+        .headerGioHang_product::-webkit-scrollbar {
+            overflow: hidden;
+            width: 1px;
+        }
+
+        .headerGioHang_product {
+            height: 75%;
+            overflow-y: scroll;
+
+            .product_content {
+                display: flex;
+                margin-bottom: 20px;
+
+                .product_img {
+                    width: 25%;
+
+                    img {
+                        width: 100%;
+                    }
+                }
+
+                .product_text {
+                    width: 75%;
+
+                    p {
+                        font-size: 15px;
+                        font-weight: 500;
+                        margin-bottom: 5px;
+                    }
+
+                    .soluong_gia {
+                        display: flex;
+                        justify-content: space-between;
+
+                        .soluong {
+                            .soluong_so {
+                                display: flex;
+                                justify-content: space-around;
+                                border: 1px solid rgb(230, 230, 230);
+                                font-size: 15px;
+                            }
+                        }
+
+                        .gia {
+                            .gia_gia {
+                                font-size: 19px;
+                                color: #006ab7;
+                            }
+
+                            .gia_bo {
+                                color: #d8351a
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
         .headerGioHang_footer {
             .giaTien {
                 display: flex;
