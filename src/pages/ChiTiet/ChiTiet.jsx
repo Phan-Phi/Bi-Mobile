@@ -33,7 +33,6 @@ export default function ChiTiet(props) {
       type: "RENDER_GIO_HANG",
       data: idAction,
     };
-    console.log("sddasdasdasdasdasdasdasdad", action2);
     dispatch(action2);
   };
 

@@ -264,6 +264,14 @@ header {
                                 justify-content: space-around;
                                 border: 1px solid rgb(230, 230, 230);
                                 font-size: 15px;
+
+                                .soluong_tru {
+                                    cursor: pointer;
+                                }
+
+                                .soluong_cong {
+                                    cursor: pointer;
+                                }
                             }
                         }
 
@@ -274,6 +282,8 @@ header {
                             }
 
                             .gia_bo {
+                                cursor: pointer;
+                                text-align: right;
                                 color: #d8351a
                             }
                         }

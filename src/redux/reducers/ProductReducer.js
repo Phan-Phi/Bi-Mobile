@@ -52,7 +52,7 @@ export const RenderProducts = (state = stateProduct, action) => {
       const dataNew = state.renderProducts.filter(
         (sp) => sp.chiTiet.id == action.data
       );
-      console.log("dataNewdataNew", dataNew);
+      // console.log("dataNewdataNew", dataNew);
       state.renderProduct = dataNew;
       return { ...state };
     }

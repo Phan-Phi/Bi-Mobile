@@ -1,15 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
+import { useDispatch } from "react-redux";
 import { useSelector } from "react-redux";
 import { NavLink } from "react-router-dom";
 import "../../styles/header.scss";
 let menuConNav = true;
 let menuChauNavs = true;
 export default function Header() {
+  const [count, setCount] = useState(0);
   const gioHang = useSelector((state) => state.GioHangReducer.GioHang);
-  console.log("gioHang", gioHang);
+  const dispatch = useDispatch();
 
-  const GioHangSP = () => {
-    return gioHang.map((gh, index) => {
+  const GioHangSP = (ghgh) => {
+    return ghgh.map((gh, index) => {
+      console.log("render lai");
       return (
         <div key={index} className="product_content">
           <div className="product_img">
@@ -21,18 +24,31 @@ export default function Header() {
               <div className="soluong">
                 <p>Số lượng:</p>
                 <p className="soluong_so">
-                  <span>-</span>1<span>+</span>
+                  <span className="soluong_tru">-</span>1
+                  <span className="soluong_cong">+</span>
                 </p>
               </div>
               <div className="gia">
-                <p className="gia_gia">{gh.giaSP}</p>
-                <p className="gia_bo">Bỏ sản phẩm</p>
+                <p className="gia_gia">{gh.giaSP.toLocaleString()}₫</p>
+                <p onClick={() => handleBoSanPham(gh.id)} className="gia_bo">
+                  Bỏ sản phẩm
+                </p>
               </div>
             </div>
           </div>
         </div>
       );
     });
+  };
+
+  const handleBoSanPham = (gh) => {
+    const action3 = {
+      type: "BO_SAN_PHAM",
+      data: gh,
+    };
+    dispatch(action3);
+    setCount(count + 1);
+    GioHangSP(gioHang);
   };
 
   const BtnGioHang = () => {
@@ -165,7 +181,7 @@ export default function Header() {
           </p>
         </div>
 
-        <div className="headerGioHang_product">{GioHangSP()}</div>
+        <div className="headerGioHang_product">{GioHangSP(gioHang)}</div>
 
         <div className="headerGioHang_footer">
           <hr />
