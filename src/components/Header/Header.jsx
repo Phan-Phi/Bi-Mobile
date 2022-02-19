@@ -9,7 +9,19 @@ export default function Header() {
   const [count, setCount] = useState(0);
   const gioHang = useSelector((state) => state.GioHangReducer.GioHang);
   const dispatch = useDispatch();
+  console.log("gioHang", gioHang);
 
+  //tinh tong gia cac san pham da chon
+  const tongTien = () => {
+    const sotien = (accumulator, currentValue) => {
+      return accumulator + currentValue.giaSP;
+    };
+    let total = gioHang.reduce(sotien, 0);
+
+    return total;
+  };
+
+  //render gio hang
   const GioHangSP = (ghgh) => {
     return ghgh.map((gh, index) => {
       console.log("render lai");
@@ -41,6 +53,7 @@ export default function Header() {
     });
   };
 
+  //nut bo san pham da chon
   const handleBoSanPham = (gh) => {
     const action3 = {
       type: "BO_SAN_PHAM",
@@ -187,9 +200,7 @@ export default function Header() {
           <hr />
           <div className="giaTien">
             <p>Tổng tiền:</p>
-            <p className="so">
-              30000000<span>₫</span>
-            </p>
+            <p className="so">{tongTien().toLocaleString()}₫</p>
           </div>
           <div className="thanhToan">
             <button>Thanh Toán</button>

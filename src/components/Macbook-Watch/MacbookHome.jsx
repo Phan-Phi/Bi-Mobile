@@ -120,7 +120,6 @@ export default function MacbookHome(props) {
       </section>
 
       {/* //watch */}
-
       <section className="watch">
         <div className="watch__content">
           <div className="watch__content-tieuDe">

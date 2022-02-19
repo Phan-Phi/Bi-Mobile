@@ -33,12 +33,23 @@
                     display: none;
                 }
 
+
+
                 .header__gioHang {
                     .textGioHang {
                         display: none;
                     }
                 }
+
+
+
             }
+
+
+        }
+
+        .headerGioHang {
+            width: 30%;
         }
     }
 
@@ -1477,9 +1488,30 @@
         }
     }
 
+    .mainLogin {
+        .Login {
+            .Login-index {
+                width: 70%;
+                margin: 20px auto;
+            }
+        }
+    }
+
+    .mainSignUp {
+        .SignUp {
+            .SignUp-index {
+                width: 70%;
+                margin: 20px auto;
+            }
+        }
+    }
+
+
+
     footer {
         .footer__top {
             width: 700px;
+
         }
     }
 }
@@ -2950,6 +2982,7 @@
             }
         }
     }
+
 
     footer {
         .footer__top {
