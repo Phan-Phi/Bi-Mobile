@@ -6,7 +6,7 @@ export default function Footer() {
     <footer>
       <section className="footer__top">
         <div className="footer__content">
-          <p className="footer__title">Apple AAR : Mimall Vietnam</p>
+          <p className="footer__title">Apple AAR : Bi-Mobile</p>
           <p className="footer__text">
             MST: 41N8046448 do UBND quận Tân Bình cấp ngày 16/6/2020
           </p>
