@@ -118,7 +118,7 @@ export default function Header() {
     }
   };
   return (
-    <header>
+    <header id="headerBacktoTOp">
       <section>
         <div className="header">
           <div className="navBar">
@@ -215,14 +215,10 @@ export default function Header() {
           </p>
           <div className="iconText">
             <p>
-              <NavLink to="#" class="login">
-                Đăng Nhập
-              </NavLink>
+              <NavLink to="/login">Đăng Nhập</NavLink>
             </p>
             <p>
-              <NavLink to="#" class="login">
-                Đăng Ký
-              </NavLink>
+              <NavLink to="/sign-up">Đăng Ký</NavLink>
             </p>
           </div>
         </div>

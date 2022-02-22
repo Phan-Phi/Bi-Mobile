@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import ListProduct from "../List-Product/List.Product";
 import NavHeroBanner from "../Nav-Hero/Nav.Hero.Banner";
 import "../../styles/home.style.scss";
@@ -12,8 +12,17 @@ export default function Home() {
   const arrayTongSP = useSelector(
     (state) => state.ListMobileReducer.listMobile
   );
-  // console.log("arrayTongWatch", arrayTongSP);
 
+  useEffect(() => {
+    const backToBottom = document.getElementById("backtotop");
+    window.addEventListener(
+      "scroll",
+      () => {
+        backToBottom.classList.add("active");
+      },
+      []
+    );
+  });
   return (
     <main className="main">
       <NavHeroBanner />
@@ -22,6 +31,11 @@ export default function Home() {
       <MacbookHome arrayWatch={arrayTongSP} />
       <AmThanhPhuKien tongAPI={arrayTongSP} />
       <TinTuc />
+      <div className="back-to-top">
+        <a href="#headerBacktoTOp">
+          <i id="backtotop" class="fas fa-angle-up"></i>
+        </a>
+      </div>
     </main>
   );
 }
